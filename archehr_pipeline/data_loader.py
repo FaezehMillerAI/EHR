@@ -64,11 +64,12 @@ class Case:
         return {s["id"]: s["text"] for s in self.sentences}
 
 
-def parse_cases_from_xml(split_dir: Path, with_key: bool = True) -> List[Case]:
+def parse_cases_from_xml(split_dir: Any, with_key: bool = True) -> List[Case]:
     """
     Parse cases from archehr-qa.xml and optional archehr-qa_key.json.
-    Works with standard library xml.etree.ElementTree.
+    Works with standard library xml.etree.ElementTree. Accepts str or Path.
     """
+    split_dir = Path(split_dir)
     xml_path = split_dir / "archehr-qa.xml"
     key_path = split_dir / "archehr-qa_key.json"
 
