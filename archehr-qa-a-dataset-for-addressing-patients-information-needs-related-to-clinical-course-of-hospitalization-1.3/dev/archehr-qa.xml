@@ -1,0 +1,3158 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<annotations>
+    <case id="1">
+        <clinical_specialty>
+gastroenterology
+        </clinical_specialty>
+        <patient_narrative>
+I had severe abdomen pain and was hospitalised for 15 days in ICU, diagnoised with CBD sludge thereafter on udiliv. Doctor advised for ERCP. My question is if the sludge was there does not the medication help in flushing it out? Whether ERCP was the only cure?
+        </patient_narrative>
+        <patient_question>
+            <phrase id="0" start_char_index="141">
+My question is if the sludge was there does not the medication help in flushing it out? Whether ERCP was the only cure?
+            </phrase>
+        </patient_question>
+        <clinician_question>
+Why was ERCP recommended to him over continuing a medication-based treatment?
+        </clinician_question>
+        <note_excerpt>
+Brief Hospital Course:
+
+During the ERCP a pancreatic stent was required to facilitate
+access to the biliary system (removed at the end of the
+procedure), and a common bile duct stent was placed to allow
+drainage of the biliary obstruction caused by stones and sludge.
+However, due to the patient's elevated INR, no sphincterotomy or
+stone removal was performed. Frank pus was noted to be draining
+from the common bile duct, and post-ERCP it was recommended that
+the patient remain on IV Zosyn for at least a week. The
+Vancomycin was discontinued.
+
+On hospital day 4 (post-procedure day 3) the patient returned to
+ERCP for re-evaluation of her biliary stent as her LFTs and
+bilirubin continued an upward trend. On ERCP the previous
+biliary stent was noted to be acutely obstructed by biliary
+sludge and stones. As the patient's INR was normalized to 1.2, a
+sphincterotomy was safely performed, with removal of several
+biliary stones in addition to the common bile duct stent. At the
+conclusion of the procedure, retrograde cholangiogram was
+negative for filling defects.
+        </note_excerpt>
+        <note_excerpt_sentences>
+            <sentence id="1" paragraph_id="1" start_char_index="0" length="22">
+Brief Hospital Course:
+            </sentence>
+            <sentence id="2" paragraph_id="2" start_char_index="0" length="243">
+During the ERCP a pancreatic stent was required to facilitate
+access to the biliary system (removed at the end of the
+procedure), and a common bile duct stent was placed to allow
+drainage of the biliary obstruction caused by stones and sludge.
+            </sentence>
+            <sentence id="3" paragraph_id="2" start_char_index="244" length="93">
+However, due to the patient's elevated INR, no sphincterotomy or
+stone removal was performed.
+            </sentence>
+            <sentence id="4" paragraph_id="2" start_char_index="338" length="151">
+Frank pus was noted to be draining
+from the common bile duct, and post-ERCP it was recommended that
+the patient remain on IV Zosyn for at least a week.
+            </sentence>
+            <sentence id="5" paragraph_id="2" start_char_index="490" length="32">
+The
+Vancomycin was discontinued.
+            </sentence>
+            <sentence id="6" paragraph_id="3" start_char_index="0" length="161">
+On hospital day 4 (post-procedure day 3) the patient returned to
+ERCP for re-evaluation of her biliary stent as her LFTs and
+bilirubin continued an upward trend.
+            </sentence>
+            <sentence id="7" paragraph_id="3" start_char_index="162" length="99">
+On ERCP the previous
+biliary stent was noted to be acutely obstructed by biliary
+sludge and stones.
+            </sentence>
+            <sentence id="8" paragraph_id="3" start_char_index="262" length="164">
+As the patient's INR was normalized to 1.2, a
+sphincterotomy was safely performed, with removal of several
+biliary stones in addition to the common bile duct stent.
+            </sentence>
+            <sentence id="9" paragraph_id="3" start_char_index="427" length="94">
+At the
+conclusion of the procedure, retrograde cholangiogram was
+negative for filling defects.
+            </sentence>
+        </note_excerpt_sentences>
+    </case>
+    <case id="2">
+        <clinical_specialty>
+cardiology
+        </clinical_specialty>
+        <patient_narrative>
+I just wrote about my dad given multiple shots of lasciks after he was already so swelled his shin looked like it would burst open. Why would they give him so much. He was on oxygen and they took him off of the higher flow rate.
+        </patient_narrative>
+        <patient_question>
+            <phrase id="0" start_char_index="22">
+dad given multiple shots of lasciks after he was already so swelled his shin looked like it would burst open. Why would they give him so much.
+            </phrase>
+        </patient_question>
+        <clinician_question>
+Why was he given lasix and his oxygen flow rate was reduced?
+        </clinician_question>
+        <note_excerpt>
+Brief Hospital Course:
+
+Acute diastolic heart failure: Pt developed signs and
+symptoms of volume overload on [**2201-3-8**] with shortness of breath,
+increased oxygen requirement and lower extremity edema. Echo
+showed preserved EF, no WMA and worsening AI. CHF most likely
+secondary to worsening valvular disease. He was diuresed with
+lasix IV, intermittently on lasix gtt then transitioned to PO
+torsemide with improvement in symptoms, although remained on a
+small amount of supplemental oxygen for comfort.
+
+Respiratory failure: The patient was intubated for lethargy
+and acidosis initially and was given 8 L on his presentation to
+help maintain his BP's.  This undoubtedly contributed to his
+continued hypoxemic respiratory failure.  He was advanced to
+pressure support with stable ventilation and oxygenation. On
+transfer to the CCU patient was still intubated but off
+pressors. Patient was extubated successfully.  He was
+reintubated [**2201-3-1**] transiently for 48 hours for urgent TEE and
+subsequently extubated without adverse effect or complication.
+        </note_excerpt>
+        <note_excerpt_sentences>
+            <sentence id="1" paragraph_id="1" start_char_index="0" length="22">
+Brief Hospital Course:
+            </sentence>
+            <sentence id="2" paragraph_id="2" start_char_index="0" length="181">
+Acute diastolic heart failure: Pt developed signs and
+symptoms of volume overload on [**2201-3-8**] with shortness of breath,
+increased oxygen requirement and lower extremity edema.
+            </sentence>
+            <sentence id="3" paragraph_id="2" start_char_index="182" length="50">
+Echo
+showed preserved EF, no WMA and worsening AI.
+            </sentence>
+            <sentence id="4" paragraph_id="2" start_char_index="233" length="56">
+CHF most likely
+secondary to worsening valvular disease.
+            </sentence>
+            <sentence id="5" paragraph_id="2" start_char_index="290" length="194">
+He was diuresed with
+lasix IV, intermittently on lasix gtt then transitioned to PO
+torsemide with improvement in symptoms, although remained on a
+small amount of supplemental oxygen for comfort.
+            </sentence>
+            <sentence id="6" paragraph_id="3" start_char_index="0" length="147">
+Respiratory failure: The patient was intubated for lethargy
+and acidosis initially and was given 8 L on his presentation to
+help maintain his BP's.
+            </sentence>
+            <sentence id="7" paragraph_id="3" start_char_index="149" length="76">
+This undoubtedly contributed to his
+continued hypoxemic respiratory failure.
+            </sentence>
+            <sentence id="8" paragraph_id="3" start_char_index="227" length="76">
+He was advanced to
+pressure support with stable ventilation and oxygenation.
+            </sentence>
+            <sentence id="9" paragraph_id="3" start_char_index="304" length="68">
+On
+transfer to the CCU patient was still intubated but off
+pressors.
+            </sentence>
+            <sentence id="10" paragraph_id="3" start_char_index="373" length="35">
+Patient was extubated successfully.
+            </sentence>
+            <sentence id="11" paragraph_id="3" start_char_index="410" length="140">
+He was
+reintubated [**2201-3-1**] transiently for 48 hours for urgent TEE and
+subsequently extubated without adverse effect or complication.
+            </sentence>
+        </note_excerpt_sentences>
+    </case>
+    <case id="3">
+        <clinical_specialty>
+traumatology|neurology
+        </clinical_specialty>
+        <patient_narrative>
+my son fell and lost conciousness for a couple mins. we rushed him to hospital took a CT scan there was bleeding in the brain we got him admitted in icu and he was under observ.. they were givin him pain killers and injected to prevent him from vomitting yesterday i got him back home but he is continously irritated and has headache when awake what do ido
+        </patient_narrative>
+        <patient_question>
+            <phrase id="0" start_char_index="289">
+he is continously irritated and has headache when awake what do ido
+            </phrase>
+        </patient_question>
+        <clinician_question>
+What is the expected course of recovery for him?
+        </clinician_question>
+        <note_excerpt>
+Discharge Instructions:
+You were admitted to the hospital after sustaining a trauamtic
+brain injury due to a fall. This injury did not require any
+operations. It was also noted on chest xray that there is an
+area of consolidation in your lung. The infectious Disease
+doctors [**First Name (Titles) **] [**Last Name (Titles) 4221**] for recommendations on antibiotic
+treatment.
+
+Because of your head injury you may experience some of the
+following symptoms: drowsiness, headaches, dizziness,
+irritability, short term memory loss - these are all normal and
+should decrease over the next
+several weeks. It is being strongly recommended that you follow
+up with Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] who is a doctor [**First Name (Titles) **] [**Last Name (Titles) 91506**]
+in trauamtic brain injuries. His contact information has been
+provided to you.
+
+Please report any:
+
+*fever
+*new onset sweats
+*chills
+*headaches
+*cough
+*difficulty breathing
+*yellow/green sputum
+*shortness of breath
+
+Please report any:
+*visual changes
+*weakness on one side of your body
+*speech difficulty
+        </note_excerpt>
+        <note_excerpt_sentences>
+            <sentence id="1" paragraph_id="1" start_char_index="0" length="114">
+Discharge Instructions:
+You were admitted to the hospital after sustaining a trauamtic
+brain injury due to a fall.
+            </sentence>
+            <sentence id="2" paragraph_id="1" start_char_index="115" length="43">
+This injury did not require any
+operations.
+            </sentence>
+            <sentence id="3" paragraph_id="1" start_char_index="159" length="84">
+It was also noted on chest xray that there is an
+area of consolidation in your lung.
+            </sentence>
+            <sentence id="4" paragraph_id="1" start_char_index="244" length="132">
+The infectious Disease
+doctors [**First Name (Titles) **] [**Last Name (Titles) 4221**] for recommendations on antibiotic
+treatment.
+            </sentence>
+            <sentence id="5" paragraph_id="2" start_char_index="0" length="221">
+Because of your head injury you may experience some of the
+following symptoms: drowsiness, headaches, dizziness,
+irritability, short term memory loss - these are all normal and
+should decrease over the next
+several weeks.
+            </sentence>
+            <sentence id="6" paragraph_id="2" start_char_index="222" length="229">
+It is being strongly recommended that you follow
+up with Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] who is a doctor [**First Name (Titles) **] [**Last Name (Titles) 91506**]
+in trauamtic brain injuries.
+            </sentence>
+            <sentence id="7" paragraph_id="2" start_char_index="452" length="49">
+His contact information has been
+provided to you.
+            </sentence>
+            <sentence id="8" paragraph_id="3" start_char_index="0" length="18">
+Please report any:
+            </sentence>
+            <sentence id="9" paragraph_id="4" start_char_index="0" length="114">
+*fever
+*new onset sweats
+*chills
+*headaches
+*cough
+*difficulty breathing
+*yellow/green sputum
+*shortness of breath
+            </sentence>
+            <sentence id="10" paragraph_id="5" start_char_index="0" length="88">
+Please report any:
+*visual changes
+*weakness on one side of your body
+*speech difficulty
+            </sentence>
+        </note_excerpt_sentences>
+    </case>
+    <case id="4">
+        <clinical_specialty>
+cardiology
+        </clinical_specialty>
+        <patient_narrative>
+I am 48 years old. On February 20, I passed out, was taken to the hospital, and had two other episodes. I have chronic kidney disease with creatine around 1.5. I had anemia and hemoglobin was 10.3. I was in ICU 8 days and discharged in stable condition. My doctor performed a cardiac catherization. I had no increase in cardiac enzymes and an ECHO in the hospital showed 25% LVEF. Was this invasive, risky procedure necessary.
+        </patient_narrative>
+        <patient_question>
+            <phrase id="0" start_char_index="254">
+My doctor performed a cardiac catherization.
+            </phrase>
+            <phrase id="1" start_char_index="381">
+Was this invasive, risky procedure necessary.
+            </phrase>
+        </patient_question>
+        <clinician_question>
+Why was cardiac catheterization recommended to the patient?
+        </clinician_question>
+        <note_excerpt>
+History of Present Illness:
+
+On the cardiology service his abdominal pain, nausea, vomitting
+was felt to be secondary to congestive hepatopathy, his cough
+due to CHF vs asthma, and his syncope was felt to be secondary
+to a coughing spell leading to increased intra-abdominal
+pressures and therefore reduced preload in the setting of
+low-output state. His ICD interrogation was negative for any
+events. He was aggressively diuresed with a net 10 liters
+negative since admission. He underwent RHC for milrinone trial,
+which proved to be successful. His mean PCW went from 30 to 22,
+and his Fick C.I. went from 1.72 to 2.79.
+
+Brief Hospital Course:
+48M with idiopathic dilated cardiomyopathy (EF 25%, on coumadin
+&amp; s/p ICD placement), HTN, CKD (baseline Cr 1.3-1.6) &amp; asthma
+who presents with syncope, found to be in acute-on-chronic heart
+failure.
+
+#) ACUTE-ON-CHRONIC SYSTOLIC HEART FAILURE
+Underlying exacerbation of chronic heart failure [**2-1**] known
+idiopathic cardiomyopathy likely explanation for numerous
+presenting symptoms including syncope, abdominal pain, and
+dyspnea. Last echo [**8-/2119**] showed LVEF = 25%. He was admitted in
+the setting of low output heart failure, leading to increased
+intra-abdominal pressures causing congestive
+hepatopathy/abdominal pain/RUQ tenderness. Abdominal distension
+also thought to contribute to syncope. Cardiac output and wedge
+pressure significantly improved after milrinone infusion. In the
+ICU he was maintained on milrinone at a rate of 0.5 mcg/hr and
+transferred to the floor on this stable dose. Torsemide 80mg
+daily was restarted; he was discharged on milrinone and
+torsemide. Heart failure specialists had honest discussions with
+the patient about his long-term prognosis; he will continue to
+be followed closely in heart failure clinic at [**Hospital1 18**] and will
+continue work-up for potential heart transplant at [**Hospital1 3278**]/[**Hospital1 336**].
+
+Discharge Instructions:
+
+You were admitted to the hospital with worsening heart failure.
+
+You had a cardiac catheterization that showed you would benefit
+from milrinone. You were started on a milrinone drip, with
+improvement in your heart's pump function. You were also
+diuresed for 6 liters of fluid.
+        </note_excerpt>
+        <note_excerpt_sentences>
+            <sentence id="1" paragraph_id="1" start_char_index="0" length="27">
+History of Present Illness:
+            </sentence>
+            <sentence id="2" paragraph_id="2" start_char_index="0" length="321">
+On the cardiology service his abdominal pain, nausea, vomitting
+was felt to be secondary to congestive hepatopathy, his cough
+due to CHF vs asthma, and his syncope was felt to be secondary
+to a coughing spell leading to increased intra-abdominal
+pressures and therefore reduced preload in the setting of
+low-output state.
+            </sentence>
+            <sentence id="3" paragraph_id="2" start_char_index="322" length="50">
+His ICD interrogation was negative for any
+events.
+            </sentence>
+            <sentence id="4" paragraph_id="2" start_char_index="373" length="75">
+He was aggressively diuresed with a net 10 liters
+negative since admission.
+            </sentence>
+            <sentence id="5" paragraph_id="2" start_char_index="449" length="68">
+He underwent RHC for milrinone trial,
+which proved to be successful.
+            </sentence>
+            <sentence id="6" paragraph_id="2" start_char_index="518" length="74">
+His mean PCW went from 30 to 22,
+and his Fick C.I. went from 1.72 to 2.79.
+            </sentence>
+            <sentence id="7" paragraph_id="3" start_char_index="0" length="222">
+Brief Hospital Course:
+48M with idiopathic dilated cardiomyopathy (EF 25%, on coumadin
+&amp; s/p ICD placement), HTN, CKD (baseline Cr 1.3-1.6) &amp; asthma
+who presents with syncope, found to be in acute-on-chronic heart
+failure.
+            </sentence>
+            <sentence id="8" paragraph_id="4" start_char_index="0" length="42">
+#) ACUTE-ON-CHRONIC SYSTOLIC HEART FAILURE
+            </sentence>
+            <sentence id="9" paragraph_id="4" start_char_index="43" length="190">
+Underlying exacerbation of chronic heart failure [**2-1**] known
+idiopathic cardiomyopathy likely explanation for numerous
+presenting symptoms including syncope, abdominal pain, and
+dyspnea.
+            </sentence>
+            <sentence id="10" paragraph_id="4" start_char_index="234" length="42">
+Last echo [**8-/2119**] showed LVEF = 25%.
+            </sentence>
+            <sentence id="11" paragraph_id="4" start_char_index="277" length="168">
+He was admitted in
+the setting of low output heart failure, leading to increased
+intra-abdominal pressures causing congestive
+hepatopathy/abdominal pain/RUQ tenderness.
+            </sentence>
+            <sentence id="12" paragraph_id="4" start_char_index="446" length="59">
+Abdominal distension
+also thought to contribute to syncope.
+            </sentence>
+            <sentence id="13" paragraph_id="4" start_char_index="506" length="82">
+Cardiac output and wedge
+pressure significantly improved after milrinone infusion.
+            </sentence>
+            <sentence id="14" paragraph_id="4" start_char_index="589" length="115">
+In the
+ICU he was maintained on milrinone at a rate of 0.5 mcg/hr and
+transferred to the floor on this stable dose.
+            </sentence>
+            <sentence id="15" paragraph_id="4" start_char_index="705" length="81">
+Torsemide 80mg
+daily was restarted; he was discharged on milrinone and
+torsemide.
+            </sentence>
+            <sentence id="16" paragraph_id="4" start_char_index="787" length="284">
+Heart failure specialists had honest discussions with
+the patient about his long-term prognosis; he will continue to
+be followed closely in heart failure clinic at [**Hospital1 18**] and will
+continue work-up for potential heart transplant at [**Hospital1 3278**]/[**Hospital1 336**].
+            </sentence>
+            <sentence id="17" paragraph_id="5" start_char_index="0" length="23">
+Discharge Instructions:
+            </sentence>
+            <sentence id="18" paragraph_id="6" start_char_index="0" length="63">
+You were admitted to the hospital with worsening heart failure.
+            </sentence>
+            <sentence id="19" paragraph_id="7" start_char_index="0" length="79">
+You had a cardiac catheterization that showed you would benefit
+from milrinone.
+            </sentence>
+            <sentence id="20" paragraph_id="7" start_char_index="80" length="85">
+You were started on a milrinone drip, with
+improvement in your heart's pump function.
+            </sentence>
+            <sentence id="21" paragraph_id="7" start_char_index="166" length="45">
+You were also
+diuresed for 6 liters of fluid.
+            </sentence>
+        </note_excerpt_sentences>
+    </case>
+    <case id="5">
+        <clinical_specialty>
+cardiology
+        </clinical_specialty>
+        <patient_narrative>
+I overdosed October 4th on trihexyphenidyl, thorazine, and cocaine. Ended up in icu with prolonged qt for 8 days. I have had chest pain in my left upper quadrant ever since. My doctor said it s related to muscle and bone. It s a dull to deep pain. Any ideas?
+        </patient_narrative>
+        <patient_question>
+            <phrase id="0" start_char_index="0">
+I overdosed October 4th on trihexyphenidyl, thorazine, and cocaine.
+            </phrase>
+            <phrase id="1" start_char_index="114">
+I have had chest pain in my left upper quadrant ever since.
+            </phrase>
+            <phrase id="2" start_char_index="248">
+Any ideas?
+            </phrase>
+        </patient_question>
+        <clinician_question>
+Is the pain connected to the overdose or something else?
+        </clinician_question>
+        <note_excerpt>
+Brief Hospital Course:
+
+# Bipolar d/o, PTSD, schizophrenia:  Psychiatry consult
+recommended that all psych medications be held until they could
+be re-prescribed by pt's outpatient psychiatrist.  During
+hospital course, thorazine was restarted but discontinued soon
+after because pt became tachycardic; pt remained asymptomatic
+during these episodes of tachycardia. Tachycardia resolved with
+discontinuation of thorazine, IV hydration, and small dose of IV
+benzodiazepene x 1. Social work consult was obtained because pt
+did not have a PCP nor did he have a psychiatrist.  He could not
+see his former psychiatrist due to insurance reasons.  With the
+help of social work, pt was set up with a PCP who would be able
+to refer him to a new psychiatrist in a timely fashion.  He was
+instructed to follow-up with his new psychiatrist to restart his
+psychiatric medications.
+
+# Chest pain: Pt complained of chest pain during hospital course
+that appeared musculoskeletal as it was reproducible with
+palpation and pt reported more pain with movement.  EKG showed
+no ischemic changes and troponins were flat x 4.  CK was
+elevated, peaking at 1405 but downtrended without any
+intervention.  TTE was obtained due to history of cocaine use to
+rule out cardiac events.  EF was &gt;55%; TTE was unremarkable.  He
+was monitored on telemetry without significant events.
+
+Discharge Instructions:
+It was a pleasure taking care of you at the hospital.  You were
+admitted with confusion that was likely due to a combination of
+the medications you were taking and the street drugs that you
+may have also been used.  Your heart rhythm was monitored
+because many of these drugs can affect your heart.  Your EKG and
+blood tests showed that you likely did not have a heart attack.
+An ultrasound of your heart was also normal.  Your confusion
+cleared during your hospital stay.  You were seen by our
+psychiatry team who recommended holding all of your medications
+while you were in the hospital. It is very important that you
+follow-up with a primary care doctor who can refer you to a
+psychiatrist.  This psychiatrist can then prescribe to you the
+medications you were normally taking.
+        </note_excerpt>
+        <note_excerpt_sentences>
+            <sentence id="1" paragraph_id="1" start_char_index="0" length="22">
+Brief Hospital Course:
+            </sentence>
+            <sentence id="2" paragraph_id="2" start_char_index="0" length="169">
+# Bipolar d/o, PTSD, schizophrenia:  Psychiatry consult
+recommended that all psych medications be held until they could
+be re-prescribed by pt's outpatient psychiatrist.
+            </sentence>
+            <sentence id="3" paragraph_id="2" start_char_index="171" length="169">
+During
+hospital course, thorazine was restarted but discontinued soon
+after because pt became tachycardic; pt remained asymptomatic
+during these episodes of tachycardia.
+            </sentence>
+            <sentence id="4" paragraph_id="2" start_char_index="341" length="110">
+Tachycardia resolved with
+discontinuation of thorazine, IV hydration, and small dose of IV
+benzodiazepene x 1.
+            </sentence>
+            <sentence id="5" paragraph_id="2" start_char_index="452" length="94">
+Social work consult was obtained because pt
+did not have a PCP nor did he have a psychiatrist.
+            </sentence>
+            <sentence id="6" paragraph_id="2" start_char_index="548" length="66">
+He could not
+see his former psychiatrist due to insurance reasons.
+            </sentence>
+            <sentence id="7" paragraph_id="2" start_char_index="616" length="128">
+With the
+help of social work, pt was set up with a PCP who would be able
+to refer him to a new psychiatrist in a timely fashion.
+            </sentence>
+            <sentence id="8" paragraph_id="2" start_char_index="746" length="96">
+He was
+instructed to follow-up with his new psychiatrist to restart his
+psychiatric medications.
+            </sentence>
+            <sentence id="9" paragraph_id="3" start_char_index="0" length="173">
+# Chest pain: Pt complained of chest pain during hospital course
+that appeared musculoskeletal as it was reproducible with
+palpation and pt reported more pain with movement.
+            </sentence>
+            <sentence id="10" paragraph_id="3" start_char_index="175" length="135">
+EKG showed
+no ischemic changes and troponins were flat x 4.  CK was
+elevated, peaking at 1405 but downtrended without any
+intervention.
+            </sentence>
+            <sentence id="11" paragraph_id="3" start_char_index="312" length="74">
+TTE was obtained due to history of cocaine use to
+rule out cardiac events.
+            </sentence>
+            <sentence id="12" paragraph_id="3" start_char_index="388" length="34">
+EF was &gt;55%; TTE was unremarkable.
+            </sentence>
+            <sentence id="13" paragraph_id="3" start_char_index="424" length="57">
+He
+was monitored on telemetry without significant events.
+            </sentence>
+            <sentence id="14" paragraph_id="4" start_char_index="0" length="23">
+Discharge Instructions:
+            </sentence>
+            <sentence id="15" paragraph_id="4" start_char_index="24" length="53">
+It was a pleasure taking care of you at the hospital.
+            </sentence>
+            <sentence id="16" paragraph_id="4" start_char_index="79" length="159">
+You were
+admitted with confusion that was likely due to a combination of
+the medications you were taking and the street drugs that you
+may have also been used.
+            </sentence>
+            <sentence id="17" paragraph_id="4" start_char_index="240" length="82">
+Your heart rhythm was monitored
+because many of these drugs can affect your heart.
+            </sentence>
+            <sentence id="18" paragraph_id="4" start_char_index="324" length="76">
+Your EKG and
+blood tests showed that you likely did not have a heart attack.
+            </sentence>
+            <sentence id="19" paragraph_id="4" start_char_index="401" length="44">
+An ultrasound of your heart was also normal.
+            </sentence>
+            <sentence id="20" paragraph_id="4" start_char_index="447" length="49">
+Your confusion
+cleared during your hospital stay.
+            </sentence>
+            <sentence id="21" paragraph_id="4" start_char_index="498" length="116">
+You were seen by our
+psychiatry team who recommended holding all of your medications
+while you were in the hospital.
+            </sentence>
+            <sentence id="22" paragraph_id="4" start_char_index="615" length="103">
+It is very important that you
+follow-up with a primary care doctor who can refer you to a
+psychiatrist.
+            </sentence>
+            <sentence id="23" paragraph_id="4" start_char_index="720" length="85">
+This psychiatrist can then prescribe to you the
+medications you were normally taking.
+            </sentence>
+        </note_excerpt_sentences>
+    </case>
+    <case id="6">
+        <clinical_specialty>
+pulmonology|infectious diseases
+        </clinical_specialty>
+        <patient_narrative>
+My dad has been killed recently by doctors treating him in icu for bacterial and fungal pneumonia. First my dad was admitted into ICU in August after seeing his lungs xray and he was put in ICU for 5 days then shifted to room then in 10 days he was discharged. After coming home we thought he was recovering well but on September 30 again he felt severe shortness in breath so when took to the Hispital, doctor said that the lung infection came again and this time its both bacterial and fungal and so my dad was directly admitted into ICU with ventilators support. The ICU patient dies on october 13 and the reason the doctor said is Sudden Cardiac Arrest and it can happen anytime. Other health complications of my dad are diabetes, hypertension, and AML. My question is if the Dr fail to diagonise the lung infection in time? I felt the culture test for presense of bacterial/fungal infection was done late and reports came very late.
+        </patient_narrative>
+        <patient_question>
+            <phrase id="0" start_char_index="758">
+My question is if the Dr fail to diagonise the lung infection in time?
+            </phrase>
+        </patient_question>
+        <clinician_question>
+Why did they find out later that he had fungal pneumonia?
+        </clinician_question>
+        <note_excerpt>
+History of Present Illness:
+Mr. [**Known lastname 47367**] is a 58-year-old man with a history of AML s/p
+allogeneic transplant [**2142**] complicated by graft-versus-host
+disease, multiple vertebral fractures and ultimately development
+of paraplegia in the setting of a vertebral fracture during a
+code situation. Admitted multiple times, most recently [**8-/2148**]
+for bacteremia and upper resp infection (cx: staph epi) and
+completed a course of vancomcyin, aztreonam. Discharged from
+rehab and home (wheelchair bound) with recent clinic followup
+[**9-26**] noting baseline health.
+
+Pertinent Results:
+
+BLOOD/FUNGAL CULTURE (Preliminary):
+      [**Female First Name (un) **] (TORULOPSIS) GLABRATA.
+
+Brief Hospital Course:
+
+# Goals of care: After frequent discussions with family and
+physicians involved in the pt's case and gradual reduction in
+number of interventions performed, it was decided to transition
+to comfort measures only on [**10-12**]. The below medical treaments,
+lab draws, and imaging procedures were held. The pt was kept in
+IV morphine, tylenol, and ativan to keep comfortable. He died
+peacefully on the morning of [**2148-10-13**].
+
+# Pneumonia: Productive cough followed by somnolence in the
+setting of starting Ambien and Valium in addition to his home
+oxycontin. CXR with LLL consolidation. Sputum gram stain with
+GPCs in clusters, GPCs in pairs and chains and GNRs and yeast.
+Started on vanco, [**Last Name (un) 2830**] (day 1: [**9-30**]), mica (day 1: [**10-3**]) in
+consultation with ID. Due to worsening CXR, vanco was changed to
+linezolid (day 1: [**10-6**]) per ID recs. Also question of possible
+pulmonary congestion, so pt was started on IV lasix. On [**10-8**],
+the pt appeared to have worsening WBC and respiratory distress.
+He was started on ambisome and given a dose of tobramycin. The
+tobramycin was thereafter uptitrated with little effect.
+Antibiotics were continued despite little improvement.
+
+# Tachycardia: Continues to be in sinus tachycardia in the 130s.
+Initially in the 160s, but has improved with fluids. Likely
+multifactorial with PE, pain, hypovolemia, and withdrawal from
+opioids all contributing. He was given several doses of narcan
+at OSH and his home narcotics were initially held in the setting
+of hypotension. Morphine drip was started to relieve any pain
+without any improvement in tachycardia.
+        </note_excerpt>
+        <note_excerpt_sentences>
+            <sentence id="1" paragraph_id="1" start_char_index="0" length="314">
+History of Present Illness:
+Mr. [**Known lastname 47367**] is a 58-year-old man with a history of AML s/p
+allogeneic transplant [**2142**] complicated by graft-versus-host
+disease, multiple vertebral fractures and ultimately development
+of paraplegia in the setting of a vertebral fracture during a
+code situation.
+            </sentence>
+            <sentence id="2" paragraph_id="1" start_char_index="315" length="157">
+Admitted multiple times, most recently [**8-/2148**]
+for bacteremia and upper resp infection (cx: staph epi) and
+completed a course of vancomcyin, aztreonam.
+            </sentence>
+            <sentence id="3" paragraph_id="1" start_char_index="473" length="112">
+Discharged from
+rehab and home (wheelchair bound) with recent clinic followup
+[**9-26**] noting baseline health.
+            </sentence>
+            <sentence id="4" paragraph_id="2" start_char_index="0" length="18">
+Pertinent Results:
+            </sentence>
+            <sentence id="5" paragraph_id="3" start_char_index="0" length="94">
+BLOOD/FUNGAL CULTURE (Preliminary):
+      [**Female First Name (un) **] (TORULOPSIS) GLABRATA.
+            </sentence>
+            <sentence id="6" paragraph_id="4" start_char_index="0" length="22">
+Brief Hospital Course:
+            </sentence>
+            <sentence id="7" paragraph_id="5" start_char_index="0" length="226">
+# Goals of care: After frequent discussions with family and
+physicians involved in the pt's case and gradual reduction in
+number of interventions performed, it was decided to transition
+to comfort measures only on [**10-12**].
+            </sentence>
+            <sentence id="8" paragraph_id="5" start_char_index="227" length="73">
+The below medical treaments,
+lab draws, and imaging procedures were held.
+            </sentence>
+            <sentence id="9" paragraph_id="5" start_char_index="301" length="72">
+The pt was kept in
+IV morphine, tylenol, and ativan to keep comfortable.
+            </sentence>
+            <sentence id="10" paragraph_id="5" start_char_index="374" length="54">
+He died
+peacefully on the morning of [**2148-10-13**].
+            </sentence>
+            <sentence id="11" paragraph_id="6" start_char_index="0" length="132">
+# Pneumonia: Productive cough followed by somnolence in the
+setting of starting Ambien and Valium in addition to his home
+oxycontin.
+            </sentence>
+            <sentence id="12" paragraph_id="6" start_char_index="133" length="27">
+CXR with LLL consolidation.
+            </sentence>
+            <sentence id="13" paragraph_id="6" start_char_index="161" length="85">
+Sputum gram stain with
+GPCs in clusters, GPCs in pairs and chains and GNRs and yeast.
+            </sentence>
+            <sentence id="14" paragraph_id="6" start_char_index="247" length="114">
+Started on vanco, [**Last Name (un) 2830**] (day 1: [**9-30**]), mica (day 1: [**10-3**]) in
+consultation with ID.
+            </sentence>
+            <sentence id="15" paragraph_id="6" start_char_index="362" length="85">
+Due to worsening CXR, vanco was changed to
+linezolid (day 1: [**10-6**]) per ID recs.
+            </sentence>
+            <sentence id="16" paragraph_id="6" start_char_index="448" length="78">
+Also question of possible
+pulmonary congestion, so pt was started on IV lasix.
+            </sentence>
+            <sentence id="17" paragraph_id="6" start_char_index="527" length="78">
+On [**10-8**],
+the pt appeared to have worsening WBC and respiratory distress.
+            </sentence>
+            <sentence id="18" paragraph_id="6" start_char_index="606" length="58">
+He was started on ambisome and given a dose of tobramycin.
+            </sentence>
+            <sentence id="19" paragraph_id="6" start_char_index="665" length="60">
+The
+tobramycin was thereafter uptitrated with little effect.
+            </sentence>
+            <sentence id="20" paragraph_id="6" start_char_index="726" length="54">
+Antibiotics were continued despite little improvement.
+            </sentence>
+            <sentence id="21" paragraph_id="7" start_char_index="0" length="64">
+# Tachycardia: Continues to be in sinus tachycardia in the 130s.
+            </sentence>
+            <sentence id="22" paragraph_id="7" start_char_index="65" length="52">
+Initially in the 160s, but has improved with fluids.
+            </sentence>
+            <sentence id="23" paragraph_id="7" start_char_index="118" length="95">
+Likely
+multifactorial with PE, pain, hypovolemia, and withdrawal from
+opioids all contributing.
+            </sentence>
+            <sentence id="24" paragraph_id="7" start_char_index="214" length="117">
+He was given several doses of narcan
+at OSH and his home narcotics were initially held in the setting
+of hypotension.
+            </sentence>
+            <sentence id="25" paragraph_id="7" start_char_index="332" length="85">
+Morphine drip was started to relieve any pain
+without any improvement in tachycardia.
+            </sentence>
+        </note_excerpt_sentences>
+    </case>
+    <case id="7">
+        <clinical_specialty>
+cardiovascular
+        </clinical_specialty>
+        <patient_narrative>
+My mother n law had a surgery about 10 years ago, replacing all veins from top of leg to foot. Although that surgery has done well the doctors have had her on blood thinner ever since. Just recently she has gone to hospital due to a fall and they found a subarachnoid hemorrhage in the brain. They took her off the blood thinner, kept in icu for 3 weeks. We asked what would happen now to the original vein surgery (since stopping Coumadin). Are there any specific instructions about stopping Coumadin?
+        </patient_narrative>
+        <patient_question>
+            <phrase id="0" start_char_index="442">
+Are there any specific instructions about stopping Coumadin?
+            </phrase>
+        </patient_question>
+        <clinician_question>
+Are there specific instructions about blood thinners due to her subarachnoid brain hemorrhage?
+        </clinician_question>
+        <note_excerpt>
+Brief Hospital Course:
+
+Neuro: Patient was followed by neurosurgery through out her
+stay. Due to the extent of hemorrhage, a CTA was obtained to
+determine if an aneurysm was present, but none were visualized.
+Her neurologic status gradually improved and she was weaned from
+sedation. Her GCS was 15, though intermittently agitated. Repeat
+Head CTA showed expected evolution of the SAH with no evidence
+of vasospasm or mass effect or midline shift. She also had
+unstable fractures of T10 and T11 confirmed by MRI. She was
+taken to the OR and underwent posterior fusion on [**2194-4-1**]
+without event.  Additionally, she had a C4 transverse process
+fracture with possible ligamentous injury; she had a [**Location (un) 2848**]-J
+collar which was to be remain in place until follow-up or
+re-evaluation by Spine surgery, which will be in 6 weeks after
+discharge on [**2194-4-21**].  She was also evaluated by neurosurgery for
+her SAH with recommendations to continue Keppra until at least
+follow-up. She did not demonstrate seizure activity during her
+hospitalization.
+
+Heme: Received one unit of blood each on [**4-17**] and [**4-11**].
+This was not due to concern for acute bleed but rather due to a
+slow drift downward.  She had an IVC filter placed on [**4-16**] as
+well. She has a history of DVT on coumadin, which was
+discontinued after filter placement. Her hematocrit remained
+stable between 22-23 for several days prior to discharge and did
+not require additional transfusions beyond [**2194-4-11**]. The patient
+has a PICC line in place with good placement confirmed on CXR.
+
+Discharge Instructions:
+
+You were on  Coumadin (Warfarin) before your injury, but you
+now have a filter in place to help prevent clots from returning
+to your heart. You will not have to continue your coumadin at
+this point.
+
+Due to prolonged bedrest and the risk of developing a blood
+clot, you received an 'IVC filter' to prevent clots from
+returning to your heart.
+
+Followup Instructions:
+
+For your subarachnoid hemorrhage:
+??????Please call ([**Telephone/Fax (1) 88**] to schedule an appointment with Dr.
+[**First Name (STitle) **], to be seen in four weeks.
+??????You will need a CT scan of the brain without contrast prior to
+your appointment. This can be scheduled when you call to make
+your office visit appointment.
+??????We recommend you see Dr [**First Name (STitle) **] in the Traumatic Brain Injury
+(TBI) clinic the phone number is [**Telephone/Fax (1) 6335**]. If you have any
+problems booking this appointment please ask for [**First Name8 (NamePattern2) 16367**] [**Last Name (NamePattern1) 16368**].
+        </note_excerpt>
+        <note_excerpt_sentences>
+            <sentence id="1" paragraph_id="1" start_char_index="0" length="22">
+Brief Hospital Course:
+            </sentence>
+            <sentence id="2" paragraph_id="2" start_char_index="0" length="65">
+Neuro: Patient was followed by neurosurgery through out her
+stay.
+            </sentence>
+            <sentence id="3" paragraph_id="2" start_char_index="66" length="118">
+Due to the extent of hemorrhage, a CTA was obtained to
+determine if an aneurysm was present, but none were visualized.
+            </sentence>
+            <sentence id="4" paragraph_id="2" start_char_index="185" length="74">
+Her neurologic status gradually improved and she was weaned from
+sedation.
+            </sentence>
+            <sentence id="5" paragraph_id="2" start_char_index="260" length="47">
+Her GCS was 15, though intermittently agitated.
+            </sentence>
+            <sentence id="6" paragraph_id="2" start_char_index="308" length="115">
+Repeat
+Head CTA showed expected evolution of the SAH with no evidence
+of vasospasm or mass effect or midline shift.
+            </sentence>
+            <sentence id="7" paragraph_id="2" start_char_index="424" length="64">
+She also had
+unstable fractures of T10 and T11 confirmed by MRI.
+            </sentence>
+            <sentence id="8" paragraph_id="2" start_char_index="489" length="87">
+She was
+taken to the OR and underwent posterior fusion on [**2194-4-1**]
+without event.
+            </sentence>
+            <sentence id="9" paragraph_id="2" start_char_index="578" length="276">
+Additionally, she had a C4 transverse process
+fracture with possible ligamentous injury; she had a [**Location (un) 2848**]-J
+collar which was to be remain in place until follow-up or
+re-evaluation by Spine surgery, which will be in 6 weeks after
+discharge on [**2194-4-21**].
+            </sentence>
+            <sentence id="10" paragraph_id="2" start_char_index="856" length="116">
+She was also evaluated by neurosurgery for
+her SAH with recommendations to continue Keppra until at least
+follow-up.
+            </sentence>
+            <sentence id="11" paragraph_id="2" start_char_index="973" length="68">
+She did not demonstrate seizure activity during her
+hospitalization.
+            </sentence>
+            <sentence id="12" paragraph_id="3" start_char_index="0" length="67">
+Heme: Received one unit of blood each on [**4-17**] and [**4-11**].
+            </sentence>
+            <sentence id="13" paragraph_id="3" start_char_index="68" length="84">
+This was not due to concern for acute bleed but rather due to a
+slow drift downward.
+            </sentence>
+            <sentence id="14" paragraph_id="3" start_char_index="154" length="51">
+She had an IVC filter placed on [**4-16**] as
+well.
+            </sentence>
+            <sentence id="15" paragraph_id="3" start_char_index="206" length="84">
+She has a history of DVT on coumadin, which was
+discontinued after filter placement.
+            </sentence>
+            <sentence id="16" paragraph_id="3" start_char_index="291" length="148">
+Her hematocrit remained
+stable between 22-23 for several days prior to discharge and did
+not require additional transfusions beyond [**2194-4-11**].
+            </sentence>
+            <sentence id="17" paragraph_id="3" start_char_index="440" length="74">
+The patient
+has a PICC line in place with good placement confirmed on CXR.
+            </sentence>
+            <sentence id="18" paragraph_id="4" start_char_index="0" length="23">
+Discharge Instructions:
+            </sentence>
+            <sentence id="19" paragraph_id="5" start_char_index="0" length="139">
+You were on  Coumadin (Warfarin) before your injury, but you
+now have a filter in place to help prevent clots from returning
+to your heart.
+            </sentence>
+            <sentence id="20" paragraph_id="5" start_char_index="140" length="58">
+You will not have to continue your coumadin at
+this point.
+            </sentence>
+            <sentence id="21" paragraph_id="6" start_char_index="0" length="141">
+Due to prolonged bedrest and the risk of developing a blood
+clot, you received an 'IVC filter' to prevent clots from
+returning to your heart.
+            </sentence>
+            <sentence id="22" paragraph_id="7" start_char_index="0" length="22">
+Followup Instructions:
+            </sentence>
+            <sentence id="23" paragraph_id="8" start_char_index="0" length="40">
+For your subarachnoid hemorrhage:
+??????
+            </sentence>
+            <sentence id="24" paragraph_id="8" start_char_index="40" length="129">
+Please call ([**Telephone/Fax (1) 88**] to schedule an appointment with Dr.
+[**First Name (STitle) **], to be seen in four weeks.
+            </sentence>
+            <sentence id="25" paragraph_id="8" start_char_index="170" length="6">
+??????
+            </sentence>
+            <sentence id="26" paragraph_id="8" start_char_index="176" length="80">
+You will need a CT scan of the brain without contrast prior to
+your appointment.
+            </sentence>
+            <sentence id="27" paragraph_id="8" start_char_index="257" length="74">
+This can be scheduled when you call to make
+your office visit appointment.
+            </sentence>
+            <sentence id="28" paragraph_id="8" start_char_index="332" length="6">
+??????
+            </sentence>
+            <sentence id="29" paragraph_id="8" start_char_index="338" length="143">
+We recommend you see Dr [**First Name (STitle) **] in the Traumatic Brain Injury
+(TBI) clinic the phone number is [**Telephone/Fax (1) 6335**].
+            </sentence>
+            <sentence id="30" paragraph_id="8" start_char_index="482" length="141">
+If you have any
+problems booking this appointment please ask for [**First Name8 (NamePattern2) 16367**] [**Last Name (NamePattern1) 16368**].
+            </sentence>
+        </note_excerpt_sentences>
+    </case>
+    <case id="8">
+        <clinical_specialty>
+neuropsychology
+        </clinical_specialty>
+        <patient_narrative>
+I developed jaundice and had liver failure.I was also placed on life support(I have no recollection and also inubated.This occurred in 2104 and I have never felt physically or emotionally healthly since this occurrance. I had no idea of how long I was in ICU,and when I did awaken several days later,I had no recall of anything. Shortly after I return home ,and weighting less,I noticed I was and still mispell words or write words backwards. Physically,I never gained weight,Inow weight a bit more.I also developed severe depression and exteme anxiety .I was informed that every vital organ was failing.My main question if I had posion in my bloodstream does it remain in my system? And I am very concerned about my writing capabilities. I would appreciate any advice.
+        </patient_narrative>
+        <patient_question>
+            <phrase id="0" start_char_index="604">
+My main question if I had posion in my bloodstream does it remain in my system? And I am very concerned about my writing capabilities.
+            </phrase>
+        </patient_question>
+        <clinician_question>
+Will the poison damage to his body last and is the confusion related to it?
+        </clinician_question>
+        <note_excerpt>
+Brief Hospital Course:
+
+# Hyperbilirubinemia, ascites, edema, liver failure: The patient
+had known risk factors for EtOH hepatitis, and her previous
+elevation in LFTs was in the context of admitted EtOH use.
+However, given the lack of previous history, other causes were
+investigated.  Infectious hepatitis and AIH labs were negative.
+She was treated with albumin. EGD revealed 4 cords of Grade 2
+varices.  Started nadolol [**1-7**], but d/c [**1-8**] for
+bronchoconstriction.  Propranolol was then started on [**1-19**].  Her
+MELD score reduced to 16.  Diruesis was started to reduce
+ascites and peripheral edema.  Dobhoff feeding tube placed [**1-21**]
+for tube feeding given poor nutritional status.  This came out
+on [**1-23**] and was replaced after the patient could not maintain
+caloric intake.  Tube feeds continued at goal at the time of
+discharge.
+
+# Kidney injury:  Cr elevated at 2.2 on admission, last value
+0.8 in [**2099**].  Renal ultrasound no evidence of obstruction or
+hydronephrosis.  Repeat urine lytes showed that she was
+pre-renal with UNa &lt; 10, FeNa 0.08%.  HRS was considered and
+treatment with albumin, octreotide and midodrine was initiated.
+A course of 5 days treatment did not improve renal function and
+these treatments were therefore discontinued.  Creatinine
+improved at the time of discharge to a stable value of ~1
+
+# Respiratory distress and MICU course:  On the night of [**1-9**],
+the patient spiked a temperature to 101 and developed a new
+oxygen requirement.  She was started on vanc/zosyn for hospital
+acquired pneumonia but continued to be tachypnic.  In the early
+morning of [**1-10**], patient became acutely hypoxic with crackles
+throughout her lung fields.  A CXR was consistent with flash
+pulmonary edema.  She was treated with IV diuresis and was
+transferred to the ICU for respiratory distress.
+Echocardiography was consistent with volume overload, but there
+was no clear precipitant for flash pulmonary edema.  The patient
+recovered rapidly with diuresis and was transferred back to the
+floor on [**1-11**].  The cardiology team was consulted and
+recommended outpatient follow-up to ensure resolution of right
+ventricular distension with appropriate diuresis.
+
+# Mania:  Patient had visual hallucination [**1-12**] overnight.
+[**Date range (1) 25386**] she became more manic, was not sleeping, and exhibited
+pressured speech and disorganized thoughts.  Psychiatry
+consultation was obtained.  She was diagnosed with a mania NOS
+and was treated with Haldol.  Other medications were not started
+in the context of liver failure.  She was initially subject to
+Section 12 for 3 days, however this was discontinued as her
+mental status normalized with treatment.  This will need
+outpatient follow-up. She needs intensive outpatient
+psychotherapy (potentially dual diagnosis facility) upon leaving
+LTAC.
+
+Transitional Issues:
+
+- Per Psychiatry:  In outpatient setting, could consider the
+following non-urgent
+recommendations.  1) Neuropsychological testing to determine
+whether or not there may be longterm cognitive deficits
+associated with ETOH abuse 2) consider cross-tapering Haldol to
+another medication with more mood-stabilizing properties (e.g.
+quetiapine)
+- Assess when able to change psychiatric meds based on LFTs
+
+Discharge Instructions:
+It was a pleasure taking care of you at [**Hospital1 827**].  You came to the hospital after being found to
+have jaundice.  You were found to have liver disease, causing
+jaundice, and kidney disease, causing fluid buildup throughout
+your body.  This was treated with hydration and medications that
+reduce toxin buildup.  Tests were performed to understand the
+extent of your disease.  You were determined to have cirrhosis
+(long term damage of your liver), likely due to alcohol intake.
+You were treated with diuretics to reduce the fluid overload in
+your body.
+
+An endoscopy revealed a duodenal ulcer that was thought to be
+the cause of some slow GI bleeding.  The ulcer was cauterized
+(burned) and you were treated with omeprazole.
+
+You had an episode of respiratory distress that led to a brief
+stay in our intensive care unit.  You were there overnight and
+responded well to medical treatment.  You then returned to the
+floor.
+
+You were found to have some aspects of mania during your stay.
+Our Psychiatry team worked with you and suggested treatment with
+Haldol.  They also suggested a stay in a psychiatric facility to
+help you gain control of this disease.
+        </note_excerpt>
+        <note_excerpt_sentences>
+            <sentence id="1" paragraph_id="1" start_char_index="0" length="22">
+Brief Hospital Course:
+            </sentence>
+            <sentence id="2" paragraph_id="2" start_char_index="0" length="183">
+# Hyperbilirubinemia, ascites, edema, liver failure: The patient
+had known risk factors for EtOH hepatitis, and her previous
+elevation in LFTs was in the context of admitted EtOH use.
+            </sentence>
+            <sentence id="3" paragraph_id="2" start_char_index="184" length="76">
+However, given the lack of previous history, other causes were
+investigated.
+            </sentence>
+            <sentence id="4" paragraph_id="2" start_char_index="262" length="48">
+Infectious hepatitis and AIH labs were negative.
+            </sentence>
+            <sentence id="5" paragraph_id="2" start_char_index="311" length="29">
+She was treated with albumin.
+            </sentence>
+            <sentence id="6" paragraph_id="2" start_char_index="341" length="40">
+EGD revealed 4 cords of Grade 2
+varices.
+            </sentence>
+            <sentence id="7" paragraph_id="2" start_char_index="383" length="69">
+Started nadolol [**1-7**], but d/c [**1-8**] for
+bronchoconstriction.
+            </sentence>
+            <sentence id="8" paragraph_id="2" start_char_index="454" length="43">
+Propranolol was then started on [**1-19**].
+            </sentence>
+            <sentence id="9" paragraph_id="2" start_char_index="499" length="29">
+Her
+MELD score reduced to 16.
+            </sentence>
+            <sentence id="10" paragraph_id="2" start_char_index="530" length="60">
+Diruesis was started to reduce
+ascites and peripheral edema.
+            </sentence>
+            <sentence id="11" paragraph_id="2" start_char_index="592" length="86">
+Dobhoff feeding tube placed [**1-21**]
+for tube feeding given poor nutritional status.
+            </sentence>
+            <sentence id="12" paragraph_id="2" start_char_index="680" length="97">
+This came out
+on [**1-23**] and was replaced after the patient could not maintain
+caloric intake.
+            </sentence>
+            <sentence id="13" paragraph_id="2" start_char_index="779" length="54">
+Tube feeds continued at goal at the time of
+discharge.
+            </sentence>
+            <sentence id="14" paragraph_id="3" start_char_index="0" length="80">
+# Kidney injury:  Cr elevated at 2.2 on admission, last value
+0.8 in [**2099**].
+            </sentence>
+            <sentence id="15" paragraph_id="3" start_char_index="82" length="62">
+Renal ultrasound no evidence of obstruction or
+hydronephrosis.
+            </sentence>
+            <sentence id="16" paragraph_id="3" start_char_index="146" length="75">
+Repeat urine lytes showed that she was
+pre-renal with UNa &lt; 10, FeNa 0.08%.
+            </sentence>
+            <sentence id="17" paragraph_id="3" start_char_index="223" length="86">
+HRS was considered and
+treatment with albumin, octreotide and midodrine was initiated.
+            </sentence>
+            <sentence id="18" paragraph_id="3" start_char_index="310" length="109">
+A course of 5 days treatment did not improve renal function and
+these treatments were therefore discontinued.
+            </sentence>
+            <sentence id="19" paragraph_id="3" start_char_index="421" length="68">
+Creatinine
+improved at the time of discharge to a stable value of ~1
+            </sentence>
+            <sentence id="20" paragraph_id="4" start_char_index="0" length="147">
+# Respiratory distress and MICU course:  On the night of [**1-9**],
+the patient spiked a temperature to 101 and developed a new
+oxygen requirement.
+            </sentence>
+            <sentence id="21" paragraph_id="4" start_char_index="149" length="92">
+She was started on vanc/zosyn for hospital
+acquired pneumonia but continued to be tachypnic.
+            </sentence>
+            <sentence id="22" paragraph_id="4" start_char_index="243" length="108">
+In the early
+morning of [**1-10**], patient became acutely hypoxic with crackles
+throughout her lung fields.
+            </sentence>
+            <sentence id="23" paragraph_id="4" start_char_index="353" length="48">
+A CXR was consistent with flash
+pulmonary edema.
+            </sentence>
+            <sentence id="24" paragraph_id="4" start_char_index="403" length="89">
+She was treated with IV diuresis and was
+transferred to the ICU for respiratory distress.
+            </sentence>
+            <sentence id="25" paragraph_id="4" start_char_index="493" length="115">
+Echocardiography was consistent with volume overload, but there
+was no clear precipitant for flash pulmonary edema.
+            </sentence>
+            <sentence id="26" paragraph_id="4" start_char_index="610" length="96">
+The patient
+recovered rapidly with diuresis and was transferred back to the
+floor on [**1-11**].
+            </sentence>
+            <sentence id="27" paragraph_id="4" start_char_index="708" length="150">
+The cardiology team was consulted and
+recommended outpatient follow-up to ensure resolution of right
+ventricular distension with appropriate diuresis.
+            </sentence>
+            <sentence id="28" paragraph_id="5" start_char_index="0" length="64">
+# Mania:  Patient had visual hallucination [**1-12**] overnight.
+            </sentence>
+            <sentence id="29" paragraph_id="5" start_char_index="65" length="125">
+[**Date range (1) 25386**] she became more manic, was not sleeping, and exhibited
+pressured speech and disorganized thoughts.
+            </sentence>
+            <sentence id="30" paragraph_id="5" start_char_index="192" length="37">
+Psychiatry
+consultation was obtained.
+            </sentence>
+            <sentence id="31" paragraph_id="5" start_char_index="231" length="63">
+She was diagnosed with a mania NOS
+and was treated with Haldol.
+            </sentence>
+            <sentence id="32" paragraph_id="5" start_char_index="296" length="67">
+Other medications were not started
+in the context of liver failure.
+            </sentence>
+            <sentence id="33" paragraph_id="5" start_char_index="365" length="129">
+She was initially subject to
+Section 12 for 3 days, however this was discontinued as her
+mental status normalized with treatment.
+            </sentence>
+            <sentence id="34" paragraph_id="5" start_char_index="496" length="36">
+This will need
+outpatient follow-up.
+            </sentence>
+            <sentence id="35" paragraph_id="5" start_char_index="533" length="101">
+She needs intensive outpatient
+psychotherapy (potentially dual diagnosis facility) upon leaving
+LTAC.
+            </sentence>
+            <sentence id="36" paragraph_id="6" start_char_index="0" length="20">
+Transitional Issues:
+            </sentence>
+            <sentence id="37" paragraph_id="7" start_char_index="0" length="17">
+- Per Psychiatry:
+            </sentence>
+            <sentence id="38" paragraph_id="7" start_char_index="19" length="79">
+In outpatient setting, could consider the
+following non-urgent
+recommendations.
+            </sentence>
+            <sentence id="39" paragraph_id="7" start_char_index="100" length="297">
+1) Neuropsychological testing to determine
+whether or not there may be longterm cognitive deficits
+associated with ETOH abuse 2) consider cross-tapering Haldol to
+another medication with more mood-stabilizing properties (e.g.
+quetiapine)
+- Assess when able to change psychiatric meds based on LFTs
+            </sentence>
+            <sentence id="40" paragraph_id="8" start_char_index="0" length="84">
+Discharge Instructions:
+It was a pleasure taking care of you at [**Hospital1 827**].
+            </sentence>
+            <sentence id="41" paragraph_id="8" start_char_index="86" length="60">
+You came to the hospital after being found to
+have jaundice.
+            </sentence>
+            <sentence id="42" paragraph_id="8" start_char_index="148" length="119">
+You were found to have liver disease, causing
+jaundice, and kidney disease, causing fluid buildup throughout
+your body.
+            </sentence>
+            <sentence id="43" paragraph_id="8" start_char_index="269" length="74">
+This was treated with hydration and medications that
+reduce toxin buildup.
+            </sentence>
+            <sentence id="44" paragraph_id="8" start_char_index="345" length="62">
+Tests were performed to understand the
+extent of your disease.
+            </sentence>
+            <sentence id="45" paragraph_id="8" start_char_index="409" length="101">
+You were determined to have cirrhosis
+(long term damage of your liver), likely due to alcohol intake.
+            </sentence>
+            <sentence id="46" paragraph_id="8" start_char_index="511" length="74">
+You were treated with diuretics to reduce the fluid overload in
+your body.
+            </sentence>
+            <sentence id="47" paragraph_id="9" start_char_index="0" length="97">
+An endoscopy revealed a duodenal ulcer that was thought to be
+the cause of some slow GI bleeding.
+            </sentence>
+            <sentence id="48" paragraph_id="9" start_char_index="99" length="71">
+The ulcer was cauterized
+(burned) and you were treated with omeprazole.
+            </sentence>
+            <sentence id="49" paragraph_id="10" start_char_index="0" length="95">
+You had an episode of respiratory distress that led to a brief
+stay in our intensive care unit.
+            </sentence>
+            <sentence id="50" paragraph_id="10" start_char_index="97" length="65">
+You were there overnight and
+responded well to medical treatment.
+            </sentence>
+            <sentence id="51" paragraph_id="10" start_char_index="164" length="31">
+You then returned to the
+floor.
+            </sentence>
+            <sentence id="52" paragraph_id="11" start_char_index="0" length="62">
+You were found to have some aspects of mania during your stay.
+            </sentence>
+            <sentence id="53" paragraph_id="11" start_char_index="63" length="72">
+Our Psychiatry team worked with you and suggested treatment with
+Haldol.
+            </sentence>
+            <sentence id="54" paragraph_id="11" start_char_index="137" length="94">
+They also suggested a stay in a psychiatric facility to
+help you gain control of this disease.
+            </sentence>
+        </note_excerpt_sentences>
+    </case>
+    <case id="9">
+        <clinical_specialty>
+obstetrics
+        </clinical_specialty>
+        <patient_narrative>
+I 8month delivered baby twins but the operation complicated.and I admitted icu jaundise and bleeding.docter side I live risk.baby yellow spread me and I have jaundice not normal jaundism. what treatment provide me at hospital.this is any problem me later
+        </patient_narrative>
+        <patient_question>
+            <phrase id="0" start_char_index="188">
+what treatment provide me at hospital.this is any problem me later
+            </phrase>
+        </patient_question>
+        <clinician_question>
+What treatments did she receive for complications during her delivery? Will the treatments cause any problems later?
+        </clinician_question>
+        <note_excerpt>
+Brief Hospital Course:
+The patient was initially admitted to the obstetrics and
+gynecology service for an emergent CSection in the setting of
+fetal distress and discordant growth. Her procedure was
+complicated by massive blood loss of 1.7 liters
+intraoperatively. She did not require a hysterectomy for control
+of her bleeding, but was found to have elevated LFTs (AST250
+ALT291 AP350 TBili 10.6 and INR 3.6) as well as rising
+creatinine. She was resuscitated with multiple blood product (2
+pRBC, 2 FFP, 4L NS) and was taken to the ICU intubated for
+further recovery with a tentative diagnosis of fatty liver of
+pregnancy. During this time she continued to be coagulopathic
+with worsening LFTs, and large transfusion requirements. The
+Acute Care Surgery Service was consulted, at which point she was
+noted to have an extremely distended abdomen with bladder
+pressures greater than 50 mmHg. Her Cr had improved from her
+intraoperative values, but she continued to have a rising
+lactate (5.4), evidence of end organ dysfunction (hypotension)
+and rising peak inspiratory pressures. A diagnosis of abdominal
+compartment syndrome was made and the patient taken to the
+operating room for an emergent decompressive laparotomy. She was
+found to have multiple bleeding sources including a left
+epigastric artgery, and diffuse surface bleeding from the liver
+without evidence of laceration. Due to ongoing bleeding and the
+patient's coagulopathy the patient was left with an open abdomen
+with a plan for washout following aggressive resuscitation. She
+was diagnosed with fulminant hepatic failure and transferred to
+the transplant surgery team for further management. Because the
+patient remained intubated and sedated, and no neurological
+assessment could be made, a CT Head was obtained that
+demonstrated significant cerebral edema but no evidence of
+intracranial hemorrhage, herniation or ischemia. Neurosurgery
+was consulted and a bolt placed and management per the standard
+bolt protocol. On [**2-24**] (POD#2) the patient was taken to the OR
+for abdominal washout, but continued to have significant bowel
+wall edema that prevented abdominal closure. She also required
+CVVH due to acute kidney injury, which was initiation on POD 0.
+She was managed with the fulminant hepatic failure guidelines
+and was listed for liver transplantation, with all of her
+relevant serologies negative. On [**2-25**], the patient continued to
+demonstrate no significant neurological function and an MRI was
+obtained without evidence of acute injury. She continued to be
+hypotensive and required D10 to maintain a normal blood glucose.
+Endocrinology was consulted for concern of sheehans syndrome or
+centrally mediated adrenal insufficiency, and cortisol levels
+were obtained, and were low. The patient was given a steroid
+burst with hydrocortisone and weaned to maintainence levels over
+the next several days. On [**2-27**] (POD5) the patient was taken to
+the operating room for an uneventful abdominal closure, and this
+was performed without difficulty.
+        </note_excerpt>
+        <note_excerpt_sentences>
+            <sentence id="1" paragraph_id="1" start_char_index="0" length="179">
+Brief Hospital Course:
+The patient was initially admitted to the obstetrics and
+gynecology service for an emergent CSection in the setting of
+fetal distress and discordant growth.
+            </sentence>
+            <sentence id="2" paragraph_id="1" start_char_index="180" length="83">
+Her procedure was
+complicated by massive blood loss of 1.7 liters
+intraoperatively.
+            </sentence>
+            <sentence id="3" paragraph_id="1" start_char_index="264" length="174">
+She did not require a hysterectomy for control
+of her bleeding, but was found to have elevated LFTs (AST250
+ALT291 AP350 TBili 10.6 and INR 3.6) as well as rising
+creatinine.
+            </sentence>
+            <sentence id="4" paragraph_id="1" start_char_index="439" length="183">
+She was resuscitated with multiple blood product (2
+pRBC, 2 FFP, 4L NS) and was taken to the ICU intubated for
+further recovery with a tentative diagnosis of fatty liver of
+pregnancy.
+            </sentence>
+            <sentence id="5" paragraph_id="1" start_char_index="623" length="107">
+During this time she continued to be coagulopathic
+with worsening LFTs, and large transfusion requirements.
+            </sentence>
+            <sentence id="6" paragraph_id="1" start_char_index="731" length="158">
+The
+Acute Care Surgery Service was consulted, at which point she was
+noted to have an extremely distended abdomen with bladder
+pressures greater than 50 mmHg.
+            </sentence>
+            <sentence id="7" paragraph_id="1" start_char_index="890" length="188">
+Her Cr had improved from her
+intraoperative values, but she continued to have a rising
+lactate (5.4), evidence of end organ dysfunction (hypotension)
+and rising peak inspiratory pressures.
+            </sentence>
+            <sentence id="8" paragraph_id="1" start_char_index="1079" length="140">
+A diagnosis of abdominal
+compartment syndrome was made and the patient taken to the
+operating room for an emergent decompressive laparotomy.
+            </sentence>
+            <sentence id="9" paragraph_id="1" start_char_index="1220" length="160">
+She was
+found to have multiple bleeding sources including a left
+epigastric artgery, and diffuse surface bleeding from the liver
+without evidence of laceration.
+            </sentence>
+            <sentence id="10" paragraph_id="1" start_char_index="1381" length="156">
+Due to ongoing bleeding and the
+patient's coagulopathy the patient was left with an open abdomen
+with a plan for washout following aggressive resuscitation.
+            </sentence>
+            <sentence id="11" paragraph_id="1" start_char_index="1538" length="119">
+She
+was diagnosed with fulminant hepatic failure and transferred to
+the transplant surgery team for further management.
+            </sentence>
+            <sentence id="12" paragraph_id="1" start_char_index="1658" length="233">
+Because the
+patient remained intubated and sedated, and no neurological
+assessment could be made, a CT Head was obtained that
+demonstrated significant cerebral edema but no evidence of
+intracranial hemorrhage, herniation or ischemia.
+            </sentence>
+            <sentence id="13" paragraph_id="1" start_char_index="1892" length="91">
+Neurosurgery
+was consulted and a bolt placed and management per the standard
+bolt protocol.
+            </sentence>
+            <sentence id="14" paragraph_id="1" start_char_index="1984" length="161">
+On [**2-24**] (POD#2) the patient was taken to the OR
+for abdominal washout, but continued to have significant bowel
+wall edema that prevented abdominal closure.
+            </sentence>
+            <sentence id="15" paragraph_id="1" start_char_index="2146" length="81">
+She also required
+CVVH due to acute kidney injury, which was initiation on POD 0.
+            </sentence>
+            <sentence id="16" paragraph_id="1" start_char_index="2228" length="149">
+She was managed with the fulminant hepatic failure guidelines
+and was listed for liver transplantation, with all of her
+relevant serologies negative.
+            </sentence>
+            <sentence id="17" paragraph_id="1" start_char_index="2378" length="146">
+On [**2-25**], the patient continued to
+demonstrate no significant neurological function and an MRI was
+obtained without evidence of acute injury.
+            </sentence>
+            <sentence id="18" paragraph_id="1" start_char_index="2525" length="84">
+She continued to be
+hypotensive and required D10 to maintain a normal blood glucose.
+            </sentence>
+            <sentence id="19" paragraph_id="1" start_char_index="2610" length="154">
+Endocrinology was consulted for concern of sheehans syndrome or
+centrally mediated adrenal insufficiency, and cortisol levels
+were obtained, and were low.
+            </sentence>
+            <sentence id="20" paragraph_id="1" start_char_index="2765" length="119">
+The patient was given a steroid
+burst with hydrocortisone and weaned to maintainence levels over
+the next several days.
+            </sentence>
+            <sentence id="21" paragraph_id="1" start_char_index="2885" length="144">
+On [**2-27**] (POD5) the patient was taken to
+the operating room for an uneventful abdominal closure, and this
+was performed without difficulty.
+            </sentence>
+        </note_excerpt_sentences>
+    </case>
+    <case id="10">
+        <clinical_specialty>
+cardiovascular
+        </clinical_specialty>
+        <patient_narrative>
+Hi There, my best friend who is 36 yrs old have a severe asthma attack, quick led to a heart attack and stopped breathing for 13 min before being resuscitated. After being in ICU for 6 days, doctors removed his breathing apparatus and he has been able to breathe independently since. I realize he most likely sustained some brain damage , but do you think he mte be able to continue breathing for long and survive?
+        </patient_narrative>
+        <patient_question>
+            <phrase id="0" start_char_index="284">
+I realize he most likely sustained some brain damage , but do you think he mte be able to continue breathing for long and survive?
+            </phrase>
+        </patient_question>
+        <clinician_question>
+Did she sustain any brain damage from the heart attack?
+        </clinician_question>
+        <note_excerpt>
+Brief Hospital Course:
+
+# PEA arrest and subsequent anoxic brain injury.: Suspect that
+original OSH PEA arrest due to hypoxemia or acidosis, with [**Hospital1 18**]
+ED PEA arrest due to acidosis with admission pH 7.16 on arrival.
+ TTE with evidence of RV failure to suggest PE. LVEF 30% with
+known dilated cardiomyopathy. He was cooled per protocol.
+Initially, his EEG was concerning without evident brain
+activity. On hospital day 3, there was only comatose activity
+and his prognosis was guarded. However, the patient was able to
+be weaned off the vent and over the course of the next three
+days his mental status improved.  He was alert, oriented to
+place and day of the week and moving all 4 extremities.  He
+became more interactive on transfer to the floor, was initially
+speaking in spanish and English and not always making sense but
+then started responding more appropiately and following
+commands.  On hospital day 11 he had a witnessed grand mal
+seizure and was given ativan and started on Keppra with
+neurology consult.  His mental status was worse for 24 hours
+after the seizure but then he slowly returned to his recent
+baseline.  He was somewhat aggitated so his Keppra was switched
+to Topiramate. He had a subsequent seizure on [**3-18**] with LUE
+tonic clonic activity and impaired consciousness but this
+resolved spontaneously after 1-2 minutes. He was contineud on
+topamax per neuro recommendations. OT and PT were consulted and
+worked with the patient as he will likely require a long
+rehabilitation course.  At the time of discharge the patient was
+alert, oriented (though not always to date), following commands
+but impulsive with poor motor planning leading to several falls.
+ Neurology notes indicate the patient has the potential
+toimprove from a neurologic standpoint. He also may have
+recurrent seizures which should be treated with ativan IV or IM
+and do not neccessarily indicate patient needs to return to
+hospital unless they continue for greater than 5 minutes or he
+has multiple recurrent seizures or complications such as
+aspiration.
+-patient will be on Topiramate 25mg PO BID until [**3-22**] PM then
+increase to 50mg po BID for seven days then increase to 75mg [**Hospital1 **]
+ongoing.
+-patient will follow up with Dr. [**Last Name (STitle) **] [**Name (STitle) **] in his s/p
+arrest neurology clinic
+-patient will require intensive PT and OT in an anoxic brain
+injury unit.
+
+Discharge Diagnosis:
+Anoxic Brain Injury s/p PEA arrest x2
+Status Asthmaticus
+Ventilator Associated Pneumonia
+Chronic Systolic Heart Failure
+L1 compression fracture
+Seizures after hypoxic brain injury
+
+
+Discharge Condition:
+Mental Status: Confused - sometimes.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker
+or cane) because he has poor motor planning
+
+
+Discharge Instructions:
+You came to the hospital after having a cardiac arrest and an
+asthma exacerbation.  You had another cardiac arrest in our
+hospital and were admitted to the MICU.  You required intubation
+but were able to wean off the machine and breathe on your own.
+We treated you for pneumonia and asthma.  Your mental status
+slowly improved, though you did have 2 seizures, last on [**3-18**].
+You were started ons eizure medications for this.
+
+Please take your medications as prescribed and follow up with
+your doctors [**Name5 (PTitle) 7928**].
+        </note_excerpt>
+        <note_excerpt_sentences>
+            <sentence id="1" paragraph_id="1" start_char_index="0" length="22">
+Brief Hospital Course:
+            </sentence>
+            <sentence id="2" paragraph_id="2" start_char_index="0" length="49">
+# PEA arrest and subsequent anoxic brain injury.:
+            </sentence>
+            <sentence id="3" paragraph_id="2" start_char_index="50" length="155">
+Suspect that
+original OSH PEA arrest due to hypoxemia or acidosis, with [**Hospital1 18**]
+ED PEA arrest due to acidosis with admission pH 7.16 on arrival.
+            </sentence>
+            <sentence id="4" paragraph_id="2" start_char_index="207" length="90">
+TTE with evidence of RV failure to suggest PE. LVEF 30% with
+known dilated cardiomyopathy.
+            </sentence>
+            <sentence id="5" paragraph_id="2" start_char_index="298" length="27">
+He was cooled per protocol.
+            </sentence>
+            <sentence id="6" paragraph_id="2" start_char_index="326" length="65">
+Initially, his EEG was concerning without evident brain
+activity.
+            </sentence>
+            <sentence id="7" paragraph_id="2" start_char_index="392" length="82">
+On hospital day 3, there was only comatose activity
+and his prognosis was guarded.
+            </sentence>
+            <sentence id="8" paragraph_id="2" start_char_index="475" length="126">
+However, the patient was able to
+be weaned off the vent and over the course of the next three
+days his mental status improved.
+            </sentence>
+            <sentence id="9" paragraph_id="2" start_char_index="603" length="81">
+He was alert, oriented to
+place and day of the week and moving all 4 extremities.
+            </sentence>
+            <sentence id="10" paragraph_id="2" start_char_index="686" length="196">
+He
+became more interactive on transfer to the floor, was initially
+speaking in spanish and English and not always making sense but
+then started responding more appropiately and following
+commands.
+            </sentence>
+            <sentence id="11" paragraph_id="2" start_char_index="884" length="122">
+On hospital day 11 he had a witnessed grand mal
+seizure and was given ativan and started on Keppra with
+neurology consult.
+            </sentence>
+            <sentence id="12" paragraph_id="2" start_char_index="1008" length="110">
+His mental status was worse for 24 hours
+after the seizure but then he slowly returned to his recent
+baseline.
+            </sentence>
+            <sentence id="13" paragraph_id="2" start_char_index="1120" length="67">
+He was somewhat aggitated so his Keppra was switched
+to Topiramate.
+            </sentence>
+            <sentence id="14" paragraph_id="2" start_char_index="1188" length="150">
+He had a subsequent seizure on [**3-18**] with LUE
+tonic clonic activity and impaired consciousness but this
+resolved spontaneously after 1-2 minutes.
+            </sentence>
+            <sentence id="15" paragraph_id="2" start_char_index="1339" length="54">
+He was contineud on
+topamax per neuro recommendations.
+            </sentence>
+            <sentence id="16" paragraph_id="2" start_char_index="1394" length="108">
+OT and PT were consulted and
+worked with the patient as he will likely require a long
+rehabilitation course.
+            </sentence>
+            <sentence id="17" paragraph_id="2" start_char_index="1504" length="169">
+At the time of discharge the patient was
+alert, oriented (though not always to date), following commands
+but impulsive with poor motor planning leading to several falls.
+            </sentence>
+            <sentence id="18" paragraph_id="2" start_char_index="1675" length="94">
+Neurology notes indicate the patient has the potential
+toimprove from a neurologic standpoint.
+            </sentence>
+            <sentence id="19" paragraph_id="2" start_char_index="1770" length="272">
+He also may have
+recurrent seizures which should be treated with ativan IV or IM
+and do not neccessarily indicate patient needs to return to
+hospital unless they continue for greater than 5 minutes or he
+has multiple recurrent seizures or complications such as
+aspiration.
+            </sentence>
+            <sentence id="20" paragraph_id="2" start_char_index="2043" length="154">
+-patient will be on Topiramate 25mg PO BID until [**3-22**] PM then
+increase to 50mg po BID for seven days then increase to 75mg [**Hospital1 **]
+ongoing.
+            </sentence>
+            <sentence id="21" paragraph_id="2" start_char_index="2198" length="188">
+-patient will follow up with Dr. [**Last Name (STitle) **] [**Name (STitle) **] in his s/p
+arrest neurology clinic
+-patient will require intensive PT and OT in an anoxic brain
+injury unit.
+            </sentence>
+            <sentence id="22" paragraph_id="3" start_char_index="0" length="200">
+Discharge Diagnosis:
+Anoxic Brain Injury s/p PEA arrest x2
+Status Asthmaticus
+Ventilator Associated Pneumonia
+Chronic Systolic Heart Failure
+L1 compression fracture
+Seizures after hypoxic brain injury
+            </sentence>
+            <sentence id="23" paragraph_id="4" start_char_index="0" length="57">
+Discharge Condition:
+Mental Status: Confused - sometimes.
+            </sentence>
+            <sentence id="24" paragraph_id="4" start_char_index="58" length="46">
+Level of Consciousness: Alert and interactive.
+            </sentence>
+            <sentence id="25" paragraph_id="4" start_char_index="105" length="108">
+Activity Status: Ambulatory - requires assistance or aid (walker
+or cane) because he has poor motor planning
+            </sentence>
+            <sentence id="26" paragraph_id="5" start_char_index="0" length="106">
+Discharge Instructions:
+You came to the hospital after having a cardiac arrest and an
+asthma exacerbation.
+            </sentence>
+            <sentence id="27" paragraph_id="5" start_char_index="108" length="77">
+You had another cardiac arrest in our
+hospital and were admitted to the MICU.
+            </sentence>
+            <sentence id="28" paragraph_id="5" start_char_index="187" length="86">
+You required intubation
+but were able to wean off the machine and breathe on your own.
+            </sentence>
+            <sentence id="29" paragraph_id="5" start_char_index="274" length="40">
+We treated you for pneumonia and asthma.
+            </sentence>
+            <sentence id="30" paragraph_id="5" start_char_index="316" length="87">
+Your mental status
+slowly improved, though you did have 2 seizures, last on [**3-18**].
+            </sentence>
+            <sentence id="31" paragraph_id="5" start_char_index="404" length="49">
+You were started ons eizure medications for this.
+            </sentence>
+            <sentence id="32" paragraph_id="6" start_char_index="0" length="101">
+Please take your medications as prescribed and follow up with
+your doctors [**Name5 (PTitle) 7928**].
+            </sentence>
+        </note_excerpt_sentences>
+    </case>
+    <case id="11">
+        <clinical_specialty>
+infectious diseases
+        </clinical_specialty>
+        <patient_narrative>
+A friend went to the emergency room this past Monday morning with severe flu-like symptoms. On Thursday, she was diagnosed with meningitis. On Friday afternoon, it was determined to be viral, and she was rereleased with instructions to stay home and rest for 1 week. Yesterday she was beginning to feel better, but is not feeling as well today as yesterday. Is this fall back today a normal part of the recovery process, or Is it a sign of a possible relapse? Should she perhaps be gotten back to the hospitals? Thanks for your time.
+        </patient_narrative>
+        <patient_question>
+            <phrase id="0" start_char_index="358">
+Is this fall back today a normal part of the recovery process, or Is it a sign of a possible relapse?
+            </phrase>
+        </patient_question>
+        <clinician_question>
+What is the expected course of her recovery?
+        </clinician_question>
+        <note_excerpt>
+Brief Hospital Course:
+___ with h/o hypothyroidism secondary to Hashimoto's, Chiari 
+malformation s/p posterior fossa decompression surgery ___, 
+h/o aseptic meningitis ___ p/w meningitis
+
+# Meningitis: Pt. presented with headaches, neck stiffness, and 
+fevers.  Given concern for meningitis, she was initially started 
+on vanc/ctx/acyclovir. Encephalitis was unlikely as patient had 
+normal mental status. ___ LP on ___ showed WBCs 130s 
+(70% lymphocytes). CSF HSV PCR was negative, and her blood Lyme 
+serologies were negative. It was concluded that she had aseptic 
+meninigitis, and she was taken off all antibiotics and 
+antivirals by discharge.   
+
+She received IV dilaudid 0.5mg, ibuprofen, and tylenol for pain 
+control in the hospital. She was discharge home on PO dilaudid 
+___ Q4H as needed.
+
+Discharge Medications:
+1. Levothyroxine Sodium 225 mcg PO DAILY 
+2. Multivitamins 1 TAB PO DAILY 
+3. HYDROmorphone (Dilaudid) ___ mg PO Q4H:PRN head pain 
+Please take ___ mg as needed. Do not take more than 24mg each 
+day.  
+RX *hydromorphone 2 mg ___ tablet(s) by mouth every 4 hours Disp 
+#*24 Tablet Refills:*0
+4. Acetaminophen 650 mg PO Q6H:PRN pain 
+Do not exceed 3gm/day. 
+5. Ibuprofen 400 mg PO Q6H:PRN pain 
+6. Ondansetron 4 mg PO Q8H:PRN nausea 
+RX *ondansetron 4 mg 1 tablet(s) by mouth every 8 hours Disp 
+#*12 Tablet Refills:*0
+
+Discharge Instructions:
+Dear ___,
+
+___ were admitted to the hospital for fevers and neck stiffness. 
+___ were found to have meningitis, likely caused by a virus. We 
+gave ___ acyclovir, vancomycin, and ceftriaxone initially. Your 
+lab tests and lumbar puncture results ruled out bacterial, HSV, 
+and Lyme meningitis. 
+
+___ were started on a new medication, dilaudid, for pain 
+control. ___ were also on zofran for nausea. ___ can use these 
+medications as needed.  
+
+All of your medications are detailed in your discharge 
+medication list. ___ should review this carefully and take it 
+with ___ to any follow up appointments.
+        </note_excerpt>
+        <note_excerpt_sentences>
+            <sentence id="1" paragraph_id="1" start_char_index="0" length="185">
+Brief Hospital Course:
+___ with h/o hypothyroidism secondary to Hashimoto's, Chiari
+malformation s/p posterior fossa decompression surgery ___,
+h/o aseptic meningitis ___ p/w meningitis
+            </sentence>
+            <sentence id="2" paragraph_id="2" start_char_index="0" length="71">
+# Meningitis: Pt. presented with headaches, neck stiffness, and
+fevers.
+            </sentence>
+            <sentence id="3" paragraph_id="2" start_char_index="73" length="78">
+Given concern for meningitis, she was initially started
+on vanc/ctx/acyclovir.
+            </sentence>
+            <sentence id="4" paragraph_id="2" start_char_index="152" length="62">
+Encephalitis was unlikely as patient had
+normal mental status.
+            </sentence>
+            <sentence id="5" paragraph_id="2" start_char_index="215" length="49">
+___ LP on ___ showed WBCs 130s
+(70% lymphocytes).
+            </sentence>
+            <sentence id="6" paragraph_id="2" start_char_index="265" length="70">
+CSF HSV PCR was negative, and her blood Lyme
+serologies were negative.
+            </sentence>
+            <sentence id="7" paragraph_id="2" start_char_index="336" length="117">
+It was concluded that she had aseptic
+meninigitis, and she was taken off all antibiotics and
+antivirals by discharge.
+            </sentence>
+            <sentence id="8" paragraph_id="3" start_char_index="0" length="88">
+She received IV dilaudid 0.5mg, ibuprofen, and tylenol for pain
+control in the hospital.
+            </sentence>
+            <sentence id="9" paragraph_id="3" start_char_index="89" length="56">
+She was discharge home on PO dilaudid
+___ Q4H as needed.
+            </sentence>
+            <sentence id="10" paragraph_id="4" start_char_index="0" length="123">
+Discharge Medications:
+1. Levothyroxine Sodium 225 mcg PO DAILY
+2. Multivitamins 1 TAB PO DAILY
+3. HYDROmorphone (Dilaudid)
+            </sentence>
+            <sentence id="11" paragraph_id="4" start_char_index="124" length="27">
+___ mg PO Q4H:PRN head pain
+            </sentence>
+            <sentence id="12" paragraph_id="4" start_char_index="152" length="29">
+Please take ___ mg as needed.
+            </sentence>
+            <sentence id="13" paragraph_id="4" start_char_index="182" length="36">
+Do not take more than 24mg each
+day.
+            </sentence>
+            <sentence id="14" paragraph_id="4" start_char_index="219" length="90">
+RX *hydromorphone 2 mg ___ tablet(s) by mouth every 4 hours Disp
+#*24 Tablet Refills:*0
+4.
+            </sentence>
+            <sentence id="15" paragraph_id="4" start_char_index="310" length="36">
+Acetaminophen 650 mg PO Q6H:PRN pain
+            </sentence>
+            <sentence id="16" paragraph_id="4" start_char_index="347" length="22">
+Do not exceed 3gm/day.
+            </sentence>
+            <sentence id="17" paragraph_id="4" start_char_index="370" length="157">
+5. Ibuprofen 400 mg PO Q6H:PRN pain
+6. Ondansetron 4 mg PO Q8H:PRN nausea
+RX *ondansetron 4 mg 1 tablet(s) by mouth every 8 hours Disp
+#*12 Tablet Refills:*0
+            </sentence>
+            <sentence id="18" paragraph_id="5" start_char_index="0" length="33">
+Discharge Instructions:
+Dear ___,
+            </sentence>
+            <sentence id="19" paragraph_id="6" start_char_index="0" length="64">
+___ were admitted to the hospital for fevers and neck stiffness.
+            </sentence>
+            <sentence id="20" paragraph_id="6" start_char_index="65" length="60">
+___ were found to have meningitis, likely caused by a virus.
+            </sentence>
+            <sentence id="21" paragraph_id="6" start_char_index="126" length="61">
+We
+gave ___ acyclovir, vancomycin, and ceftriaxone initially.
+            </sentence>
+            <sentence id="22" paragraph_id="6" start_char_index="188" length="89">
+Your
+lab tests and lumbar puncture results ruled out bacterial, HSV,
+and Lyme meningitis.
+            </sentence>
+            <sentence id="23" paragraph_id="7" start_char_index="0" length="65">
+___ were started on a new medication, dilaudid, for pain
+control.
+            </sentence>
+            <sentence id="24" paragraph_id="7" start_char_index="66" length="35">
+___ were also on zofran for nausea.
+            </sentence>
+            <sentence id="25" paragraph_id="7" start_char_index="102" length="40">
+___ can use these
+medications as needed.
+            </sentence>
+            <sentence id="26" paragraph_id="8" start_char_index="0" length="71">
+All of your medications are detailed in your discharge
+medication list.
+            </sentence>
+            <sentence id="27" paragraph_id="8" start_char_index="72" length="84">
+___ should review this carefully and take it
+with ___ to any follow up appointments.
+            </sentence>
+        </note_excerpt_sentences>
+    </case>
+    <case id="12">
+        <clinical_specialty>
+pain management
+        </clinical_specialty>
+        <patient_narrative>
+My Mom just called me complaining of stomach pain that extends up to her chest and back. She had this same pain last week and I took her to the er. they checked her heart and said things were fine. Pain is bad enough to keep her up at night. What do you think?
+        </patient_narrative>
+        <patient_question>
+            <phrase id="0" start_char_index="37">
+stomach pain that extends up to her chest and back
+            </phrase>
+            <phrase id="1" start_char_index="242">
+What do you think?
+            </phrase>
+        </patient_question>
+        <clinician_question>
+What can cause her persistent stomach pain?
+        </clinician_question>
+        <note_excerpt>
+Discharge Instructions:
+
+WHY WAS I IN THE HOSPITAL?
+ 
+===========================
+- You had abdominal pain. 
+- You also had chest pain. Your EKG and cardiac markers results 
+did not show changes or signs of heart problems or blockages in 
+your heart vessels.
+  
+WHAT HAPPENED IN THE HOSPITAL?
+ 
+==============================
+- Your abdominal pain was controlled with anti-nausea medicine 
+and insulin
+- All tests were reassuring that your chest pain is not caused 
+by problem with your heart vessels 
+- Your chest pain was managed with nitroglycerin 
+ 
+WHAT SHOULD I DO WHEN I GO HOME?
+ 
+================================
+ 
+- Follow up with your doctors regarding additional ___ for 
+your abdominal pain
+- Take all medicines as prescribed
+        </note_excerpt>
+        <note_excerpt_sentences>
+            <sentence id="1" paragraph_id="1" start_char_index="0" length="23">
+Discharge Instructions:
+            </sentence>
+            <sentence id="2" paragraph_id="2" start_char_index="0" length="26">
+WHY WAS I IN THE HOSPITAL?
+            </sentence>
+            <sentence id="3" paragraph_id="3" start_char_index="0" length="27">
+===========================
+            </sentence>
+            <sentence id="4" paragraph_id="3" start_char_index="28" length="1">
+-
+            </sentence>
+            <sentence id="5" paragraph_id="3" start_char_index="30" length="23">
+You had abdominal pain.
+            </sentence>
+            <sentence id="6" paragraph_id="3" start_char_index="54" length="26">
+- You also had chest pain.
+            </sentence>
+            <sentence id="7" paragraph_id="3" start_char_index="81" length="120">
+Your EKG and cardiac markers results
+did not show changes or signs of heart problems or blockages in
+your heart vessels.
+            </sentence>
+            <sentence id="8" paragraph_id="4" start_char_index="0" length="30">
+WHAT HAPPENED IN THE HOSPITAL?
+            </sentence>
+            <sentence id="9" paragraph_id="5" start_char_index="0" length="30">
+==============================
+            </sentence>
+            <sentence id="10" paragraph_id="5" start_char_index="31" length="1">
+-
+            </sentence>
+            <sentence id="11" paragraph_id="5" start_char_index="33" length="219">
+Your abdominal pain was controlled with anti-nausea medicine
+and insulin
+- All tests were reassuring that your chest pain is not caused
+by problem with your heart vessels
+- Your chest pain was managed with nitroglycerin
+            </sentence>
+            <sentence id="12" paragraph_id="6" start_char_index="0" length="32">
+WHAT SHOULD I DO WHEN I GO HOME?
+            </sentence>
+            <sentence id="13" paragraph_id="7" start_char_index="0" length="32">
+================================
+            </sentence>
+            <sentence id="14" paragraph_id="8" start_char_index="0" length="113">
+- Follow up with your doctors regarding additional ___ for
+your abdominal pain
+- Take all medicines as prescribed
+            </sentence>
+        </note_excerpt_sentences>
+    </case>
+    <case id="13">
+        <clinical_specialty>
+rehabilitation|neurology
+        </clinical_specialty>
+        <patient_narrative>
+I have a tumor in my back and I have 3 disc bulge. I also have peripheral neuropathy. I went to the er and that's what they found. Now my legs can't move and I'm in severe pain. They told me to see my doctor in a week but he's on vacation. What can I do to help myself?
+        </patient_narrative>
+        <patient_question>
+            <phrase id="0" start_char_index="131">
+Now my legs can't move and I'm in severe pain.
+            </phrase>
+            <phrase id="1" start_char_index="240">
+What can I do to help myself?
+            </phrase>
+        </patient_question>
+        <clinician_question>
+What should the patient do if she is in in pain and cannot move her legs?
+        </clinician_question>
+        <note_excerpt>
+Brief Hospital Course:
+Patient admitted to the general neurology service. MRI of the T 
+and L spine were obtained which showed stable degenerative disc 
+disease without spinal cord compromise. On the morning following 
+admission the patient was eager to leave the hospital. We 
+explained that we would like her to be evaluated by physical 
+therapy before discharge. She was informed that leaving the 
+hospital may result in permanent paralysis. She expressed 
+understanding of this risk and left the hospital against medical 
+advice.
+
+Discharge Instructions:
+
+You were seen in the hospital for leg numbness and weakness.  We 
+did an MRI of your middle and lower back but did not do one of 
+your neck.  We wanted you to stay in the hospital for this and a 
+physical therapy evaluation, but you decided to leave against 
+medical advice.  We explained to you that this would put you at 
+risk for permanent paralysis if you did not stay for an 
+evaluation but you decided to leave despite understanding this 
+risk.
+
+We did not change any of your medications.
+        </note_excerpt>
+        <note_excerpt_sentences>
+            <sentence id="1" paragraph_id="1" start_char_index="0" length="73">
+Brief Hospital Course:
+Patient admitted to the general neurology service.
+            </sentence>
+            <sentence id="2" paragraph_id="1" start_char_index="74" length="116">
+MRI of the T
+and L spine were obtained which showed stable degenerative disc
+disease without spinal cord compromise.
+            </sentence>
+            <sentence id="3" paragraph_id="1" start_char_index="191" length="79">
+On the morning following
+admission the patient was eager to leave the hospital.
+            </sentence>
+            <sentence id="4" paragraph_id="1" start_char_index="271" length="89">
+We
+explained that we would like her to be evaluated by physical
+therapy before discharge.
+            </sentence>
+            <sentence id="5" paragraph_id="1" start_char_index="361" length="77">
+She was informed that leaving the
+hospital may result in permanent paralysis.
+            </sentence>
+            <sentence id="6" paragraph_id="1" start_char_index="439" length="86">
+She expressed
+understanding of this risk and left the hospital against medical
+advice.
+            </sentence>
+            <sentence id="7" paragraph_id="2" start_char_index="0" length="23">
+Discharge Instructions:
+            </sentence>
+            <sentence id="8" paragraph_id="3" start_char_index="0" length="60">
+You were seen in the hospital for leg numbness and weakness.
+            </sentence>
+            <sentence id="9" paragraph_id="3" start_char_index="62" length="76">
+We
+did an MRI of your middle and lower back but did not do one of
+your neck.
+            </sentence>
+            <sentence id="10" paragraph_id="3" start_char_index="140" length="130">
+We wanted you to stay in the hospital for this and a
+physical therapy evaluation, but you decided to leave against
+medical advice.
+            </sentence>
+            <sentence id="11" paragraph_id="3" start_char_index="272" length="171">
+We explained to you that this would put you at
+risk for permanent paralysis if you did not stay for an
+evaluation but you decided to leave despite understanding this
+risk.
+            </sentence>
+            <sentence id="12" paragraph_id="4" start_char_index="0" length="42">
+We did not change any of your medications.
+            </sentence>
+        </note_excerpt_sentences>
+    </case>
+    <case id="14">
+        <clinical_specialty>
+gastroenterology
+        </clinical_specialty>
+        <patient_narrative>
+I have had for almost one month extreme pain in my lower left side directly after eating. I’ve had, recently, a urinalysis, bloodwork, and been to ER for a ultrasonic scan of stomach, and a barium CT yesterday. They can t seem to find out what’s wrong, I am under lots of stress at work and thought it might be diverticulitis but hospital drs. yesterday said that is out and also any urinary tract infection is out. What would you say about cancer in the stomach?
+        </patient_narrative>
+        <patient_question>
+            <phrase id="0" start_char_index="416">
+What would you say about cancer in the stomach?
+            </phrase>
+        </patient_question>
+        <clinician_question>
+Was there any evidence for stomach cancer?
+        </clinician_question>
+        <note_excerpt>
+Discharge Instructions:
+You were admitted to the hospital with a partial small bowel 
+obstruction. With time, your obstruction dramatically improved 
+and you were able to eat regular food. 
+
+Constipation will worsen your symptoms. Unfortunately, you have 
+trouble tolerating stool softeners and you get diarrhea very 
+easily. Fiber is the most gentle treatment for constipation. 
+Please take fiber supplements (Metamucil) twice daily. Consider 
+also taking ___ each day if you can tolerate it, but start 
+with a small dose (half a scoop).
+
+You will follow up with your oncologist (Dr. ___ for 
+consideration of further treatment of your bladder cancer. You 
+will also follow up with your gastroenterologist (Dr. ___.
+        </note_excerpt>
+        <note_excerpt_sentences>
+            <sentence id="1" paragraph_id="1" start_char_index="0" length="97">
+Discharge Instructions:
+You were admitted to the hospital with a partial small bowel
+obstruction.
+            </sentence>
+            <sentence id="2" paragraph_id="1" start_char_index="98" length="88">
+With time, your obstruction dramatically improved
+and you were able to eat regular food.
+            </sentence>
+            <sentence id="3" paragraph_id="2" start_char_index="0" length="39">
+Constipation will worsen your symptoms.
+            </sentence>
+            <sentence id="4" paragraph_id="2" start_char_index="40" length="92">
+Unfortunately, you have
+trouble tolerating stool softeners and you get diarrhea very
+easily.
+            </sentence>
+            <sentence id="5" paragraph_id="2" start_char_index="133" length="52">
+Fiber is the most gentle treatment for constipation.
+            </sentence>
+            <sentence id="6" paragraph_id="2" start_char_index="186" length="54">
+Please take fiber supplements (Metamucil) twice daily.
+            </sentence>
+            <sentence id="7" paragraph_id="2" start_char_index="241" length="101">
+Consider
+also taking ___ each day if you can tolerate it, but start
+with a small dose (half a scoop).
+            </sentence>
+            <sentence id="8" paragraph_id="3" start_char_index="0" length="111">
+You will follow up with your oncologist (Dr. ___ for
+consideration of further treatment of your bladder cancer.
+            </sentence>
+            <sentence id="9" paragraph_id="3" start_char_index="112" length="62">
+You
+will also follow up with your gastroenterologist (Dr. ___.
+            </sentence>
+        </note_excerpt_sentences>
+    </case>
+    <case id="15">
+        <clinical_specialty>
+urology
+        </clinical_specialty>
+        <patient_narrative>
+Hi. I came to the hospital with testicle pain and swelling and got antibiotics for a penis skin infection. My pain went away but now my testicles have become very weird hanging and it seems like they shrunk in size. I went to the ER and they told me it was all normal. I tried masturbating and when I ejaculated the sperm was very watery and there is no white just clear like water. Very little sticky. What’s really going on here? I’m afraid it might have spread to my prostate and seminal vesicles too... Does this mean I’m infertile?
+        </patient_narrative>
+        <patient_question>
+            <phrase id="0" start_char_index="4">
+I came to the hospital with testicle pain and swelling and got antibiotics for a penis skin infection.
+            </phrase>
+            <phrase id="1" start_char_index="432">
+I’m afraid it might have spread to my prostate and seminal vesicles too... Does this mean I’m infertile?
+            </phrase>
+        </patient_question>
+        <clinician_question>
+Did his infection spread to other anatomies causing infertility?
+        </clinician_question>
+        <note_excerpt>
+Discharge Instructions:
+
+It was a pleasure to take care of you at the ___.  You came 
+for further evaluation of penis and scrotum swelling.  Further 
+evaluation revealed that you likely have a skin infection on the 
+surface of the penis.  Antibiotics are being prescribed to help 
+take care of this infection.  You will require close follow-up 
+to confirm eradication of your infection.  It is important that 
+you continue to take your medications as indicated.
+
+The following changes have been made to your medications:
+
+We ADDED Bactrim and Levofloxacin for treatment of your skin 
+infection, which you should take until finished with the 
+prescription.
+We ADDED emtricitabine-tenofovir and lopinavir-ritonavir for 
+prophylaxis for possible HIV infection.  You will take this for 
+a total 2-week course.  Your new provider at ___ will 
+direct you further concerning this treatment.
+        </note_excerpt>
+        <note_excerpt_sentences>
+            <sentence id="1" paragraph_id="1" start_char_index="0" length="23">
+Discharge Instructions:
+            </sentence>
+            <sentence id="2" paragraph_id="2" start_char_index="0" length="49">
+It was a pleasure to take care of you at the ___.
+            </sentence>
+            <sentence id="3" paragraph_id="2" start_char_index="51" length="62">
+You came
+for further evaluation of penis and scrotum swelling.
+            </sentence>
+            <sentence id="4" paragraph_id="2" start_char_index="115" length="94">
+Further
+evaluation revealed that you likely have a skin infection on the
+surface of the penis.
+            </sentence>
+            <sentence id="5" paragraph_id="2" start_char_index="211" length="69">
+Antibiotics are being prescribed to help
+take care of this infection.
+            </sentence>
+            <sentence id="6" paragraph_id="2" start_char_index="282" length="74">
+You will require close follow-up
+to confirm eradication of your infection.
+            </sentence>
+            <sentence id="7" paragraph_id="2" start_char_index="358" length="72">
+It is important that
+you continue to take your medications as indicated.
+            </sentence>
+            <sentence id="8" paragraph_id="3" start_char_index="0" length="57">
+The following changes have been made to your medications:
+            </sentence>
+            <sentence id="9" paragraph_id="4" start_char_index="0" length="131">
+We ADDED Bactrim and Levofloxacin for treatment of your skin
+infection, which you should take until finished with the
+prescription.
+            </sentence>
+            <sentence id="10" paragraph_id="4" start_char_index="132" length="100">
+We ADDED emtricitabine-tenofovir and lopinavir-ritonavir for
+prophylaxis for possible HIV infection.
+            </sentence>
+            <sentence id="11" paragraph_id="4" start_char_index="234" length="45">
+You will take this for
+a total 2-week course.
+            </sentence>
+            <sentence id="12" paragraph_id="4" start_char_index="281" length="75">
+Your new provider at ___ will
+direct you further concerning this treatment.
+            </sentence>
+        </note_excerpt_sentences>
+    </case>
+    <case id="16">
+        <clinical_specialty>
+pain management
+        </clinical_specialty>
+        <patient_narrative>
+I have central canal stenosis, compromise of the left paracentral thecal sac and left nerve root, facet hypertrophy/ligamentous flavum hypertrophy, bilateral inferior neural foraminal narrowing, and a paracentral disc protrusion. The pain presented in May and has worsened to its present state today. I can’t sleep, can’t sit up straight, can’t sit in my office chair at work for long periods, can’t even change my babies diaper without excruciating pain. The pain from sneezing and coughing is so bad I try to avoid doing this altogether. Now I walk with a limp at all times and my left leg is weak and the left foot is partially numb. Yesterday I started feeling dizzy throughout the day, almost passed out while sitting down. Dizziness has continued into today. Should I be concerned about a stroke?
+        </patient_narrative>
+        <patient_question>
+            <phrase id="0" start_char_index="230">
+The pain presented in May and has worsened to its present state today.
+            </phrase>
+            <phrase id="1" start_char_index="729">
+Dizziness has continued into today. Should I be concerned about a stroke?
+            </phrase>
+        </patient_question>
+        <clinician_question>
+Could her back pain and dizziness be concerning for a stroke?
+        </clinician_question>
+        <note_excerpt>
+Brief Hospital Course:
+
+ACUTE/ACTIVE PROBLEMS:
+# Chronic Abdominal pain with flare of nausea/vomiting:
+Patient with several year history of episodic severe epigastric 
+abdominal pain, nausea, and vomiting with prior gastrointestinal 
+evaluation unrevealing. The patient has had an abnormal gastric 
+emptying study in the past, but most recently on ___ her 
+gastric emptying was normal. Prior abdominal imaging with 
+pancreatic divisum but no evidence of chronic pancreatitis. She 
+complained of two distinct types of back pain, upper back pain 
+thought possibly related to abdominal pain but unclear. Saw 
+outpatient gastroenterologist on the day of presentation, who 
+scheduled EUS to rule out pancreatic cause. Consulted advanced 
+endoscopy team, and they felt that pancreas divisum would not be 
+a likely cause of her pain. She had an unremarkable CT A/P with 
+contrast and EUS which was unrevealing for a cause of abdominal 
+pain, but did note fatty pancreas. Results discussed with 
+outpatient GI provider, who felt her abdominal pain at this 
+point may be referred or radiating from the spine and 
+recommended outpatient pain consult and followup as scheduled. 
+She initially required IV dilaudid and PO oxycodone for pain 
+control, and says she takes oxycodone rarely at home for pain 
+flares. Received IV -&gt; PO antiemetics. She had no episodes of 
+emesis. Pain and nausea improved and she was able to tolerate PO 
+by discharge. She was started on IV Famotidine, which was 
+transitioned to PO and continued on discharge, though she had no 
+evidence of esophagitis/gastritis on EUS so this can probably be 
+quickly discontinued if no apparent benefit. Ultimately still 
+unclear why she is having such severe abdominal pain.
+
+# Chronic Mid back pain:
+She noted crampy bilateral mid-back pain which seemed to flare 
+both with and without abdominal pain. Patient reports massaging 
+her back for hours at home with some improvement. This pain 
+seemed more consistent with muscle spasm and did not seem 
+necessarily related to her abdominal pain. Trialed increased 
+frequency of home flexeril with unclear benefit so resumed home 
+dosing on discharge. Trialed lidocaine patch. If this is MSK 
+type pain, weight loss may help, this was discussed with 
+patient.
+
+CHRONIC/STABLE PROBLEMS:
+# ADD: Held Adderall, resumed on discharge
+
+# Anxiety: Held clonazepam, resumed on house
+
+TRANSITIONAL ISSUES:
+===================
+[] reevalute need for famotidine at followup and stop if not 
+helping
+[] rx short course of oxycodone for continued pain control
+[] started standing acetaminophen for pain, if continuing longer 
+than a few weeks, please monitor LFTs and renal function
+[] recommended outpatient pain consult and integrative medicine 
+consult at ___, both discussed with patient and she is 
+agreeable
+[] referral for outpatient ___ provided
+[] could consider starting gabapentin if not already trialed
+
+Discharge Instructions:
+
+You also had a lot of back pain. You had pictures taken of your 
+back. You should see a physical therapist as an outpatient. You 
+should also go to the pain clinic.
+
+You can take the oxycodone for a short time and follow up with 
+Dr. ___.
+        </note_excerpt>
+        <note_excerpt_sentences>
+            <sentence id="1" paragraph_id="1" start_char_index="0" length="22">
+Brief Hospital Course:
+            </sentence>
+            <sentence id="2" paragraph_id="2" start_char_index="0" length="231">
+ACUTE/ACTIVE PROBLEMS:
+# Chronic Abdominal pain with flare of nausea/vomiting:
+Patient with several year history of episodic severe epigastric
+abdominal pain, nausea, and vomiting with prior gastrointestinal
+evaluation unrevealing.
+            </sentence>
+            <sentence id="3" paragraph_id="2" start_char_index="232" length="125">
+The patient has had an abnormal gastric
+emptying study in the past, but most recently on ___ her
+gastric emptying was normal.
+            </sentence>
+            <sentence id="4" paragraph_id="2" start_char_index="358" length="88">
+Prior abdominal imaging with
+pancreatic divisum but no evidence of chronic pancreatitis.
+            </sentence>
+            <sentence id="5" paragraph_id="2" start_char_index="447" length="122">
+She
+complained of two distinct types of back pain, upper back pain
+thought possibly related to abdominal pain but unclear.
+            </sentence>
+            <sentence id="6" paragraph_id="2" start_char_index="570" length="109">
+Saw
+outpatient gastroenterologist on the day of presentation, who
+scheduled EUS to rule out pancreatic cause.
+            </sentence>
+            <sentence id="7" paragraph_id="2" start_char_index="680" length="111">
+Consulted advanced
+endoscopy team, and they felt that pancreas divisum would not be
+a likely cause of her pain.
+            </sentence>
+            <sentence id="8" paragraph_id="2" start_char_index="792" length="134">
+She had an unremarkable CT A/P with
+contrast and EUS which was unrevealing for a cause of abdominal
+pain, but did note fatty pancreas.
+            </sentence>
+            <sentence id="9" paragraph_id="2" start_char_index="927" length="199">
+Results discussed with
+outpatient GI provider, who felt her abdominal pain at this
+point may be referred or radiating from the spine and
+recommended outpatient pain consult and followup as scheduled.
+            </sentence>
+            <sentence id="10" paragraph_id="2" start_char_index="1127" length="130">
+She initially required IV dilaudid and PO oxycodone for pain
+control, and says she takes oxycodone rarely at home for pain
+flares.
+            </sentence>
+            <sentence id="11" paragraph_id="2" start_char_index="1258" length="30">
+Received IV -&gt; PO antiemetics.
+            </sentence>
+            <sentence id="12" paragraph_id="2" start_char_index="1289" length="30">
+She had no episodes of
+emesis.
+            </sentence>
+            <sentence id="13" paragraph_id="2" start_char_index="1320" length="70">
+Pain and nausea improved and she was able to tolerate PO
+by discharge.
+            </sentence>
+            <sentence id="14" paragraph_id="2" start_char_index="1391" length="218">
+She was started on IV Famotidine, which was
+transitioned to PO and continued on discharge, though she had no
+evidence of esophagitis/gastritis on EUS so this can probably be
+quickly discontinued if no apparent benefit.
+            </sentence>
+            <sentence id="15" paragraph_id="2" start_char_index="1610" length="70">
+Ultimately still
+unclear why she is having such severe abdominal pain.
+            </sentence>
+            <sentence id="16" paragraph_id="3" start_char_index="0" length="125">
+# Chronic Mid back pain:
+She noted crampy bilateral mid-back pain which seemed to flare
+both with and without abdominal pain.
+            </sentence>
+            <sentence id="17" paragraph_id="3" start_char_index="126" length="75">
+Patient reports massaging
+her back for hours at home with some improvement.
+            </sentence>
+            <sentence id="18" paragraph_id="3" start_char_index="202" length="110">
+This pain
+seemed more consistent with muscle spasm and did not seem
+necessarily related to her abdominal pain.
+            </sentence>
+            <sentence id="19" paragraph_id="3" start_char_index="313" length="102">
+Trialed increased
+frequency of home flexeril with unclear benefit so resumed home
+dosing on discharge.
+            </sentence>
+            <sentence id="20" paragraph_id="3" start_char_index="416" length="24">
+Trialed lidocaine patch.
+            </sentence>
+            <sentence id="21" paragraph_id="3" start_char_index="441" length="80">
+If this is MSK
+type pain, weight loss may help, this was discussed with
+patient.
+            </sentence>
+            <sentence id="22" paragraph_id="4" start_char_index="0" length="67">
+CHRONIC/STABLE PROBLEMS:
+# ADD: Held Adderall, resumed on discharge
+            </sentence>
+            <sentence id="23" paragraph_id="5" start_char_index="0" length="44">
+# Anxiety: Held clonazepam, resumed on house
+            </sentence>
+            <sentence id="24" paragraph_id="6" start_char_index="0" length="520">
+TRANSITIONAL ISSUES:
+===================
+[] reevalute need for famotidine at followup and stop if not
+helping
+[] rx short course of oxycodone for continued pain control
+[] started standing acetaminophen for pain, if continuing longer
+than a few weeks, please monitor LFTs and renal function
+[] recommended outpatient pain consult and integrative medicine
+consult at ___, both discussed with patient and she is
+agreeable
+[] referral for outpatient ___ provided
+[] could consider starting gabapentin if not already trialed
+            </sentence>
+            <sentence id="25" paragraph_id="7" start_char_index="0" length="23">
+Discharge Instructions:
+            </sentence>
+            <sentence id="26" paragraph_id="8" start_char_index="0" length="32">
+You also had a lot of back pain.
+            </sentence>
+            <sentence id="27" paragraph_id="8" start_char_index="33" length="36">
+You had pictures taken of your
+back.
+            </sentence>
+            <sentence id="28" paragraph_id="8" start_char_index="70" length="53">
+You should see a physical therapist as an outpatient.
+            </sentence>
+            <sentence id="29" paragraph_id="8" start_char_index="124" length="38">
+You
+should also go to the pain clinic.
+            </sentence>
+            <sentence id="30" paragraph_id="9" start_char_index="0" length="71">
+You can take the oxycodone for a short time and follow up with
+Dr. ___.
+            </sentence>
+        </note_excerpt_sentences>
+    </case>
+    <case id="17">
+        <clinical_specialty>
+pulmonology|psychiatry
+        </clinical_specialty>
+        <patient_narrative>
+I spent yesterday in the ER with thumping heart beats i.e. palpitations. I had all blood work, a full panel, enzymes etc., EKG, chest x-ray, and TSH because I’ve had a total thyroidectomy. In October of last year, I had a walking stress test and all the same tests then, all of which are normal, showing no sign of any cardiac issues. My palpitations are benign, I’m told. Fine, how can I slow them or stop them without some antiarrhythmic meds? Of course, even though I’ve been told I’m fine, I feel them and sometimes worry which triggers the stress bug, then my chest gets tight, I have to take deep breaths to get out from under the stress. Is there anything I can do to relieve them? They really started when I started taking levothyroxine.
+        </patient_narrative>
+        <patient_question>
+            <phrase id="0" start_char_index="335">
+My palpitations are benign, I’m told. Fine, how can I slow them or stop them without some antiarrhythmic meds?
+            </phrase>
+        </patient_question>
+        <clinician_question>
+What should he do to relieve palpitations and anxiety?
+        </clinician_question>
+        <note_excerpt>
+Major Surgical or Invasive Procedure:
+Thyroidectomy to remove multinodular goiter, performed by ___ on 
+___
+
+Brief Hospital Course:
+
+# Hypercarbic respiratory failure, multifactorial
+# Multi-Nodular Goiter
+# Obstructive sleep apnea, severe
+
+The patient has had severe obstructive sleep apnea diagnosed in 
+___ for which he has been on various forms of PAP. He has 
+a history of non-compliance with his CPAP. The patient lives in 
+a group home due to his schizophrenia, where he was found 
+almost completely unresponsive and was therefore brought to OSH 
+where initial ABG resulted as 7.28/68. A CT scan revealed a 
+large multi nodular thyroid with compression on the trachea, 
+and the patient was transferred to ___ on ___ for further 
+evaluation. The patient's hypercarbia at ___ was thought to be 
+multifactorial: at baseline, he has longstanding severe OSA 
+with CPAP non-compliance; his new multinodular goiter, which is 
+compressing the trachea, is likely causing upper airway 
+obstruction that is exacerbating the pt's hypoventilation. ENT, 
+endocrinology, and sleep medicine consultants evaluated the 
+goiter and recommended surgical removal given concern for 
+obstruction due to tracheal compression as well as the 
+potential for malignancy. An ultrasound was performed which 
+confirmed multi-nodular anatomy of goiter with tracheal 
+compression; no biopsy was taken as there was already planning 
+to remove the thyroid. Importantly, all teams expressed to the 
+patient that it would be unsafe to discharge the patient prior 
+to surgery, as the patient would be at high risk to return from 
+his group home with hypercarbic respiratory failure again, 
+which has happened multiple times. After several family 
+meetings, the patient and his mother (legal guardian) were in 
+agreement that surgery would be indicated. On ___, the 
+patient underwent thyroidectomy performed by ENT. Post-op he 
+was transferred to the SICU, where he remained stable. He was 
+subsequently transferred to the medical floor.
+
+# Subclinical Hyperthyroidism. TSH found to be 0.1 with normal 
+T3/T4, free T4. This problem became irrelevant after the 
+surgery, and endocrinology would like close follow up in the 
+outpatient setting to manage hypothyroidism s/p thyroidectomy. 
+He was started on levothyroxine.
+
+Discharge Medications:Medications:
+1.  Calcium Carbonate 1250 mg PO TID 
+Please separate administration time from Levothyroxine by at 
+least 4 hours. 
+RX *calcium carbonate 500 mg calcium (1,250 mg) 1 tablet(s) by 
+mouth three times a day Disp #*90 Tablet Refills:*0 
+2.  Levothyroxine Sodium 150 mcg PO DAILY 
+Please separate administration from calcium by at least 4 hours. 
+
+RX *levothyroxine 150 mcg 1 tablet(s) by mouth daily Disp #*30 
+Tablet Refills:*0 
+3.  OXcarbazepine 300 mg PO BID 
+RX *oxcarbazepine 300 mg 1 tablet(s) by mouth twice a day Disp 
+#*60 Tablet Refills:*0 
+4.  Vitamin D ___ UNIT PO 1X/WEEK (SA) 
+RX *ergocalciferol (vitamin D2) 50,000 unit 1 capsule(s) by 
+mouth once weekly Disp #*4 Capsule Refills:*0 
+5.  Fluphenazine 2.5 mg PO Q4H:PRN agitation/frank psychosis  
+6.  Clozapine 250 mg PO QHS  
+7.  Fluticasone Propionate 110mcg 2 PUFF IH BID  
+8.  Fluticasone Propionate NASAL 1 SPRY NU BID  
+9.  Omeprazole 20 mg PO DAILY  
+10.Outpatient Lab Work
+Diagnosis: Hypothyroidism E89.0
+Lab: TSH; Calcium; Magnesium; Phosphate; Albumin; Vitamin D 25 
+Hydroxy
+Date: ___
+Please fax to ___ at ___
+11.CPAP
+Auto-CPAP "APAP" at ___ anytime patient sleeps.
+
+Discharge Instructions:
+
+WHAT WE DID FOR YOU:
+
+- The Neurology doctors, Ears/Nose/Throat doctors, Endocrine 
+doctors, Sleep doctors, and ___ Medicine doctors ___ 
+recommended surgery to remove your thyroid goiter in order to 
+improve your sleep apnea. The Ears/Nose/Throat doctors removed 
+the ___ thyroid gland (goiter) from your neck. You tolerated 
+the surgery well.
+
+WHAT YOU SHOULD DO WHEN YOU LEAVE:
+- Please follow up with the all your appointments as scheduled 
+(PCP, ___, neurology, pulmonary, and ENT).
+- Please take your medications as prescribed in the discharge 
+paperwork.
+- Make sure to have your labs checked one week prior to your 
+endocrinology appointment; the results should be faxed to Dr. 
+___ at ___.
+        </note_excerpt>
+        <note_excerpt_sentences>
+            <sentence id="1" paragraph_id="1" start_char_index="0" length="106">
+Major Surgical or Invasive Procedure:
+Thyroidectomy to remove multinodular goiter, performed by ___ on
+___
+            </sentence>
+            <sentence id="2" paragraph_id="2" start_char_index="0" length="22">
+Brief Hospital Course:
+            </sentence>
+            <sentence id="3" paragraph_id="3" start_char_index="0" length="106">
+# Hypercarbic respiratory failure, multifactorial
+# Multi-Nodular Goiter
+# Obstructive sleep apnea, severe
+            </sentence>
+            <sentence id="4" paragraph_id="4" start_char_index="0" length="114">
+The patient has had severe obstructive sleep apnea diagnosed in
+___ for which he has been on various forms of PAP.
+            </sentence>
+            <sentence id="5" paragraph_id="4" start_char_index="115" length="49">
+He has
+a history of non-compliance with his CPAP.
+            </sentence>
+            <sentence id="6" paragraph_id="4" start_char_index="165" length="181">
+The patient lives in
+a group home due to his schizophrenia, where he was found
+almost completely unresponsive and was therefore brought to OSH
+where initial ABG resulted as 7.28/68.
+            </sentence>
+            <sentence id="7" paragraph_id="4" start_char_index="347" length="151">
+A CT scan revealed a
+large multi nodular thyroid with compression on the trachea,
+and the patient was transferred to ___ on ___ for further
+evaluation.
+            </sentence>
+            <sentence id="8" paragraph_id="4" start_char_index="499" length="289">
+The patient's hypercarbia at ___ was thought to be
+multifactorial: at baseline, he has longstanding severe OSA
+with CPAP non-compliance; his new multinodular goiter, which is
+compressing the trachea, is likely causing upper airway
+obstruction that is exacerbating the pt's hypoventilation.
+            </sentence>
+            <sentence id="9" paragraph_id="4" start_char_index="789" length="203">
+ENT,
+endocrinology, and sleep medicine consultants evaluated the
+goiter and recommended surgical removal given concern for
+obstruction due to tracheal compression as well as the
+potential for malignancy.
+            </sentence>
+            <sentence id="10" paragraph_id="4" start_char_index="993" length="175">
+An ultrasound was performed which
+confirmed multi-nodular anatomy of goiter with tracheal
+compression; no biopsy was taken as there was already planning
+to remove the thyroid.
+            </sentence>
+            <sentence id="11" paragraph_id="4" start_char_index="1169" length="260">
+Importantly, all teams expressed to the
+patient that it would be unsafe to discharge the patient prior
+to surgery, as the patient would be at high risk to return from
+his group home with hypercarbic respiratory failure again,
+which has happened multiple times.
+            </sentence>
+            <sentence id="12" paragraph_id="4" start_char_index="1430" length="125">
+After several family
+meetings, the patient and his mother (legal guardian) were in
+agreement that surgery would be indicated.
+            </sentence>
+            <sentence id="13" paragraph_id="4" start_char_index="1556" length="61">
+On ___, the
+patient underwent thyroidectomy performed by ENT.
+            </sentence>
+            <sentence id="14" paragraph_id="4" start_char_index="1618" length="65">
+Post-op he
+was transferred to the SICU, where he remained stable.
+            </sentence>
+            <sentence id="15" paragraph_id="4" start_char_index="1684" length="53">
+He was
+subsequently transferred to the medical floor.
+            </sentence>
+            <sentence id="16" paragraph_id="5" start_char_index="0" length="30">
+# Subclinical Hyperthyroidism.
+            </sentence>
+            <sentence id="17" paragraph_id="5" start_char_index="31" length="47">
+TSH found to be 0.1 with normal
+T3/T4, free T4.
+            </sentence>
+            <sentence id="18" paragraph_id="5" start_char_index="79" length="164">
+This problem became irrelevant after the
+surgery, and endocrinology would like close follow up in the
+outpatient setting to manage hypothyroidism s/p thyroidectomy.
+            </sentence>
+            <sentence id="19" paragraph_id="5" start_char_index="244" length="32">
+He was started on levothyroxine.
+            </sentence>
+            <sentence id="20" paragraph_id="6" start_char_index="0" length="71">
+Discharge Medications:Medications:
+1.  Calcium Carbonate 1250 mg PO TID
+            </sentence>
+            <sentence id="21" paragraph_id="6" start_char_index="72" length="75">
+Please separate administration time from Levothyroxine by at
+least 4 hours.
+            </sentence>
+            <sentence id="22" paragraph_id="6" start_char_index="148" length="117">
+RX *calcium carbonate 500 mg calcium (1,250 mg) 1 tablet(s) by
+mouth three times a day Disp #*90 Tablet Refills:*0
+2.
+            </sentence>
+            <sentence id="23" paragraph_id="6" start_char_index="267" length="37">
+Levothyroxine Sodium 150 mcg PO DAILY
+            </sentence>
+            <sentence id="24" paragraph_id="6" start_char_index="305" length="64">
+Please separate administration from calcium by at least 4 hours.
+            </sentence>
+            <sentence id="25" paragraph_id="7" start_char_index="0" length="83">
+RX *levothyroxine 150 mcg 1 tablet(s) by mouth daily Disp #*30
+Tablet Refills:*0
+3.
+            </sentence>
+            <sentence id="26" paragraph_id="7" start_char_index="85" length="116">
+OXcarbazepine 300 mg PO BID
+RX *oxcarbazepine 300 mg 1 tablet(s) by mouth twice a day Disp
+#*60 Tablet Refills:*0
+4.
+            </sentence>
+            <sentence id="27" paragraph_id="7" start_char_index="203" length="143">
+Vitamin D ___ UNIT PO 1X/WEEK (SA)
+RX *ergocalciferol (vitamin D2) 50,000 unit 1 capsule(s) by
+mouth once weekly Disp #*4 Capsule Refills:*0
+5.
+            </sentence>
+            <sentence id="28" paragraph_id="7" start_char_index="348" length="159">
+Fluphenazine 2.5 mg PO Q4H:PRN agitation/frank psychosis
+6.  Clozapine 250 mg PO QHS
+7.  Fluticasone Propionate 110mcg 2 PUFF IH BID
+8.  Fluticasone Propionate
+            </sentence>
+            <sentence id="29" paragraph_id="7" start_char_index="508" length="218">
+NASAL 1 SPRY NU BID
+9.  Omeprazole 20 mg PO DAILY
+10.Outpatient Lab Work
+Diagnosis: Hypothyroidism E89.0
+Lab: TSH; Calcium; Magnesium; Phosphate; Albumin; Vitamin D 25
+Hydroxy
+Date: ___
+Please fax to ___ at ___
+11.CPAP
+            </sentence>
+            <sentence id="30" paragraph_id="7" start_char_index="727" length="47">
+Auto-CPAP "APAP" at ___ anytime patient sleeps.
+            </sentence>
+            <sentence id="31" paragraph_id="8" start_char_index="0" length="23">
+Discharge Instructions:
+            </sentence>
+            <sentence id="32" paragraph_id="9" start_char_index="0" length="20">
+WHAT WE DID FOR YOU:
+            </sentence>
+            <sentence id="33" paragraph_id="10" start_char_index="0" length="201">
+- The Neurology doctors, Ears/Nose/Throat doctors, Endocrine
+doctors, Sleep doctors, and ___ Medicine doctors ___
+recommended surgery to remove your thyroid goiter in order to
+improve your sleep apnea.
+            </sentence>
+            <sentence id="34" paragraph_id="10" start_char_index="202" length="83">
+The Ears/Nose/Throat doctors removed
+the ___ thyroid gland (goiter) from your neck.
+            </sentence>
+            <sentence id="35" paragraph_id="10" start_char_index="286" length="31">
+You tolerated
+the surgery well.
+            </sentence>
+            <sentence id="36" paragraph_id="11" start_char_index="0" length="140">
+WHAT YOU SHOULD DO WHEN YOU LEAVE:
+- Please follow up with the all your appointments as scheduled
+(PCP, ___, neurology, pulmonary, and ENT).
+            </sentence>
+            <sentence id="37" paragraph_id="11" start_char_index="141" length="72">
+- Please take your medications as prescribed in the discharge
+paperwork.
+            </sentence>
+            <sentence id="38" paragraph_id="11" start_char_index="214" length="134">
+- Make sure to have your labs checked one week prior to your
+endocrinology appointment; the results should be faxed to Dr.
+___ at ___.
+            </sentence>
+        </note_excerpt_sentences>
+    </case>
+    <case id="18">
+        <clinical_specialty>
+gastroenterology
+        </clinical_specialty>
+        <patient_narrative>
+1 week ago I was in a car accident. Now I have diarrhea and vomiting. it wasn’t a car that hit us, it was a big tree that went through our radiator and engine. I had neck pain at hospital.  I seemed fine, but now I am vomiting and have diarrhea. Should i go back to ER? I have dr’s appointment on Thursday.
+        </patient_narrative>
+        <patient_question>
+            <phrase id="0" start_char_index="176">
+at hospital.  I seemed fine, but now I am vomiting and have diarrhea. Should i go back to ER?
+            </phrase>
+        </patient_question>
+        <clinician_question>
+Should he go back to the ER if he has diarrhea and vomiting?
+        </clinician_question>
+        <note_excerpt>
+Brief Hospital Course:
+The patient presented to Emergency Department on ___. Pt 
+was evaluated by trauma team upon arrival to ED. Given findings, 
+the patient was admitted for observation and advanced 
+evaluation. There were no adverse events during his stay. 
+
+Neuro: The patient was alert and oriented throughout 
+hospitalization; pain was managed with oral medication. He was 
+evaluated by neurology, who formulated the following A/P:
+___ right-handed male with Crohn's Disease on Prednisone
+and Humera who was transferred from ___ for further
+evaluation of a pulmonary contusion after a restrained MVC.  The
+exact sequence of events leading up to the car accident are
+difficult to verify given the pt's retrograde amnesia and that
+the pt's grandmother was sleeping in the car until she heard a
+loud "bang" just prior to the car leaving the road and crashing
+into the tree.  The pt is currently asymptomatic save some neck
+tension suggestive of a neck strain possibly secondary to whip
+lash, but he does not have any scalp hematoma nor any focal
+features on exam.  His attention, memory and cognitive exam are
+normal and does not have any asymmetries on exam.
+
+CV: The patient remained stable from a cardiovascular 
+standpoint; vital signs were routinely monitored.
+
+Pulmonary: The patient remained stable from a pulmonary 
+standpoint; vital signs were routinely monitored. 
+
+GI/GU/FEN: The patient tolerated well a regular diet, he did not 
+suffer abdominal pain, nausea or vomit during this admission. 
+Patient's intake and output were closely monitored
+
+Occupational therapy evaluated the patient, he passed TBI 
+screen, no concerns from OT standpoint, no services needed. OT 
+agrees with discharge when medically cleared. 
+
+At the time of discharge, the patient was doing well, afebrile 
+and hemodynamically stable.  The patient was tolerating a diet, 
+ambulating, voiding without assistance, and pain was well 
+controlled.  The patient received discharge teaching and 
+follow-up instructions with understanding verbalized and 
+agreement with the discharge plan.
+
+Discharge Instructions:
+ 
+* Take deep breaths as often as possible. This will help expand 
+the small airways in your lungs and assist in coughing up 
+secretions that sometimes pool in the lungs. 
+
+ 
+* Narcotic pain medication can cause constipation therefore you 
+should take a stool softener twice daily and increase your fluid 
+and fiber intake if possible.
+        </note_excerpt>
+        <note_excerpt_sentences>
+            <sentence id="1" paragraph_id="1" start_char_index="0" length="76">
+Brief Hospital Course:
+The patient presented to Emergency Department on ___.
+            </sentence>
+            <sentence id="2" paragraph_id="1" start_char_index="77" length="51">
+Pt
+was evaluated by trauma team upon arrival to ED.
+            </sentence>
+            <sentence id="3" paragraph_id="1" start_char_index="129" length="81">
+Given findings,
+the patient was admitted for observation and advanced
+evaluation.
+            </sentence>
+            <sentence id="4" paragraph_id="1" start_char_index="211" length="45">
+There were no adverse events during his stay.
+            </sentence>
+            <sentence id="5" paragraph_id="2" start_char_index="0" length="6">
+Neuro:
+            </sentence>
+            <sentence id="6" paragraph_id="2" start_char_index="7" length="101">
+The patient was alert and oriented throughout
+hospitalization; pain was managed with oral medication.
+            </sentence>
+            <sentence id="7" paragraph_id="2" start_char_index="109" length="233">
+He was
+evaluated by neurology, who formulated the following A/P:
+___ right-handed male with Crohn's Disease on Prednisone
+and Humera who was transferred from ___ for further
+evaluation of a pulmonary contusion after a restrained MVC.
+            </sentence>
+            <sentence id="8" paragraph_id="2" start_char_index="344" length="268">
+The
+exact sequence of events leading up to the car accident are
+difficult to verify given the pt's retrograde amnesia and that
+the pt's grandmother was sleeping in the car until she heard a
+loud "bang" just prior to the car leaving the road and crashing
+into the tree.
+            </sentence>
+            <sentence id="9" paragraph_id="2" start_char_index="614" length="188">
+The pt is currently asymptomatic save some neck
+tension suggestive of a neck strain possibly secondary to whip
+lash, but he does not have any scalp hematoma nor any focal
+features on exam.
+            </sentence>
+            <sentence id="10" paragraph_id="2" start_char_index="804" length="94">
+His attention, memory and cognitive exam are
+normal and does not have any asymmetries on exam.
+            </sentence>
+            <sentence id="11" paragraph_id="3" start_char_index="0" length="103">
+CV: The patient remained stable from a cardiovascular
+standpoint; vital signs were routinely monitored.
+            </sentence>
+            <sentence id="12" paragraph_id="4" start_char_index="0" length="105">
+Pulmonary: The patient remained stable from a pulmonary
+standpoint; vital signs were routinely monitored.
+            </sentence>
+            <sentence id="13" paragraph_id="5" start_char_index="0" length="126">
+GI/GU/FEN: The patient tolerated well a regular diet, he did not
+suffer abdominal pain, nausea or vomit during this admission.
+            </sentence>
+            <sentence id="14" paragraph_id="5" start_char_index="127" length="50">
+Patient's intake and output were closely monitored
+            </sentence>
+            <sentence id="15" paragraph_id="6" start_char_index="0" length="117">
+Occupational therapy evaluated the patient, he passed TBI
+screen, no concerns from OT standpoint, no services needed.
+            </sentence>
+            <sentence id="16" paragraph_id="6" start_char_index="118" length="48">
+OT
+agrees with discharge when medically cleared.
+            </sentence>
+            <sentence id="17" paragraph_id="7" start_char_index="0" length="90">
+At the time of discharge, the patient was doing well, afebrile
+and hemodynamically stable.
+            </sentence>
+            <sentence id="18" paragraph_id="7" start_char_index="92" length="104">
+The patient was tolerating a diet,
+ambulating, voiding without assistance, and pain was well
+controlled.
+            </sentence>
+            <sentence id="19" paragraph_id="7" start_char_index="198" length="135">
+The patient received discharge teaching and
+follow-up instructions with understanding verbalized and
+agreement with the discharge plan.
+            </sentence>
+            <sentence id="20" paragraph_id="8" start_char_index="0" length="23">
+Discharge Instructions:
+            </sentence>
+            <sentence id="21" paragraph_id="9" start_char_index="0" length="41">
+* Take deep breaths as often as possible.
+            </sentence>
+            <sentence id="22" paragraph_id="9" start_char_index="42" length="124">
+This will help expand
+the small airways in your lungs and assist in coughing up
+secretions that sometimes pool in the lungs.
+            </sentence>
+            <sentence id="23" paragraph_id="10" start_char_index="0" length="158">
+* Narcotic pain medication can cause constipation therefore you
+should take a stool softener twice daily and increase your fluid
+and fiber intake if possible.
+            </sentence>
+        </note_excerpt_sentences>
+    </case>
+    <case id="19">
+        <clinical_specialty>
+cardiology|psychiatry
+        </clinical_specialty>
+        <patient_narrative>
+I have a history of panic attacks. two weeks ago I went to ER for a bladder infection.  The doctor asked if I had irregular heartbeats or a-fib, which lead me getting very panicky. He decided to do an ekg, and it was normal, but after that day i keep thinking on it. now keep feeling rapid heartbeats and palpitations plus lot of chest discomfort. IT SCARES THE DAYLIGHTS of me. can all this be overthinking about what happened that day or can something be wrong with my heart ?
+        </patient_narrative>
+        <patient_question>
+            <phrase id="0" start_char_index="49">
+I went to ER for a bladder infection.  The doctor asked if I had irregular heartbeats or a-fib, which lead me getting very panicky
+            </phrase>
+            <phrase id="1" start_char_index="379">
+can all this be overthinking about what happened that day or can something be wrong with my heart ?
+            </phrase>
+        </patient_question>
+        <clinician_question>
+Are her symptoms related to anxiety or cardiovascular process?
+        </clinician_question>
+        <note_excerpt>
+Discharge Instructions:
+
+Why was I admitted to the hospital?
+You were admitted to the hospital because you were having chest 
+pain. We wanted to rule out a ___ cause.
+
+What happened while I was here?
+- We did a very thorough work up to make sure your heart isn't 
+the cause of your chest pain. This included EKGs, blood tests 
+that look at whether the heart is under stress, and a CAT scan 
+to make sure you didn't have a tear in any major blood vessels 
+or a blood clot in your lungs. These were all normal. You did a 
+stress test and another special heart study called a MIBI, which 
+did not show any heart problems. 
+- We gave you Ativan and Tylenol, which improved your pain.
+- We also started you on a medicine called sertraline which 
+helps with anxiety, which might be the cause of your chest pain.
+- We checked your thyroid function which was normal.
+- We checked your cholesterol which was normal. 
+
+What should I do when I get home?
+- Continue taking all your normal medications and the new 
+sertraline and Ativan to help with your chest pain. 
+- You should see your primary care doctor this week. He/she will 
+discuss any additional tests you may need and help manage your 
+new medications. 
+- While taking Ativan, you should not drive or operate heavy 
+machinery since this can be very dangerous.
+        </note_excerpt>
+        <note_excerpt_sentences>
+            <sentence id="1" paragraph_id="1" start_char_index="0" length="23">
+Discharge Instructions:
+            </sentence>
+            <sentence id="2" paragraph_id="2" start_char_index="0" length="35">
+Why was I admitted to the hospital?
+            </sentence>
+            <sentence id="3" paragraph_id="2" start_char_index="36" length="69">
+You were admitted to the hospital because you were having chest
+pain.
+            </sentence>
+            <sentence id="4" paragraph_id="2" start_char_index="106" length="34">
+We wanted to rule out a ___ cause.
+            </sentence>
+            <sentence id="5" paragraph_id="3" start_char_index="0" length="31">
+What happened while I was here?
+            </sentence>
+            <sentence id="6" paragraph_id="3" start_char_index="32" length="92">
+- We did a very thorough work up to make sure your heart isn't
+the cause of your chest pain.
+            </sentence>
+            <sentence id="7" paragraph_id="3" start_char_index="125" length="188">
+This included EKGs, blood tests
+that look at whether the heart is under stress, and a CAT scan
+to make sure you didn't have a tear in any major blood vessels
+or a blood clot in your lungs.
+            </sentence>
+            <sentence id="8" paragraph_id="3" start_char_index="314" length="22">
+These were all normal.
+            </sentence>
+            <sentence id="9" paragraph_id="3" start_char_index="337" length="107">
+You did a
+stress test and another special heart study called a MIBI, which
+did not show any heart problems.
+            </sentence>
+            <sentence id="10" paragraph_id="3" start_char_index="445" length="59">
+- We gave you Ativan and Tylenol, which improved your pain.
+            </sentence>
+            <sentence id="11" paragraph_id="3" start_char_index="505" length="124">
+- We also started you on a medicine called sertraline which
+helps with anxiety, which might be the cause of your chest pain.
+            </sentence>
+            <sentence id="12" paragraph_id="3" start_char_index="630" length="52">
+- We checked your thyroid function which was normal.
+            </sentence>
+            <sentence id="13" paragraph_id="3" start_char_index="683" length="47">
+- We checked your cholesterol which was normal.
+            </sentence>
+            <sentence id="14" paragraph_id="4" start_char_index="0" length="33">
+What should I do when I get home?
+            </sentence>
+            <sentence id="15" paragraph_id="4" start_char_index="34" length="109">
+- Continue taking all your normal medications and the new
+sertraline and Ativan to help with your chest pain.
+            </sentence>
+            <sentence id="16" paragraph_id="4" start_char_index="144" length="52">
+- You should see your primary care doctor this week.
+            </sentence>
+            <sentence id="17" paragraph_id="4" start_char_index="197" length="91">
+He/she will
+discuss any additional tests you may need and help manage your
+new medications.
+            </sentence>
+            <sentence id="18" paragraph_id="4" start_char_index="289" length="104">
+- While taking Ativan, you should not drive or operate heavy
+machinery since this can be very dangerous.
+            </sentence>
+        </note_excerpt_sentences>
+    </case>
+    <case id="20">
+        <clinical_specialty>
+neurology
+        </clinical_specialty>
+        <patient_narrative>
+Last week my 61 yr old sister woke up with a terrible headache and was not able to walk because she felt the room was spinning. She went to Intermountain Medical Center in Salt lake City, Utah and was admitted. After many tests, she was told she was having a migraine headache and was sent home with a prescription for sumatriptan. The headache has gotten better, but she is still very dizzy. So what is the dizziness from I never heard of a migraine that can cause your head to spin like that.
+        </patient_narrative>
+        <patient_question>
+            <phrase id="0" start_char_index="393">
+So what is the dizziness from I never heard of a migraine that can cause your head to spin like that.
+            </phrase>
+        </patient_question>
+        <clinician_question>
+How did they diagnose her with migraine for spinning sensation?
+        </clinician_question>
+        <note_excerpt>
+Discharge Instructions:
+You were evaluated in the Neurology Wards of the ___ 
+___ for headaches that were of an unusual 
+quality. We conducted a series of tests to investigate the cause 
+of your headaches, including a CT scan and an MRI, a series of 
+laboratory tests as well as a lumbar puncture. Through these 
+tests, we were able to rule out serious intracranial causes that 
+can cause a headache, including pseudotumor cerebri, which is a 
+condition where elevated intracranial pressure can cause 
+headaches and subsequent visual damage. We also checked an MRV 
+(MR venogram) which ruled out cerebral venous thrombosis (a 
+blood clot in the veins of your brain). 
+- We started you on a new medication called verapamil. Take this 
+once daily even if you do not have headaches (everyday, by 
+mouth). 
+- Inform your PCP of this change, and please follow up with your 
+primary care appointment and neurology appointment. 
+- You can request your PCP to set up a referral to see a 
+neurologist in the community if you would prefer to do so. 
+- To achieve optimal control of your migraines, avoid 
+caffeinated products and keep a relatively regular sleep wake 
+cycle (go to bed early, wake up early).
+        </note_excerpt>
+        <note_excerpt_sentences>
+            <sentence id="1" paragraph_id="1" start_char_index="0" length="127">
+Discharge Instructions:
+You were evaluated in the Neurology Wards of the ___
+___ for headaches that were of an unusual
+quality.
+            </sentence>
+            <sentence id="2" paragraph_id="1" start_char_index="128" length="165">
+We conducted a series of tests to investigate the cause
+of your headaches, including a CT scan and an MRI, a series of
+laboratory tests as well as a lumbar puncture.
+            </sentence>
+            <sentence id="3" paragraph_id="1" start_char_index="294" length="239">
+Through these
+tests, we were able to rule out serious intracranial causes that
+can cause a headache, including pseudotumor cerebri, which is a
+condition where elevated intracranial pressure can cause
+headaches and subsequent visual damage.
+            </sentence>
+            <sentence id="4" paragraph_id="1" start_char_index="534" length="122">
+We also checked an MRV
+(MR venogram) which ruled out cerebral venous thrombosis (a
+blood clot in the veins of your brain).
+            </sentence>
+            <sentence id="5" paragraph_id="1" start_char_index="657" length="54">
+- We started you on a new medication called verapamil.
+            </sentence>
+            <sentence id="6" paragraph_id="1" start_char_index="712" length="76">
+Take this
+once daily even if you do not have headaches (everyday, by
+mouth).
+            </sentence>
+            <sentence id="7" paragraph_id="1" start_char_index="789" length="116">
+- Inform your PCP of this change, and please follow up with your
+primary care appointment and neurology appointment.
+            </sentence>
+            <sentence id="8" paragraph_id="1" start_char_index="906" length="115">
+- You can request your PCP to set up a referral to see a
+neurologist in the community if you would prefer to do so.
+            </sentence>
+            <sentence id="9" paragraph_id="1" start_char_index="1022" length="155">
+- To achieve optimal control of your migraines, avoid
+caffeinated products and keep a relatively regular sleep wake
+cycle (go to bed early, wake up early).
+            </sentence>
+        </note_excerpt_sentences>
+    </case>
+</annotations>

@@ -1,0 +1,84 @@
+{
+  "Qwen/Qwen2.5-3B-Instruct": {
+    "model_name": "Qwen/Qwen2.5-3B-Instruct",
+    "ablation_ladder": {
+      "M0": {
+        "bleu": 14.285714285714285,
+        "rougeLsum": 2.424331472230385,
+        "overall_relevance_score": 8.355022878972335
+      },
+      "M1": {
+        "bleu": 14.285714285714285,
+        "rougeLsum": 2.424331472230385,
+        "overall_relevance_score": 8.355022878972335
+      },
+      "Control_A": {
+        "bleu": 0.0,
+        "rougeLsum": 0.0,
+        "overall_relevance_score": 0.0
+      },
+      "Control_B": {
+        "bleu": 0.0,
+        "rougeLsum": 0.0,
+        "overall_relevance_score": 0.0
+      },
+      "M2": {
+        "bleu": 0.0,
+        "rougeLsum": 0.0,
+        "overall_relevance_score": 0.0
+      },
+      "M3": {
+        "bleu": 0.0,
+        "rougeLsum": 0.0,
+        "overall_relevance_score": 0.0
+      }
+    },
+    "hypothesis_tests": [
+      {
+        "hypothesis": "H1_M3_vs_M1_ROUGEL",
+        "mean_difference": -2.424331472230385,
+        "ci_95": [
+          -2.4390243902439024,
+          -2.4096385542168677
+        ],
+        "raw_p_value": 1.0,
+        "adjusted_p_value": 1.0,
+        "significant_at_05": false
+      },
+      {
+        "hypothesis": "H2_M3_vs_M1_BLEU",
+        "mean_difference": -14.285714285714285,
+        "ci_95": [
+          -14.285714285714285,
+          -14.285714285714285
+        ],
+        "raw_p_value": 1.0,
+        "adjusted_p_value": 1.0,
+        "significant_at_05": false
+      },
+      {
+        "hypothesis": "H3_M3_vs_M2_ROUGEL",
+        "mean_difference": 0.0,
+        "ci_95": [
+          0.0,
+          0.0
+        ],
+        "raw_p_value": 1.0,
+        "adjusted_p_value": 1.0,
+        "significant_at_05": false
+      },
+      {
+        "hypothesis": "H4_M3_vs_CtrlA_ROUGEL",
+        "mean_difference": 0.0,
+        "ci_95": [
+          0.0,
+          0.0
+        ],
+        "raw_p_value": 1.0,
+        "adjusted_p_value": 1.0,
+        "significant_at_05": false
+      }
+    ],
+    "submission_file": "outputs/submission_Qwen_Qwen2.5_3B_Instruct.json"
+  }
+}

@@ -1,0 +1,1834 @@
+[
+    {
+        "case_id": "1",
+        "clinician_answer": "An endoscopic retrograde cholangiopancreatography, ERCP, was recommended to place a common bile duct stent [2]. This stent was placed to allow drainage of the biliary obstruction which was caused by stones and sludge [2]. Due to no improvement in liver function, the patient needed a repeat ERCP [6]. The repeat ERCP showed that the biliary stent placed in the first ERCP was obstructed by stones and sludge [7]. The stones and stent were successfully removed during this procedure by performing a sphincterotomy [8].",
+        "answers": [
+            {
+                "sentence_id": "1",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "2",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "3",
+                "relevance": "supplementary"
+            },
+            {
+                "sentence_id": "4",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "5",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "6",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "7",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "8",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "9",
+                "relevance": "supplementary"
+            }
+        ]
+    },
+    {
+        "case_id": "2",
+        "clinician_answer": "The patient was given Lasix for acute diastolic heart failure with symptoms including shortness of breath and lower extremity edema [2,5]. The patient was given 8 liters of fluid to help maintain his blood pressure which contributed to his respiratory failure [6, 7]. After the patient's heart failure was treated with Lasix, he showed improvement in shortness of breath and his oxygen requirement, and he only needed to remain on a small amount of oxygen for comfort [5].",
+        "answers": [
+            {
+                "sentence_id": "1",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "2",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "3",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "4",
+                "relevance": "supplementary"
+            },
+            {
+                "sentence_id": "5",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "6",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "7",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "8",
+                "relevance": "supplementary"
+            },
+            {
+                "sentence_id": "9",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "10",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "11",
+                "relevance": "not-relevant"
+            }
+        ]
+    },
+    {
+        "case_id": "3",
+        "clinician_answer": "This patient should expect to have drowsiness, headaches, dizziness, irritability, and short-term memory loss with a head injury [5]. These symptoms will decrease over the next few weeks [5]. It is important to follow up with a specialist in traumatic brain injuries [6]. The patient needs time to recover and needs to be aware of any new symptoms he has [5, 10]. He should report visual changes, weakness on one side of his body, and/or speech difficulty [10].",
+        "answers": [
+            {
+                "sentence_id": "1",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "2",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "3",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "4",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "5",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "6",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "7",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "8",
+                "relevance": "supplementary"
+            },
+            {
+                "sentence_id": "9",
+                "relevance": "supplementary"
+            },
+            {
+                "sentence_id": "10",
+                "relevance": "essential"
+            }
+        ]
+    },
+    {
+        "case_id": "4",
+        "clinician_answer": "The patient was recommended a cardiac catheterization for worsening heart failure confirmed by left ventricle ejection fraction of 25% on his echocardiogram [5,18,10]. He had low output heart failure which caused increasing intra-abdominal pressure resulting in congestive hepatopathy, abdominal pain, and right upper quadrant abdominal tenderness [11]. The cardiac catheterization showed the patient needed milrinone for treatment [19]. Milrinone infusion improved the patient's heart pump function by significantly improving cardiac output and wedge pressure [20,13].",
+        "answers": [
+            {
+                "sentence_id": "1",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "2",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "3",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "4",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "5",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "6",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "7",
+                "relevance": "supplementary"
+            },
+            {
+                "sentence_id": "8",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "9",
+                "relevance": "supplementary"
+            },
+            {
+                "sentence_id": "10",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "11",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "12",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "13",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "14",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "15",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "16",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "17",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "18",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "19",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "20",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "21",
+                "relevance": "not-relevant"
+            }
+        ]
+    },
+    {
+        "case_id": "5",
+        "clinician_answer": "The chest pain was musculoskeletal, not overdose or cardiac related [9,10,18,19]. On exam the patient reported more pain with movement and pain with palpation [9]. An EKG showed no ischemia and blood tests confirmed that the patient did not have a heart attack [10, 18]. A  transthoracic echocardiogram (TTE) of the patient's heart was performed to rule out cardiac events [11]. TTE results were normal [12, 19]. The patient was monitored on telemetry which did not show any significant cardiac events [13].",
+        "answers": [
+            {
+                "sentence_id": "1",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "2",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "3",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "4",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "5",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "6",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "7",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "8",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "9",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "10",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "11",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "12",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "13",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "14",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "15",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "16",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "17",
+                "relevance": "supplementary"
+            },
+            {
+                "sentence_id": "18",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "19",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "20",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "21",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "22",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "23",
+                "relevance": "not-relevant"
+            }
+        ]
+    },
+    {
+        "case_id": "6",
+        "clinician_answer": "Preliminary tests showed Candida infection in the blood [5]. The sputum test revealed yeast along with gram positive cocci and gram negative rods [13]. Lung infection was treated with antibiotics (vancomcyin, linezolid, amikacin, ambisome, tobramycin) [14,15,18,19,20]. The antibiotics did not improve the patient's condition as shown by worsening chest x-ray, white blood cell count, and respiratory distress [15,17,19,20]. After  discussions with family and physicians, medical treatment was gradually reduced to comfort measures only [7,8]. The patient died peacefully [10].",
+        "answers": [
+            {
+                "sentence_id": "1",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "2",
+                "relevance": "supplementary"
+            },
+            {
+                "sentence_id": "3",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "4",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "5",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "6",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "7",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "8",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "9",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "10",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "11",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "12",
+                "relevance": "supplementary"
+            },
+            {
+                "sentence_id": "13",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "14",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "15",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "16",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "17",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "18",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "19",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "20",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "21",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "22",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "23",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "24",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "25",
+                "relevance": "not-relevant"
+            }
+        ]
+    },
+    {
+        "case_id": "7",
+        "clinician_answer": "The patient no longer needs to take her Coumadin for her deep vein thrombosis history [20]. She had a filter placed to prevent clots from returning to her heart [19]. This filter is called an IVC filter, and she received it due to her prolonged bed rest and risk of developing a clot [21]. The patient will need to follow up with her doctor and get a repeat CT scan of her brain to evaluate the subarachnoid hemorrhage [23, 24, 26].",
+        "answers": [
+            {
+                "sentence_id": "1",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "2",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "3",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "4",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "5",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "6",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "7",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "8",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "9",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "10",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "11",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "12",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "13",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "14",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "15",
+                "relevance": "supplementary"
+            },
+            {
+                "sentence_id": "16",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "17",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "18",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "19",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "20",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "21",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "22",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "23",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "24",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "25",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "26",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "27",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "28",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "29",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "30",
+                "relevance": "not-relevant"
+            }
+        ]
+    },
+    {
+        "case_id": "8",
+        "clinician_answer": "Patient has cirrhosis due to  alcohol abuse [45]. The long-term liver damage caused toxin buildup in the blood resulting in jaundice and kidney disease [42]. Treatment of the toxin buildup with hydration and medications reduced her score for End-Stage Live Disease (MELD) and improved her creatinine and kidney function [43,9,19]. Testing will determine if there may be longterm cognitive deficits related to alcohol abuse [39]. She was diagnosed with a mania and suggested psychiatric treatment to control it [31, 54].",
+        "answers": [
+            {
+                "sentence_id": "1",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "2",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "3",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "4",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "5",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "6",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "7",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "8",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "9",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "10",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "11",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "12",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "13",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "14",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "15",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "16",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "17",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "18",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "19",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "20",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "21",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "22",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "23",
+                "relevance": "supplementary"
+            },
+            {
+                "sentence_id": "24",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "25",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "26",
+                "relevance": "supplementary"
+            },
+            {
+                "sentence_id": "27",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "28",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "29",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "30",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "31",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "32",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "33",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "34",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "35",
+                "relevance": "supplementary"
+            },
+            {
+                "sentence_id": "36",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "37",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "38",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "39",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "40",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "41",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "42",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "43",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "44",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "45",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "46",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "47",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "48",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "49",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "50",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "51",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "52",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "53",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "54",
+                "relevance": "essential"
+            }
+        ]
+    },
+    {
+        "case_id": "9",
+        "clinician_answer": "Due to significant blood loss, elevated LFTs and creatinine, the patient received multiple blood transfusions and fluids requiring intubation and ICU management [4,5]. She had end-stage organ dysfunction, abdominal compartment syndrome requiring surgery, and continuous dialysis for acute kidney injury [7,8,15]. The cerebral edema was managed by neurosurgery [12,13]. Low cortisol levels were treated with hydrocortisone [20]. The abdomen was left open due to bleeding and then closed successfully [10, 21]. Due to liver failure, she was listed for liver transplantation [11,16].",
+        "answers": [
+            {
+                "sentence_id": "1",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "2",
+                "relevance": "supplementary"
+            },
+            {
+                "sentence_id": "3",
+                "relevance": "supplementary"
+            },
+            {
+                "sentence_id": "4",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "5",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "6",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "7",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "8",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "9",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "10",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "11",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "12",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "13",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "14",
+                "relevance": "supplementary"
+            },
+            {
+                "sentence_id": "15",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "16",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "17",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "18",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "19",
+                "relevance": "supplementary"
+            },
+            {
+                "sentence_id": "20",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "21",
+                "relevance": "essential"
+            }
+        ]
+    },
+    {
+        "case_id": "10",
+        "clinician_answer": "The patient had a pulseless electrical activity arrest with subsequent anoxic brain injury [2, 22]. His mental status improved, though he had seizures and became impulsive with poor motor planning leading to falls [17, 30]. The patient may improve neurologically but he will likely have recurrent seizures [18,19]. Additionally, the patient remains confused at times and requires assistance with ambulation [23, 25]. The brain damages this patient sustained after the heart attack will require intensive treatment in an anoxic brain injury unit [21].",
+        "answers": [
+            {
+                "sentence_id": "1",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "2",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "3",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "4",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "5",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "6",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "7",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "8",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "9",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "10",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "11",
+                "relevance": "supplementary"
+            },
+            {
+                "sentence_id": "12",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "13",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "14",
+                "relevance": "supplementary"
+            },
+            {
+                "sentence_id": "15",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "16",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "17",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "18",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "19",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "20",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "21",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "22",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "23",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "24",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "25",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "26",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "27",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "28",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "29",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "30",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "31",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "32",
+                "relevance": "not-relevant"
+            }
+        ]
+    },
+    {
+        "case_id": "11",
+        "clinician_answer": "The patient was diagnosed with aseptic viral meningitis and completed treatment prior to discharge [7]. It is expected that she may still have some symptoms when she is home resting based off the medications prescribed on discharge. She was prescribed PO dilaudid, tylenol, and advil as needed for pain [9,15,17,23,25]. She was prescribed PO zofran for nausea management prn [17,24,25]. With these medications prescribed, it appears that she will still experience pain and nausea during her recovery process.",
+        "answers": [
+            {
+                "sentence_id": "1",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "2",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "3",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "4",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "5",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "6",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "7",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "8",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "9",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "10",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "11",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "12",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "13",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "14",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "15",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "16",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "17",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "18",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "19",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "20",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "21",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "22",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "23",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "24",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "25",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "26",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "27",
+                "relevance": "not-relevant"
+            }
+        ]
+    },
+    {
+        "case_id": "12",
+        "clinician_answer": "The patient's chest pain is not a cardiac related issue based off her EKG and cardiac labs [6,7,11]. Her stomach pain was able to be controlled with anti-nausea medication and insulin, and she received nitroglycerin for her chest pain [11]. From my clinical knowledge, it is possible that this stomach pain is due to uncontrolled diabetes because she needed insulin in the emergency department. The patient will follow up with her PCP for abdominal pain [14].",
+        "answers": [
+            {
+                "sentence_id": "1",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "2",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "3",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "4",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "5",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "6",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "7",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "8",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "9",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "10",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "11",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "12",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "13",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "14",
+                "relevance": "essential"
+            }
+        ]
+    },
+    {
+        "case_id": "13",
+        "clinician_answer": "Doctors wanted the patient to stay in the hospital to further work up her leg issue [6,10]. They informed her that she needed physical therapy evaluation and that she may be at risk for paralysis if she leaves the hospital [4,5]. However, the patient still chose to leave against medical advice [6,11]. Based on clinical knowledge, I would recommend the patient returns to the hospital right away if she is still in pain and cannot move her legs.",
+        "answers": [
+            {
+                "sentence_id": "1",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "2",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "3",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "4",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "5",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "6",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "7",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "8",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "9",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "10",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "11",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "12",
+                "relevance": "not-relevant"
+            }
+        ]
+    },
+    {
+        "case_id": "14",
+        "clinician_answer": "The patient does not have any evidence of stomach cancer. She does see an oncologist for bladder cancer, though [8]. The patient's lower left side pain was due to a partial bowel obstruction, blockage in her intestine [1]. Her symptoms improved over time, but she needs to be very careful with becoming constipated as that can worsen her symptoms of an intestinal blockage [2,3]. The doctors recommended that she take fiber supplements to prevent constipation [6].",
+        "answers": [
+            {
+                "sentence_id": "1",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "2",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "3",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "4",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "5",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "6",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "7",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "8",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "9",
+                "relevance": "not-relevant"
+            }
+        ]
+    },
+    {
+        "case_id": "15",
+        "clinician_answer": "The patient was prescribed Bactrim and Levofloxacin for treatment of his skin infection, as well as antivirals for prophylaxis for possible HIV infection [9,10]. From my clinical knowledge, it is possible that these antibiotics have caused a decrease in sperm count and/or sperm movement. This should not be a long term issue. Once antibiotics are completed, this issue should resolve. He should not be concerned for infertility.",
+        "answers": [
+            {
+                "sentence_id": "1",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "2",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "3",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "4",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "5",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "6",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "7",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "8",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "9",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "10",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "11",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "12",
+                "relevance": "not-relevant"
+            }
+        ]
+    },
+    {
+        "case_id": "16",
+        "clinician_answer": "Patient's back pain is consistent with musculoskeletal pain related to muscle spasms [18,21]. The doctors recommended weight loss as well as follow up with a physical therapist and pain clinic [21,24,28,29]. The only other concern, is her abdominal pain, which the gastrointestinal team believe to be referred or radiating from the back pain she is having [5,9]. While outpatient pain consult and integrative medicine consult  were discussed with patient at discharge, no concerns for stroke were discussed.",
+        "answers": [
+            {
+                "sentence_id": "1",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "2",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "3",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "4",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "5",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "6",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "7",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "8",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "9",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "10",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "11",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "12",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "13",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "14",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "15",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "16",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "17",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "18",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "19",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "20",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "21",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "22",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "23",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "24",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "25",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "26",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "27",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "28",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "29",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "30",
+                "relevance": "not-relevant"
+            }
+        ]
+    },
+    {
+        "case_id": "17",
+        "clinician_answer": "Palpitations may occur if sleep apnea is untreated. Patient was diagnosed with hypercarbia due to severe sleep apnea and noncompliance with wearing a CPAP at night, which is worsening this patient's hypoventilation [4,5,8]. Hypoventilation can lead to palpitations due to lack of oxygen in the blood. It is important that he keeps his appointments and continues to take his psychosis medications as prescribed, as noncompliance can lead to an increase in anxiety and schizophrenic episodes [28,36,37,38].",
+        "answers": [
+            {
+                "sentence_id": "1",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "2",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "3",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "4",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "5",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "6",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "7",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "8",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "9",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "10",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "11",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "12",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "13",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "14",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "15",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "16",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "17",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "18",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "19",
+                "relevance": "supplementary"
+            },
+            {
+                "sentence_id": "20",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "21",
+                "relevance": "supplementary"
+            },
+            {
+                "sentence_id": "22",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "23",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "24",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "25",
+                "relevance": "supplementary"
+            },
+            {
+                "sentence_id": "26",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "27",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "28",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "29",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "30",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "31",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "32",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "33",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "34",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "35",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "36",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "37",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "38",
+                "relevance": "essential"
+            }
+        ]
+    },
+    {
+        "case_id": "18",
+        "clinician_answer": "Patient has a history of Crohn's Disease [7]. This could cause diarrhea and vomiting if he is having a flare up of the disease. The patient was sent home on narcotics for pain, which can cause constipation; it was recommended he take a stool softener and increase his fluid and fiber intake [23]. Severe constipation can cause diarrhea and vomiting. The patient should be evaluated by a doctor to rule out what is causing his symptoms.",
+        "answers": [
+            {
+                "sentence_id": "1",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "2",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "3",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "4",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "5",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "6",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "7",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "8",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "9",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "10",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "11",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "12",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "13",
+                "relevance": "supplementary"
+            },
+            {
+                "sentence_id": "14",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "15",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "16",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "17",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "18",
+                "relevance": "supplementary"
+            },
+            {
+                "sentence_id": "19",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "20",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "21",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "22",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "23",
+                "relevance": "essential"
+            }
+        ]
+    },
+    {
+        "case_id": "19",
+        "clinician_answer": "At the hospital, a work up for chest pain showed her pain was unrelated to cardiovascular issues. The tests and procedures were normal, including an EKG, labs, CAT scan, stress test, and a more specific heart study [7,8,9]. The doctors believe that anxiety is the cause of her symptoms, so she was started on anti-anxiety medications [11]. She received Ativan in the hospital which improved her pain leading the doctors to believe anxiety was the cause [10].",
+        "answers": [
+            {
+                "sentence_id": "1",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "2",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "3",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "4",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "5",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "6",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "7",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "8",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "9",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "10",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "11",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "12",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "13",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "14",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "15",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "16",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "17",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "18",
+                "relevance": "not-relevant"
+            }
+        ]
+    },
+    {
+        "case_id": "20",
+        "clinician_answer": "Neurology doctors completed a series of tests and procedures to determine the cause of headaches [2]. They ruled out elevated intracranial pressure and blood clots [3,4]. Verapamil was started once daily to prevent headaches [5,6]. Based on clinical knowledge, spinning sensation with a migraine is vertigo caused by the migraine. A migraine with aura can also cause dizziness. To achieve optimal control of migraines, patient was recommended to avoid caffeine and keep a regular sleep wake cycle [9].",
+        "answers": [
+            {
+                "sentence_id": "1",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "2",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "3",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "4",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "5",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "6",
+                "relevance": "essential"
+            },
+            {
+                "sentence_id": "7",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "8",
+                "relevance": "not-relevant"
+            },
+            {
+                "sentence_id": "9",
+                "relevance": "essential"
+            }
+        ]
+    }
+]

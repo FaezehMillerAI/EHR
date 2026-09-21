@@ -1,0 +1,502 @@
+[
+    {
+        "case_id": "21",
+        "document_id": "118823_53985",
+        "document_source": "mimic-iii"
+    },
+    {
+        "case_id": "22",
+        "document_id": "178692_38870",
+        "document_source": "mimic-iii"
+    },
+    {
+        "case_id": "23",
+        "document_id": "171470_26864",
+        "document_source": "mimic-iii"
+    },
+    {
+        "case_id": "24",
+        "document_id": "116133_19351",
+        "document_source": "mimic-iii"
+    },
+    {
+        "case_id": "25",
+        "document_id": "169288_4061",
+        "document_source": "mimic-iii"
+    },
+    {
+        "case_id": "26",
+        "document_id": "193593_40785",
+        "document_source": "mimic-iii"
+    },
+    {
+        "case_id": "27",
+        "document_id": "174037_36155",
+        "document_source": "mimic-iii"
+    },
+    {
+        "case_id": "28",
+        "document_id": "144951_40697",
+        "document_source": "mimic-iii"
+    },
+    {
+        "case_id": "29",
+        "document_id": "183594_48190",
+        "document_source": "mimic-iii"
+    },
+    {
+        "case_id": "30",
+        "document_id": "131490_48191",
+        "document_source": "mimic-iii"
+    },
+    {
+        "case_id": "31",
+        "document_id": "127074_29166",
+        "document_source": "mimic-iii"
+    },
+    {
+        "case_id": "32",
+        "document_id": "189517_50025",
+        "document_source": "mimic-iii"
+    },
+    {
+        "case_id": "33",
+        "document_id": "185693_19792",
+        "document_source": "mimic-iii"
+    },
+    {
+        "case_id": "34",
+        "document_id": "108099_52765",
+        "document_source": "mimic-iii"
+    },
+    {
+        "case_id": "35",
+        "document_id": "191494_2714",
+        "document_source": "mimic-iii"
+    },
+    {
+        "case_id": "36",
+        "document_id": "192073_36576",
+        "document_source": "mimic-iii"
+    },
+    {
+        "case_id": "37",
+        "document_id": "167960_15291",
+        "document_source": "mimic-iii"
+    },
+    {
+        "case_id": "38",
+        "document_id": "124819_34986",
+        "document_source": "mimic-iii"
+    },
+    {
+        "case_id": "39",
+        "document_id": "138213_47453",
+        "document_source": "mimic-iii"
+    },
+    {
+        "case_id": "40",
+        "document_id": "21210862",
+        "document_source": "mimic-iv"
+    },
+    {
+        "case_id": "41",
+        "document_id": "20864453",
+        "document_source": "mimic-iv"
+    },
+    {
+        "case_id": "42",
+        "document_id": "25318176",
+        "document_source": "mimic-iv"
+    },
+    {
+        "case_id": "43",
+        "document_id": "24532365",
+        "document_source": "mimic-iv"
+    },
+    {
+        "case_id": "44",
+        "document_id": "21879924",
+        "document_source": "mimic-iv"
+    },
+    {
+        "case_id": "45",
+        "document_id": "27347833",
+        "document_source": "mimic-iv"
+    },
+    {
+        "case_id": "46",
+        "document_id": "21039000",
+        "document_source": "mimic-iv"
+    },
+    {
+        "case_id": "47",
+        "document_id": "21576802",
+        "document_source": "mimic-iv"
+    },
+    {
+        "case_id": "48",
+        "document_id": "27436277",
+        "document_source": "mimic-iv"
+    },
+    {
+        "case_id": "49",
+        "document_id": "20050136",
+        "document_source": "mimic-iv"
+    },
+    {
+        "case_id": "50",
+        "document_id": "24632452",
+        "document_source": "mimic-iv"
+    },
+    {
+        "case_id": "51",
+        "document_id": "23494296",
+        "document_source": "mimic-iv"
+    },
+    {
+        "case_id": "52",
+        "document_id": "23631333",
+        "document_source": "mimic-iv"
+    },
+    {
+        "case_id": "53",
+        "document_id": "27480848",
+        "document_source": "mimic-iv"
+    },
+    {
+        "case_id": "54",
+        "document_id": "23097189",
+        "document_source": "mimic-iv"
+    },
+    {
+        "case_id": "55",
+        "document_id": "29722610",
+        "document_source": "mimic-iv"
+    },
+    {
+        "case_id": "56",
+        "document_id": "27674496",
+        "document_source": "mimic-iv"
+    },
+    {
+        "case_id": "57",
+        "document_id": "20012654",
+        "document_source": "mimic-iv"
+    },
+    {
+        "case_id": "58",
+        "document_id": "23100393",
+        "document_source": "mimic-iv"
+    },
+    {
+        "case_id": "59",
+        "document_id": "29788101",
+        "document_source": "mimic-iv"
+    },
+    {
+        "case_id": "60",
+        "document_id": "195565_1378",
+        "document_source": "mimic-iii"
+    },
+    {
+        "case_id": "61",
+        "document_id": "142743_4883",
+        "document_source": "mimic-iii"
+    },
+    {
+        "case_id": "62",
+        "document_id": "107331_26764",
+        "document_source": "mimic-iii"
+    },
+    {
+        "case_id": "63",
+        "document_id": "111000_16862",
+        "document_source": "mimic-iii"
+    },
+    {
+        "case_id": "64",
+        "document_id": "146491_35185",
+        "document_source": "mimic-iii"
+    },
+    {
+        "case_id": "65",
+        "document_id": "147511_25819",
+        "document_source": "mimic-iii"
+    },
+    {
+        "case_id": "66",
+        "document_id": "170553_37519",
+        "document_source": "mimic-iii"
+    },
+    {
+        "case_id": "67",
+        "document_id": "176192_24484",
+        "document_source": "mimic-iii"
+    },
+    {
+        "case_id": "68",
+        "document_id": "107215_4458",
+        "document_source": "mimic-iii"
+    },
+    {
+        "case_id": "69",
+        "document_id": "141363_35511",
+        "document_source": "mimic-iii"
+    },
+    {
+        "case_id": "70",
+        "document_id": "184846_28431",
+        "document_source": "mimic-iii"
+    },
+    {
+        "case_id": "71",
+        "document_id": "181169_49943",
+        "document_source": "mimic-iii"
+    },
+    {
+        "case_id": "72",
+        "document_id": "132634_47959",
+        "document_source": "mimic-iii"
+    },
+    {
+        "case_id": "73",
+        "document_id": "128041_37000",
+        "document_source": "mimic-iii"
+    },
+    {
+        "case_id": "74",
+        "document_id": "175601_32678",
+        "document_source": "mimic-iii"
+    },
+    {
+        "case_id": "75",
+        "document_id": "122692_49484",
+        "document_source": "mimic-iii"
+    },
+    {
+        "case_id": "76",
+        "document_id": "136980_44231",
+        "document_source": "mimic-iii"
+    },
+    {
+        "case_id": "77",
+        "document_id": "154394_13638",
+        "document_source": "mimic-iii"
+    },
+    {
+        "case_id": "78",
+        "document_id": "100754_7659",
+        "document_source": "mimic-iii"
+    },
+    {
+        "case_id": "79",
+        "document_id": "111341_7805",
+        "document_source": "mimic-iii"
+    },
+    {
+        "case_id": "80",
+        "document_id": "179427_45099",
+        "document_source": "mimic-iii"
+    },
+    {
+        "case_id": "81",
+        "document_id": "142177_45155",
+        "document_source": "mimic-iii"
+    },
+    {
+        "case_id": "82",
+        "document_id": "166501_38671",
+        "document_source": "mimic-iii"
+    },
+    {
+        "case_id": "83",
+        "document_id": "114298_28383",
+        "document_source": "mimic-iii"
+    },
+    {
+        "case_id": "84",
+        "document_id": "128941_29921",
+        "document_source": "mimic-iii"
+    },
+    {
+        "case_id": "85",
+        "document_id": "107678_26693",
+        "document_source": "mimic-iii"
+    },
+    {
+        "case_id": "86",
+        "document_id": "187555_27913",
+        "document_source": "mimic-iii"
+    },
+    {
+        "case_id": "87",
+        "document_id": "170240_37317",
+        "document_source": "mimic-iii"
+    },
+    {
+        "case_id": "88",
+        "document_id": "113265_39670",
+        "document_source": "mimic-iii"
+    },
+    {
+        "case_id": "89",
+        "document_id": "184996_38578",
+        "document_source": "mimic-iii"
+    },
+    {
+        "case_id": "90",
+        "document_id": "141309_38819",
+        "document_source": "mimic-iii"
+    },
+    {
+        "case_id": "91",
+        "document_id": "165271_2541",
+        "document_source": "mimic-iii"
+    },
+    {
+        "case_id": "92",
+        "document_id": "158581_54745",
+        "document_source": "mimic-iii"
+    },
+    {
+        "case_id": "93",
+        "document_id": "191300_13071",
+        "document_source": "mimic-iii"
+    },
+    {
+        "case_id": "94",
+        "document_id": "128953_30212",
+        "document_source": "mimic-iii"
+    },
+    {
+        "case_id": "95",
+        "document_id": "110007_29560",
+        "document_source": "mimic-iii"
+    },
+    {
+        "case_id": "96",
+        "document_id": "168643_42024",
+        "document_source": "mimic-iii"
+    },
+    {
+        "case_id": "97",
+        "document_id": "108728_2004",
+        "document_source": "mimic-iii"
+    },
+    {
+        "case_id": "98",
+        "document_id": "123550_2946",
+        "document_source": "mimic-iii"
+    },
+    {
+        "case_id": "99",
+        "document_id": "101933_24999",
+        "document_source": "mimic-iii"
+    },
+    {
+        "case_id": "100",
+        "document_id": "108509_41287",
+        "document_source": "mimic-iii"
+    },
+    {
+        "case_id": "101",
+        "document_id": "145084_8414",
+        "document_source": "mimic-iii"
+    },
+    {
+        "case_id": "102",
+        "document_id": "126491_27136",
+        "document_source": "mimic-iii"
+    },
+    {
+        "case_id": "103",
+        "document_id": "127713_44258",
+        "document_source": "mimic-iii"
+    },
+    {
+        "case_id": "104",
+        "document_id": "159025_42457",
+        "document_source": "mimic-iii"
+    },
+    {
+        "case_id": "105",
+        "document_id": "139102_42684",
+        "document_source": "mimic-iii"
+    },
+    {
+        "case_id": "106",
+        "document_id": "114940_2362",
+        "document_source": "mimic-iii"
+    },
+    {
+        "case_id": "107",
+        "document_id": "168967_46955",
+        "document_source": "mimic-iii"
+    },
+    {
+        "case_id": "108",
+        "document_id": "155003_44153",
+        "document_source": "mimic-iii"
+    },
+    {
+        "case_id": "109",
+        "document_id": "120644_228",
+        "document_source": "mimic-iii"
+    },
+    {
+        "case_id": "110",
+        "document_id": "125502_54000",
+        "document_source": "mimic-iii"
+    },
+    {
+        "case_id": "111",
+        "document_id": "136158_32054",
+        "document_source": "mimic-iii"
+    },
+    {
+        "case_id": "112",
+        "document_id": "142820_12706",
+        "document_source": "mimic-iii"
+    },
+    {
+        "case_id": "113",
+        "document_id": "156178_48580",
+        "document_source": "mimic-iii"
+    },
+    {
+        "case_id": "114",
+        "document_id": "153919_50445",
+        "document_source": "mimic-iii"
+    },
+    {
+        "case_id": "115",
+        "document_id": "133499_19865",
+        "document_source": "mimic-iii"
+    },
+    {
+        "case_id": "116",
+        "document_id": "196375_28891",
+        "document_source": "mimic-iii"
+    },
+    {
+        "case_id": "117",
+        "document_id": "146336_37816",
+        "document_source": "mimic-iii"
+    },
+    {
+        "case_id": "118",
+        "document_id": "137430_42607",
+        "document_source": "mimic-iii"
+    },
+    {
+        "case_id": "119",
+        "document_id": "162398_29278",
+        "document_source": "mimic-iii"
+    },
+    {
+        "case_id": "120",
+        "document_id": "156625_40060",
+        "document_source": "mimic-iii"
+    }
+]

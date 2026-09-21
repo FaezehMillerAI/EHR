@@ -1,0 +1,102 @@
+[
+    {
+        "case_id": "1",
+        "document_id": "179164_41762",
+        "document_source": "mimic-iii"
+    },
+    {
+        "case_id": "2",
+        "document_id": "191708_35669",
+        "document_source": "mimic-iii"
+    },
+    {
+        "case_id": "3",
+        "document_id": "132786_42206",
+        "document_source": "mimic-iii"
+    },
+    {
+        "case_id": "4",
+        "document_id": "180932_37135",
+        "document_source": "mimic-iii"
+    },
+    {
+        "case_id": "5",
+        "document_id": "190179_39908",
+        "document_source": "mimic-iii"
+    },
+    {
+        "case_id": "6",
+        "document_id": "104041_30389",
+        "document_source": "mimic-iii"
+    },
+    {
+        "case_id": "7",
+        "document_id": "137866_53960",
+        "document_source": "mimic-iii"
+    },
+    {
+        "case_id": "8",
+        "document_id": "169976_23897",
+        "document_source": "mimic-iii"
+    },
+    {
+        "case_id": "9",
+        "document_id": "139801_38724",
+        "document_source": "mimic-iii"
+    },
+    {
+        "case_id": "10",
+        "document_id": "100035_41331",
+        "document_source": "mimic-iii"
+    },
+    {
+        "case_id": "11",
+        "document_id": "22805349",
+        "document_source": "mimic-iv"
+    },
+    {
+        "case_id": "12",
+        "document_id": "25926743",
+        "document_source": "mimic-iv"
+    },
+    {
+        "case_id": "13",
+        "document_id": "21866822",
+        "document_source": "mimic-iv"
+    },
+    {
+        "case_id": "14",
+        "document_id": "20361094",
+        "document_source": "mimic-iv"
+    },
+    {
+        "case_id": "15",
+        "document_id": "27422858",
+        "document_source": "mimic-iv"
+    },
+    {
+        "case_id": "16",
+        "document_id": "22086761",
+        "document_source": "mimic-iv"
+    },
+    {
+        "case_id": "17",
+        "document_id": "26520572",
+        "document_source": "mimic-iv"
+    },
+    {
+        "case_id": "18",
+        "document_id": "23831520",
+        "document_source": "mimic-iv"
+    },
+    {
+        "case_id": "19",
+        "document_id": "20746225",
+        "document_source": "mimic-iv"
+    },
+    {
+        "case_id": "20",
+        "document_id": "22494097",
+        "document_source": "mimic-iv"
+    }
+]
