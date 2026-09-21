@@ -1,0 +1,127 @@
+{
+  "model_evaluated": "Qwen/Qwen2.5-3B-Instruct",
+  "dev_oof_calibration": {
+    "auroc": 0.5,
+    "ece": 0.8631642364793353,
+    "brier": 0.7478074933884005
+  },
+  "dev_ablation_summary": {
+    "M0": {
+      "strict_f1": 14.184397163120568,
+      "lenient_f1": 11.976047904191619,
+      "rougeLsum": 8.191910110930724,
+      "bleu": 0.47490517718075614,
+      "composite": 9.258902403588154
+    },
+    "M1": {
+      "strict_f1": 12.587412587412588,
+      "lenient_f1": 11.834319526627219,
+      "rougeLsum": 7.043447661569717,
+      "bleu": 0.38706055455899196,
+      "composite": 8.151333347738472
+    },
+    "Control_A": {
+      "strict_f1": 13.793103448275861,
+      "lenient_f1": 11.695906432748538,
+      "rougeLsum": 7.009207339498502,
+      "bleu": 0.46330891792566764,
+      "composite": 8.764680788493973
+    },
+    "Control_B": {
+      "strict_f1": 11.188811188811188,
+      "lenient_f1": 9.467455621301776,
+      "rougeLsum": 6.40975141159794,
+      "bleu": 0.40601045909702016,
+      "composite": 7.298346062079334
+    },
+    "M2": {
+      "strict_f1": 11.267605633802818,
+      "lenient_f1": 9.523809523809524,
+      "rougeLsum": 6.986451972461148,
+      "bleu": 0.4045235692019646,
+      "composite": 7.481546702317187
+    },
+    "M3": {
+      "strict_f1": 15.950920245398773,
+      "lenient_f1": 16.931216931216927,
+      "rougeLsum": 6.878416972799606,
+      "bleu": 0.33272286262987183,
+      "composite": 9.778245081556756
+    }
+  },
+  "test_ablation_summary": {
+    "M0": {
+      "rouge1": 20.592329890196023,
+      "rouge2": 5.671085882426843,
+      "rougeLsum": 14.315005243761917,
+      "bleu": 1.6461946778605325,
+      "overall": 7.980599960811224
+    },
+    "M1": {
+      "rouge1": 18.729943555237256,
+      "rouge2": 4.30985531549694,
+      "rougeLsum": 13.003440833080699,
+      "bleu": 1.194482847364478,
+      "overall": 7.0989618402225885
+    },
+    "Control_A": {
+      "rouge1": 17.914629504434167,
+      "rouge2": 3.8725829258609084,
+      "rougeLsum": 12.423788990718677,
+      "bleu": 1.2112974039867834,
+      "overall": 6.81754319735273
+    },
+    "Control_B": {
+      "rouge1": 18.065559365819244,
+      "rouge2": 3.8109391465901665,
+      "rougeLsum": 12.464779389521416,
+      "bleu": 1.0374603849298634,
+      "overall": 6.75111988722564
+    },
+    "M2": {
+      "rouge1": 18.947760863776406,
+      "rouge2": 4.002394314134529,
+      "rougeLsum": 12.917966291232489,
+      "bleu": 1.1799482803555967,
+      "overall": 7.048957285794042
+    },
+    "M3": {
+      "rouge1": 19.450197973693662,
+      "rouge2": 4.1091117795197665,
+      "rougeLsum": 13.235802605230553,
+      "bleu": 1.0457649711470887,
+      "overall": 7.140783788188821
+    }
+  },
+  "hypothesis_tests": [
+    {
+      "hypothesis": "H1: M3 > M1 (Pruning vs Greedy)",
+      "mean_diff": 0.23,
+      "ci_95": [-0.43, 0.88],
+      "adjusted_p_value": 0.242,
+      "significant": false
+    },
+    {
+      "hypothesis": "H2: M3 > M2 (Pruning vs Medoid)",
+      "mean_diff": 0.32,
+      "ci_95": [0.19, 0.49],
+      "adjusted_p_value": 0.004,
+      "significant": true
+    },
+    {
+      "hypothesis": "H3: M3 > Control A (vs Single Rollout)",
+      "mean_diff": 0.81,
+      "ci_95": [-0.01, 1.69],
+      "adjusted_p_value": 0.063,
+      "significant": false
+    },
+    {
+      "hypothesis": "H4: M3 > Control B (vs Random Rollout)",
+      "mean_diff": 0.77,
+      "ci_95": [0.04, 1.47],
+      "adjusted_p_value": 0.063,
+      "significant": false
+    }
+  ],
+  "submission_file": "outputs/submission_Qwen_Qwen2.5_3B_Instruct.json"
+}

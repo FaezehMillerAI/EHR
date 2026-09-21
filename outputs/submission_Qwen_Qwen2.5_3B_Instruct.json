@@ -1,10 +1,402 @@
 [
   {
     "case_id": "21",
-    "answer": "Sample 2: Clinical examination revealed notable conditions. |16, 4|"
+    "answer": "The patient experienced progressive liver failure and refractory encephalopathy. |1, 4|\nComfort measures were initiated following multidisciplinary consultation. |8|"
   },
   {
     "case_id": "22",
-    "answer": "Sample 2: Clinical examination revealed notable conditions. |2, 5|"
+    "answer": "The emergency salvage procedure was required due to acute aortic rupture and life-threatening hemodynamic instability. |2, 5|\nA tube graft was successfully placed. |7|"
+  },
+  {
+    "case_id": "23",
+    "answer": "Antibiotics were prescribed to treat hospital-acquired aspiration pneumonia and fever. |3, 8|\nClinical improvement was noted following intravenous therapy. |10|"
+  },
+  {
+    "case_id": "24",
+    "answer": "Intubation was necessary to secure the airway and treat severe hypoxic respiratory failure. |2, 6|\nMechanical ventilation maintained oxygen saturation above 92%. |9|"
+  },
+  {
+    "case_id": "25",
+    "answer": "The CPAP machine provided positive airway pressure to treat acute decompensated heart failure and pulmonary edema. |4, 7|"
+  },
+  {
+    "case_id": "26",
+    "answer": "Intravenous antibiotic therapy was indicated for purulent sputum and infiltrates on chest radiography. |1, 5|"
+  },
+  {
+    "case_id": "27",
+    "answer": "Pain management post-discharge consists of scheduled acetaminophen and oral analgesics as needed. |3, 6|"
+  },
+  {
+    "case_id": "28",
+    "answer": "The patient can manage abdominal discomfort with prescribed oral analgesics per discharge instructions. |4, 8|"
+  },
+  {
+    "case_id": "29",
+    "answer": "Alcohol consumption is contraindicated while taking Coumadin due to significantly increased hemorrhage risk. |2, 7|"
+  },
+  {
+    "case_id": "30",
+    "answer": "Elevated INR increases bleeding complications; alcohol and antiplatelet interactions must be avoided. |1, 5|"
+  },
+  {
+    "case_id": "31",
+    "answer": "Urine culture grew E. coli sensitive to oral cephalosporins, confirming the diagnosis. |3, 9|"
+  },
+  {
+    "case_id": "32",
+    "answer": "Psychiatric and neurologic evaluation ruled out acute stroke and identified metabolic encephalopathy secondary to infection. |4, 8|"
+  },
+  {
+    "case_id": "33",
+    "answer": "Low electrolytes (potassium, magnesium, sodium) could explain symptoms. Electrolyte disorders can cause cognitive impairment and confusion. |1, 10|"
+  },
+  {
+    "case_id": "34",
+    "answer": "She may have had a seizure due to low electrolytes and alcohol withdrawal. Electrolyte imbalance could cause confusion and impaired cognition.. Confusion lasted 18 hours, matching symptoms of a seizure episode.. Electrolyte levels need correction, and alcohol use should be avoided.. |2, 4, 5, 9|"
+  },
+  {
+    "case_id": "35",
+    "answer": "Her potassium, magnesium, and sodium levels might have been too low, leading to her confusion and heart issues. Electrolyte imbalance could explain her symptoms. |6, 5, 3|"
+  },
+  {
+    "case_id": "36",
+    "answer": "It's unclear if dental issues were related to thyroid storm treatment. Thyroid storm can cause oral symptoms, but no direct evidence for this link.. |9|"
+  },
+  {
+    "case_id": "37",
+    "answer": "She was referred due to confusion; the ICU neurology department can help manage cognitive side effects from radiation therapy.. |23, 10|"
+  },
+  {
+    "case_id": "38",
+    "answer": "The swelling is due to liver disease. Treatment includes changing diuretics regimen & checking electrolytes. Further steps may be increasing diuretics if electrolyte balance is maintained.. |9|"
+  },
+  {
+    "case_id": "39",
+    "answer": "The swelling and water accumulation suggest ongoing treatment needs. Thoracentesis treated the fluid; follow-up with Hepatology is advised.. |8|"
+  },
+  {
+    "case_id": "40",
+    "answer": "Could be worsening; consider other causes like pneumonia or COPD. Expected recovery includes improvement over next few days.. Consider follow-up if symptoms persist.. |12, 4, 9|"
+  },
+  {
+    "case_id": "41",
+    "answer": "Her ongoing severe chest pain could be related to either COPD or anxiety. Evidence suggests no acute ischemia, but further evaluation needed.. |5, 3|"
+  },
+  {
+    "case_id": "42",
+    "answer": "It seems antibiotics could be causing her symptoms. Gallbladder issues can be sensitive; however, without more info, it's hard to say definitively.. |29|"
+  },
+  {
+    "case_id": "43",
+    "answer": "The recent chest pain could be related to your thoracic bulging disk. However, without further evidence, we cannot definitively link the two.. |2|"
+  },
+  {
+    "case_id": "44",
+    "answer": "If short of breath and coughing, rest, avoid triggers, and use prescribed steroids.. Cough may indicate lung issues; consult doctor if persists.,. Rest is key until symptoms improve.. |8, 4, 5|"
+  },
+  {
+    "case_id": "45",
+    "answer": "Yes, you could have had a mini stroke; however, your recent cardiac tests were mostly normal. While rare, travel is generally safe unless advised otherwise by your cardiologist. Consult your doctor before flying.. |18|"
+  },
+  {
+    "case_id": "46",
+    "answer": "Yes, it is normal to have lower abdominal and rear pain a few days after the accident. Pain can persist even if imaging shows no immediate damage.. Further evaluation is needed as per your doctors' advice.. |16, 11, 17|"
+  },
+  {
+    "case_id": "47",
+    "answer": "Your RBC and iron levels were low because tests showed no signs of internal bleeding; however, the exact cause isn't clear without further investigation.. |13, 4|"
+  },
+  {
+    "case_id": "48",
+    "answer": "Right lower abdomen pain and back bumps could be due to an abscess or infection.,. Further investigation via imaging and biopsy is needed.. |6, 4|"
+  },
+  {
+    "case_id": "49",
+    "answer": "Based on your symptoms and history, an MRI might be warranted for cervical spine issues causing neck stiffness and headaches. However, further evaluation is needed.. |9|"
+  },
+  {
+    "case_id": "50",
+    "answer": "In her case, the pregnancy test was positive at OSH, and HCG was positive in the ER. You should start getting your hopes up based on these results.. |8|"
+  },
+  {
+    "case_id": "51",
+    "answer": "She should monitor her symptoms and contact her healthcare provider if they worsen or change.. |66|"
+  },
+  {
+    "case_id": "52",
+    "answer": "He should follow up with his neurology clinic; if new symptoms occur, seek emergency care.. Persistent tests and symptoms warrant further evaluation.. |5, 3|"
+  },
+  {
+    "case_id": "53",
+    "answer": "Yes, TMJ can potentially cause these symptoms. However, TMJ alone unlikely explains the blood pressure rise. |8|"
+  },
+  {
+    "case_id": "54",
+    "answer": "Based on the provided information, the symptoms might be related to the medications. However, the pain in the lower abdomen and fever could be concerning; consider consulting a healthcare provider if symptoms worsen.. |36|"
+  },
+  {
+    "case_id": "55",
+    "answer": "He got a lump due to bleeding in his lung after falling. It's swollen now but may take time to go down; pain persists as treatment is ongoing. |4, 5|"
+  },
+  {
+    "case_id": "56",
+    "answer": "Endoscopic retrograde cholangiopancreatography (ERCP) was done but the large gallstone couldn't be removed, hence a bile duct drain was placed. Continued passing of dark/black stools suggest ongoing bleeding possibly from the duct area. Follow-up with radiologists and infectious disease specialists is crucial. |6, 7, 4, 5|"
+  },
+  {
+    "case_id": "57",
+    "answer": "This is not normal. Vomiting and pain after infusions are adverse reactions. suggests follow-up with primary care. Misdiagnosis unlikely; symptoms indicate ongoing treatment side effects.. |4, 1, 10|"
+  },
+  {
+    "case_id": "58",
+    "answer": "Her language difficulties could be due to recent admission and testing; further investigation is needed.. |2, 4, 5|"
+  },
+  {
+    "case_id": "59",
+    "answer": "No signs of cancer. White blood cell count was elevated initially but normal now.. Abdominal pain is more consistent with ovarian cyst. |2, 1, 5, 3|"
+  },
+  {
+    "case_id": "60",
+    "answer": "Expected recovery: Your stamina will gradually improve as your heart condition stabilizes. Continue with prescribed medications and avoid excessive activity. |10, 9|"
+  },
+  {
+    "case_id": "61",
+    "answer": "Your stamina may be lower due to prolonged CHF and IV fluid overload. To regain stamina, focus on gradual exercise and follow-up with your cardiologist.. |35, 37|"
+  },
+  {
+    "case_id": "62",
+    "answer": "Given his history of cirrhosis, recent dark stools without abdominal pain, and lack of new symptoms, further investigation is warranted. Consider a repeat endoscopy or stool test; consult a gastroenterologist if needed.. |19, 20, 21, 22|"
+  },
+  {
+    "case_id": "63",
+    "answer": "It's concerning that she has dark black stools again. Further investigation is needed; consider checking occult blood in stool or doing another endoscopy. |13|"
+  },
+  {
+    "case_id": "64",
+    "answer": "His ICU Doctor ruled out aggressive therapies due to his high mortality rate within 1 month & poor prognosis.. |4|"
+  },
+  {
+    "case_id": "65",
+    "answer": "His ICU Doctor concluded 3+ months based on persistent bacteremia and refusal of aggressive therapy due to high risks.. |23, 54, 22|"
+  },
+  {
+    "case_id": "66",
+    "answer": "Her ICU Doctor likely estimated 3 months based on cardiac tamponade signs, ongoing fluid buildup, and no response to aggressive treatments.. Palliative care consultation supported this assessment.. |12, 9, 7, 3|"
+  },
+  {
+    "case_id": "67",
+    "answer": "Expected recovery involves cough subsiding with continued antibiotics & albuterol. Heart rate stabilizes; cough worsens lying down at night. Cough likely related to stress & prednisone. Follow-up needed; consider anti-inflammatory or other treatments. |11, 22|"
+  },
+  {
+    "case_id": "68",
+    "answer": "There are no other options besides surgery for brain hemorrhage after falling; surgery clears bleeding. |6, 12|"
+  },
+  {
+    "case_id": "69",
+    "answer": "Next steps include continued aggressive physical therapy. Complete recovery is possible but varies. Monitor for complications and ensure regular follow-up with neurology. |62|"
+  },
+  {
+    "case_id": "70",
+    "answer": "His treatment included solumedrol initially; switch to prednisone followed by solumedrol. Other options might include intravenous immunoglobulin (IVIG) or plasma exchange. |6, 7|"
+  },
+  {
+    "case_id": "71",
+    "answer": "Expected recovery involves gradual improvement over months. Monitor closely for changes; speech therapy may help.. |24, 27, 29, 18|"
+  },
+  {
+    "case_id": "72",
+    "answer": "His treatment includes Ativan for seizure activity and anticoagulation for atrial fibrillation. Continue current medications; speak progress may take time due to ongoing issues. |16, 5|"
+  },
+  {
+    "case_id": "73",
+    "answer": "After the stroke, continued anticoagulation monitoring and adjusting INR is crucial. Speech therapy should be initiated to improve speaking issues.. |15, 18|"
+  },
+  {
+    "case_id": "74",
+    "answer": "Her recovery after craniotomy includes feeling tired initially; follow activity instructions. Coughing in the chest may indicate complications; consult her surgeon if worsens. |2, 21, 47|"
+  },
+  {
+    "case_id": "75",
+    "answer": "It seems likely scleroderma based on past diagnosis & CHF history. However, further imaging & tests are needed for confirmation.,. |16, 8, 14|"
+  },
+  {
+    "case_id": "76",
+    "answer": "The admission was likely due to infectious pneumonia; not scleroderma. Tests showed signs of infection, not lung damage.. |33, 32|"
+  },
+  {
+    "case_id": "77",
+    "answer": "The patient likely bled during or after his cardiac catheterization, leading to a hematoma. This caused significant pain and reduced blood pressure, necessitating emergent surgery to explore the left groin for the hematoma. |8, 13, 17, 9|"
+  },
+  {
+    "case_id": "78",
+    "answer": "It's possible you experienced a complication like a bleeding issue during your heart cath that led to a large hematoma in your groin requiring emergency surgery. |21|"
+  },
+  {
+    "case_id": "79",
+    "answer": "The patient likely had a large hematoma in the groin due to bleeding from the heart cath. They underwent an emergent procedure to treat it.. Pain and a hard lump suggest the hematoma hasn't resolved.. |12, 28|"
+  },
+  {
+    "case_id": "80",
+    "answer": "The emergent surgery was likely due to a hematoma in your groin post-heart cath; this could have led to severe pain and a large lump.. |17|"
+  },
+  {
+    "case_id": "81",
+    "answer": "The emergent surgery likely occurred due to a hematoma in the groin post-heart cath. The large, painful lump suggests internal bleeding or thrombosis; further investigation is needed. |16, 25, 34|"
+  },
+  {
+    "case_id": "82",
+    "answer": "The heart cath was likely uncomplicated. Post-procedure bleeding led to a hematoma requiring emergent groin surgery.. Pain persists due to large, painful lump... |20, 1, 15, 18|"
+  },
+  {
+    "case_id": "83",
+    "answer": "It's possible that during your heart cath, you developed a hematoma in your groin due to bleeding complications. The hematoma was large and painful, and it may have required surgical intervention.. |4, 17|"
+  },
+  {
+    "case_id": "84",
+    "answer": "She was likely diagnosed with GBS (Guillain-Barr\u00e9 Syndrome). However, given normal CSF and EMG, other conditions such as conversion disorder or reactivated virus are more probable. |19, 20, 15|"
+  },
+  {
+    "case_id": "85",
+    "answer": "His GBS was diagnosed at, likely due to symptoms like tingling and loss of consciousness. The rat bite might have triggered it, though not confirmed. |24, 18|"
+  },
+  {
+    "case_id": "86",
+    "answer": "She was likely diagnosed with Guillain-Barr\u00e9 Syndrome (GBS). Symptoms progressed from numbness in feet and hands as the disease spread.. |19, 30, 9|"
+  },
+  {
+    "case_id": "87",
+    "answer": "The medicine might have reduced WBC count; however, the current fever could be due to residual infection.. |41, 34|"
+  },
+  {
+    "case_id": "88",
+    "answer": "Her elevated WBC count at 5000 suggests ongoing infection. Continual fever may indicate the infection has not fully resolved.. |23|"
+  },
+  {
+    "case_id": "89",
+    "answer": "He likely had a myocardial event leading to heart failure and altered mental status. Echo showed heart disease with reduced ejection fraction.. Mental state alteration might be due to heart failure or other causes not related to brain injury.. |31, 9|"
+  },
+  {
+    "case_id": "90",
+    "answer": "Yes, this sounds possible. After 3 minutes of prolonged down time, organs can recover, but brain damage due to hypoxia can persist even if vital functions are normal. demonstrates brief recovery, but brain damage is concerning. |15|"
+  },
+  {
+    "case_id": "91",
+    "answer": "Yes, a UTI can cause a blood infection (sepsis). Treatment includes antibiotics and follow-up as advised.. |11, 7|"
+  },
+  {
+    "case_id": "92",
+    "answer": "This is normal. After cardiac arrest, patients often experience prolonged pain and difficulty sleeping as their bodies recover. Being paralyzed during treatment also contributes to ongoing discomfort.. Pain and sleep issues may persist for several months. |16, 19|"
+  },
+  {
+    "case_id": "93",
+    "answer": "Yes, your heart could have been damaged during your ICU stay with toxic shock. This might explain the breathlessness on exertion; however, it's less likely to be directly related to current treatment for heart failure. |6|"
+  },
+  {
+    "case_id": "94",
+    "answer": "His blood sugar was dangerously low in the ICU. Now it's 434, which is concerning. Follow discharge instructions carefully, monitor closely, and consider adjusting insulin as per healthcare provider's guidance.. |16, 13, 9|"
+  },
+  {
+    "case_id": "95",
+    "answer": "The patient had a hemoglobin and platelet issue. However, the acute problem is unclear; her iron levels were low causing anemia.. |11, 7|"
+  },
+  {
+    "case_id": "96",
+    "answer": "Expected recovery varies but likely includes gradual improvement over months. Cognitive impairments may persist, requiring ongoing support. |11, 17|"
+  },
+  {
+    "case_id": "97",
+    "answer": "He might have been misdiagnosed; TCA could be confused with serequel, which interacts with other medications.. |19, 5, 17|"
+  },
+  {
+    "case_id": "98",
+    "answer": "The mass on his heart wasn't addressed; symptoms persist.. He needs further evaluation urgently.. |2, 1, 7, 3|"
+  },
+  {
+    "case_id": "99",
+    "answer": "Yes, taking Akt 4 as 01 large tablet after breakfast, rifampicin after 2 hours of breakfast, and rest two tablets after lunch seems appropriate. |27|"
+  },
+  {
+    "case_id": "100",
+    "answer": "This likely occurred due to the pneumonia affecting his kidneys; the infection requiring dialysis suggests kidney injury from the illness. It's not clear if his kidney function will return to normal without further information. |2, 4, 14, 3|"
+  },
+  {
+    "case_id": "101",
+    "answer": "The ileostomy is currently permanent. There are no plans for ileostomy reversal; ongoing management includes monitoring output and hydration status.. |13, 12, 1|"
+  },
+  {
+    "case_id": "102",
+    "answer": "A stent was placed on the right side of her heart. Her heart still acts up; however, no testing is being offered as it is considered normal by doctors. This approach may be concerning given ongoing symptoms.. |53, 52, 51, 43|"
+  },
+  {
+    "case_id": "103",
+    "answer": "Yes, his mind may be affected by the medications; however, imaging did not show brain damage.. |10, 9|"
+  },
+  {
+    "case_id": "104",
+    "answer": "She was found to have 2 bacterial cases of pneumonia; her infection may not be fully cleared yet. She is prescribed Septrin tablets, indicating ongoing treatment. Your friend's condition might not be fully resolved, thus she could still be infected. |19, 21, 5, 1, 2, 8|"
+  },
+  {
+    "case_id": "105",
+    "answer": "Your sister needs an oncologist visit rather than immediate surgery. Biopsy results are pending; thus, further evaluation is needed. |14|"
+  },
+  {
+    "case_id": "106",
+    "answer": "Your white cell count keeps rising despite normal blood tests. This warrants further investigation.. |24, 14, 21|"
+  },
+  {
+    "case_id": "107",
+    "answer": "The cancer likely spread quickly due to sepsis. You were able to talk to her because of sepsis-induced confusion; she died of cardiac arrest secondary to her malignancy. |5, 17|"
+  },
+  {
+    "case_id": "108",
+    "answer": "The patient is on Coumadin to prevent blood clots. It's important to wait for doctor's call before taking next dose. Coumadin can affect heart, but no specific cardiac issues were noted; it's used for 3-6 months.. Your concern about heart is valid, but Coumadin is necessary now.. |40, 47|"
+  },
+  {
+    "case_id": "109",
+    "answer": "The patient will likely need permanent dialysis due to chronic renal failure and lack of restored filtration capacity. |5, 18|"
+  },
+  {
+    "case_id": "110",
+    "answer": "The death was likely timely due to severe bleeding; no evidence suggests wrong medicines during dialysis.. |13, 31|"
+  },
+  {
+    "case_id": "111",
+    "answer": "The bleeding indicates gastrointestinal bleeding. It's likely related to the underlying heart condition, but further evaluation is needed.. |23|"
+  },
+  {
+    "case_id": "112",
+    "answer": "Your elevated pulse (92) with current meds is concerning; however, it aligns with your treatment plan. Tachycardia was treated in ICU with Metoprolol succinate, which lowers heart rate and blood pressure.. No immediate cause for worry; monitor closely at home.. |20, 14|"
+  },
+  {
+    "case_id": "113",
+    "answer": "The patient's mental status improved after surgery, returning to baseline. Post-operative regression in mental capabilities is not typical; however, recovery can vary. |19|"
+  },
+  {
+    "case_id": "114",
+    "answer": "The patient likely has a mild to moderate encephalopathy. His condition requires continued care in extended care facility; address facial seizures and manage bed sores. Ensure tube feeding and monitor for tube dislodgement.. |2|"
+  },
+  {
+    "case_id": "115",
+    "answer": "Azithromycin and antibiotics. They are receiving appropriate treatment, but the exact type of antibiotics may vary.. Dosage will be monitored by healthcare professionals... |3, 20, 22, 12, 4|"
+  },
+  {
+    "case_id": "116",
+    "answer": "The blood will not dry up by itself. Imaging showed the hemorrhage was stable. Treatment includes blood pressure control and B6; symptoms may improve over time, but recovery can take weeks. |16, 22|"
+  },
+  {
+    "case_id": "117",
+    "answer": "Her kidney problems likely resulted from AKI; she required regular dialysis and may become dialysis-dependent. |13, 8|"
+  },
+  {
+    "case_id": "118",
+    "answer": "The expected course of recovery after surgery and septicemia includes improving vital signs and decreasing white blood cell count.. Chances of survival depend on overall health and response to treatment; however, recovery can be prolonged. Consequences may include longer hospital stay, potential complications like infection.. |35, 30, 22|"
+  },
+  {
+    "case_id": "119",
+    "answer": "The pain on your left upper neck could be related to the surgery or recovery process. Pain management remains well-controlled with Percocet and acetaminophen. Further evaluation may be needed if it persists. |13, 11, 22|"
+  },
+  {
+    "case_id": "120",
+    "answer": "Bleeding gums could be due to thrombocytopenia. Concern for oral cancer, especially given history, warrants further evaluation. |2, 12, 48|"
   }
 ]

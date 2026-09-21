@@ -3,43 +3,43 @@
     "model_name": "Qwen/Qwen2.5-3B-Instruct",
     "ablation_ladder": {
       "M0": {
-        "bleu": 14.285714285714285,
-        "rougeLsum": 2.424331472230385,
-        "overall_relevance_score": 8.355022878972335
+        "bleu": 15.285714285714272,
+        "rougeLsum": 2.699717425189134,
+        "overall_relevance_score": 8.992715855451703
       },
       "M1": {
-        "bleu": 14.285714285714285,
-        "rougeLsum": 2.424331472230385,
-        "overall_relevance_score": 8.355022878972335
+        "bleu": 15.285714285714272,
+        "rougeLsum": 2.699717425189134,
+        "overall_relevance_score": 8.992715855451703
       },
       "Control_A": {
-        "bleu": 0.0,
-        "rougeLsum": 0.0,
-        "overall_relevance_score": 0.0
+        "bleu": 1.5714285714285707,
+        "rougeLsum": 0.2750387827366319,
+        "overall_relevance_score": 0.9232336770826013
       },
       "Control_B": {
-        "bleu": 0.0,
-        "rougeLsum": 0.0,
-        "overall_relevance_score": 0.0
+        "bleu": 1.5714285714285707,
+        "rougeLsum": 0.2750387827366319,
+        "overall_relevance_score": 0.9232336770826013
       },
       "M2": {
-        "bleu": 0.0,
-        "rougeLsum": 0.0,
-        "overall_relevance_score": 0.0
+        "bleu": 1.5714285714285707,
+        "rougeLsum": 0.2750387827366319,
+        "overall_relevance_score": 0.9232336770826013
       },
       "M3": {
-        "bleu": 0.0,
-        "rougeLsum": 0.0,
-        "overall_relevance_score": 0.0
+        "bleu": 1.5714285714285707,
+        "rougeLsum": 0.2750387827366319,
+        "overall_relevance_score": 0.9232336770826013
       }
     },
     "hypothesis_tests": [
       {
         "hypothesis": "H1_M3_vs_M1_ROUGEL",
-        "mean_difference": -2.424331472230385,
+        "mean_difference": -2.424678642452502,
         "ci_95": [
-          -2.4390243902439024,
-          -2.4096385542168677
+          -2.634031410159947,
+          -2.2215984161690967
         ],
         "raw_p_value": 1.0,
         "adjusted_p_value": 1.0,
@@ -47,10 +47,10 @@
       },
       {
         "hypothesis": "H2_M3_vs_M1_BLEU",
-        "mean_difference": -14.285714285714285,
+        "mean_difference": -13.71428571428571,
         "ci_95": [
-          -14.285714285714285,
-          -14.285714285714285
+          -14.857142857142849,
+          -12.571428571428564
         ],
         "raw_p_value": 1.0,
         "adjusted_p_value": 1.0,
