@@ -78,19 +78,14 @@ class PipelineConfig:
     def __post_init__(self):
         base_dir = Path(__file__).resolve().parent.parent
         if not (self.data_root / "dev" / "archehr-qa.xml").exists():
-            # Check Kaggle input recursively first
-            kaggle_input = Path("/kaggle/input")
-            found = False
-            if kaggle_input.exists():
-                for xml_file in kaggle_input.glob("**/dev/archehr-qa.xml"):
-                    self.data_root = xml_file.parent.parent.resolve()
-                    found = True
-                    break
-            if not found:
-                for base in [base_dir, Path("."), Path("..")]:
-                    for xml_file in base.glob("**/dev/archehr-qa.xml"):
-                        self.data_root = xml_file.parent.parent.resolve()
-                        found = True
+            search_roots = [Path("/kaggle/input"), base_dir, Path("."), Path("..")]
+            for base in search_roots:
+                if base.exists():
+                    for xml_file in base.rglob("archehr-qa.xml"):
+                        if xml_file.parent.name == "dev":
+                            self.data_root = xml_file.parent.parent.resolve()
+                            break
+                    if (self.data_root / "dev" / "archehr-qa.xml").exists():
                         break
         self.output_dir = (base_dir / "outputs") if not self.output_dir.is_absolute() else self.output_dir
         self.output_dir.mkdir(parents=True, exist_ok=True)
