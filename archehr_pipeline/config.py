@@ -76,21 +76,21 @@ class PipelineConfig:
     compute_dtype: Any = field(default_factory=lambda: (torch.float16 if (_HAS_TORCH and torch.cuda.is_available()) else (torch.float32 if _HAS_TORCH else "float16")))
 
     def __post_init__(self):
-        # Auto-detect data root if not explicitly set or invalid
         base_dir = Path(__file__).resolve().parent.parent
         if not (self.data_root / "dev" / "archehr-qa.xml").exists():
-            candidates = [
-                base_dir / "archehr-qa-a-dataset-for-addressing-patients-information-needs-related-to-clinical-course-of-hospitalization-1.3",
-                Path("./archehr-qa-a-dataset-for-addressing-patients-information-needs-related-to-clinical-course-of-hospitalization-1.3"),
-                Path("../archehr-qa-a-dataset-for-addressing-patients-information-needs-related-to-clinical-course-of-hospitalization-1.3"),
-                Path("/kaggle/input/archehr-qa-a-dataset-for-addressing-patients-information-needs-related-to-clinical-course-of-hospitalization-1-3"),
-                Path("/kaggle/input/archehr-qa"),
-                Path("/content/archehr-qa"),
-                Path("/content/archehr_data"),
-            ]
-            for cand in candidates:
-                if (cand / "dev" / "archehr-qa.xml").exists():
-                    self.data_root = cand.resolve()
+            # Check Kaggle input recursively first
+            kaggle_input = Path("/kaggle/input")
+            found = False
+            if kaggle_input.exists():
+                for xml_file in kaggle_input.glob("**/dev/archehr-qa.xml"):
+                    self.data_root = xml_file.parent.parent.resolve()
+                    found = True
                     break
+            if not found:
+                for base in [base_dir, Path("."), Path("..")]:
+                    for xml_file in base.glob("**/dev/archehr-qa.xml"):
+                        self.data_root = xml_file.parent.parent.resolve()
+                        found = True
+                        break
         self.output_dir = (base_dir / "outputs") if not self.output_dir.is_absolute() else self.output_dir
         self.output_dir.mkdir(parents=True, exist_ok=True)
